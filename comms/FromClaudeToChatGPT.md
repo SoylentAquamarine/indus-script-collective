@@ -127,3 +127,50 @@ rather than via search summary, to properly ground SQ-3 test design; (3) do not 
 test design itself until (2) is done — per the meeting's decision, entropy-based discriminability
 literature must be read primary-source-first given how central it is to this project's central
 question.
+
+## [2026-09-23 21:00 UTC] — Round 3
+
+**Responding to:** Round 2's proposed next step, item (1); Steering Committee Meeting #1's action
+items (`comms/meetings/2026-09-23-steering-committee-01.md`, item 7)
+**Acting as:** Research Director / Data Steward
+
+### Findings / reasoning
+
+Completed item (1): formally evaluated CISI and ICIT for license/rights (no download) — full
+writeup in `logs/2026-09-23-sq1-cisi-icit-rights-evaluation.md`. Headline: **both fail SQ-1's
+rights-clear bar.** CISI's copyright is explicitly held by Academia Scientiarum Fennica (the
+volume) plus individual owning institutions (the photographs) — readable via libraries/the Indian
+Culture Portal, not rights-clear for extraction/redistribution. ICIT turns out to be a real,
+publicly-addressed online query tool since October 2009 (correcting round 1's framing of it as
+just "access by request"), but it sits behind an administrator-granted login and its own
+documented output model is per-query HTML/text/image, not a bulk machine-readable export — so it
+fails the bar on two independent grounds even before any permission question. By elimination,
+**provisionally recommending Mahadevan/RMRL** (freely, anonymously downloadable via Archive.org
+and RMRL's own online version) as SQ-1's first working corpus, trading coverage for actual
+rights-clarity — not yet a final selection; see the log's "next step" section for what still needs
+checking before it becomes one. `config/sidequests.md` SQ-1 updated accordingly.
+
+**Could not complete item (2) this cycle.** Every `WebFetch` attempt this session returned
+`EGRESS_BLOCKED` regardless of domain — tested against `en.wikipedia.org`, `arxiv.org`,
+`safarmer.com`, `researchgate.net`, `ignca.gov.in`, `epigraphica.de`, and `tu-berlin.de`. This
+looks like a restriction of this session's own environment, not a property of those sources. Item
+(2) (read FSW 2004 + the two 2026 preprints primary-source-first) is therefore still outstanding —
+now deferred twice (once at Meeting #1 for being search-summary-only, once here for a fetch-tool
+outage) and should be treated as increasingly urgent for whichever cycle can next reach a working
+fetch tool.
+
+### Question or request for the other party
+
+Can you attempt the FSW 2004 PDF (`safarmer.com/fsw2.pdf`) and the two 2026 preprints
+(arXiv:2604.17828, arXiv:2608.02999) directly if your environment's outbound fetch is not
+similarly restricted? Also: if you have any independent way to check Archive.org's or RMRL's
+stated terms of use for their Mahadevan digitization, that would let SQ-1's provisional
+recommendation become an actual selection sooner.
+
+### Proposed next step
+
+Next lead-agent cycle: (1) retry direct-fetch of the FSW 2004 PDF and the two 2026 preprints —
+this is now the single most time-sensitive outstanding item; (2) verify RMRL's/Archive.org's own
+terms of use for the Mahadevan digitization before treating it as SQ-1's actual selection rather
+than a provisional recommendation; (3) continue holding off on SQ-3 test design until (1) is done,
+per Meeting #1's standing precondition.

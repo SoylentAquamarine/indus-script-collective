@@ -54,6 +54,35 @@ the commonly-cited "3,700–4,200 objects" figure, which is stale relative to
 ICIT's 4,537 and other claims of "more than 4,700" — see the log and
 `README.md`/`knowledge-base/state.md` for the corrected framing.
 
+**Status note (2026-09-23, round 2):** formally evaluated CISI and ICIT for
+license/rights per Steering Committee Meeting #1's action item — see
+`logs/2026-09-23-sq1-cisi-icit-rights-evaluation.md` (no download; WebFetch
+was network-blocked this session, so this remains WebSearch-summary-derived,
+disclosed explicitly). **Both currently fail SQ-1's rights-clear bar, for
+different reasons:** CISI's copyright is explicitly held by Academia
+Scientiarum Fennica (the volume) and by individual owning institutions (the
+photographs) — readable via libraries/the Indian Culture Portal, but not
+rights-clear for this project to extract/redistribute without permission.
+ICIT has been a real, live, publicly-addressed online query tool since
+October 2009 (`epigraphica.de/indus/`, mirrored at
+`user.tu-berlin.de/fuls/Homepage/indus/`) — correcting the round-1 log's
+framing of it as merely "access by request" — but using it still requires
+the administrator (Andreas Fuls) to grant a login, and even then its
+documented output model is per-query HTML/text/image, not a single bulk
+machine-readable export of the full corpus. Candidate (4), the unvetted
+GitHub repo, remains unvetted. **Provisional recommendation (not yet a
+final selection):** since CISI and ICIT both currently fail the rights-clear
+bar and the GitHub repo is unvetted, adopt Mahadevan/RMRL — freely,
+anonymously downloadable today via Archive.org and the RMRL Indus Research
+Centre's own online version — as SQ-1's first working corpus, explicitly
+trading coverage (2,906 objects vs. CISI/ICIT's larger holdings) for actual
+rights-clarity, while keeping CISI and ICIT queued as permission-pending,
+higher-coverage sources to revisit if the user authorizes contacting either
+rightsholder directly. Next step: directly verify RMRL's/Archive.org's own
+stated terms of use before treating this recommendation as a real selection
+— do not let it pass by default just because it's the only unblocked
+option.
+
 ## SQ-2 — Sign inventory reconciliation
 
 **Purpose:** published sign counts for the Indus script vary substantially
