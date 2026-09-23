@@ -1,0 +1,142 @@
+# Decipherment-oriented sidequest queue
+
+Sidequests are bounded, achievable pieces of work. Each must produce a
+reusable artifact, answer a decision, or remove a named blocker. The lead
+agent may reprioritize them, but should record why.
+
+## SQ-1 — Corpus canonicalization (blocking, start here)
+
+**Purpose:** unlike a project with a single already-agreed, machine-readable
+transcription, the Indus script corpus is spread across multiple published
+catalogs using different sign-numbering conventions (the Mahadevan
+concordance is commonly cited as a standard reference — this needs
+primary-source verification before being treated as canonical). This
+sidequest is not optional groundwork — it blocks every other sidequest and
+the entire Statistician/Linguist/Cryptanalyst track.
+
+**Scope:** evaluate candidate digital corpora/catalogs of the Indus script
+(noting that different publications use different sign-numbering
+conventions) for a rights-clear, machine-readable, checksummed source.
+Record, for each candidate: source, license/rights, retrieval method,
+coverage (how many of the commonly-cited ~3,700–4,200 catalogued inscribed
+objects it transcribes, at what completeness — this figure itself needs
+verification, see the Open Questions in `knowledge-base/state.md`), whether
+it preserves reading uncertainty/damage rather than silently resolving it,
+and a checksum once pulled. Do not bulk-download anything without explicit
+user authorization — this is a standing rule across all sibling projects.
+
+**Deliverables:** a source-comparison writeup, a provenance file once a
+source is selected, and a normalization script with a full ambiguity-audit
+trail once normalization begins.
+
+**Stepping-stone value:** nothing downstream (sign frequency, sequence
+structure, held-out tests) is reproducible or falsifiable without this.
+
+**Laptop/worker-node work:** none yet — this stage is source discovery and
+licensing/provenance research, not computation.
+
+## SQ-2 — Sign inventory reconciliation
+
+**Purpose:** published sign counts for the Indus script vary substantially
+by counting methodology, with estimates ranging from under 100 "basic"
+signs to several hundred counting variants and ligatures. This is an open
+cataloging question, not a settled fact, and it affects every downstream
+statistic — entropy, frequency distributions, and the writing-system-type
+tests in SQ-3 all depend on which counting convention is used.
+
+**Scope:** using SQ-1's canonicalized corpus, build a documented,
+checksummed sign inventory with explicit, stated criteria for
+distinct-sign vs. variant/ligature. Record how the choice of criteria
+changes the resulting inventory size, and explicitly test whether
+downstream statistical results (frequency distribution shape, entropy
+estimates) are sensitive to the choice — report sensitivity honestly rather
+than picking whichever count is most convenient for a later claim.
+
+**Deliverables:** checksummed sign inventory table under at least two
+reasonable counting methodologies, extraction/validation script, a
+missing-data report, and a documented sensitivity analysis showing how much
+downstream results shift across counting choices.
+
+**Stepping-stone value:** every other sidequest and every agent's
+statistical claims depend on this. Without it, a claimed corpus statistic
+cannot be trusted to mean the same thing from one analysis to the next.
+
+**Laptop/worker-node work:** parsing, sign/ligature clustering, sensitivity
+sweeps across counting-methodology choices.
+
+## SQ-3 — Writing-system-type discriminant tests
+
+**Purpose:** this project's central open question is not "which language"
+but "does this even encode language at all." A widely-discussed 2004 paper
+by Farmer, Sproat, and Witzel argued for the non-linguistic position and was
+itself controversial and disputed by other scholars — this dispute is live
+and unresolved, and this sidequest is where it gets tested directly rather
+than assumed away in either direction.
+
+**Scope:** using SQ-2's sign inventory, design and run held-out,
+preregistered tests distinguishing full linguistic writing, non-linguistic
+emblematic/notation systems, and numeral/accounting-only hypotheses.
+Compare against appropriate short-text baselines: heraldic/emblem systems,
+tally/accounting notations, and genuine-language inscriptions of comparable
+extreme brevity (matched as closely as possible to the Indus corpus's own
+~5-sign average). Freeze each test's design and decision rule before looking
+at results, the same discipline the sibling projects use for their own
+mechanism tests. Directly engage the Farmer/Sproat/Witzel argument and its
+published critiques as part of this sidequest's literature basis, not as a
+side reading.
+
+**Deliverables:** preregistration per test, held-out scores, comparison
+against typologically appropriate baselines, and a plain-English
+interpretation that states clearly what the evidence does and does not
+settle.
+
+**Stepping-stone value:** answers a genuinely prior question — attempting a
+language-decipherment pipeline before this is settled risks repeating the
+documented failure mode of proposing sentence-level readings from
+inscriptions averaging only ~5 signs, a practice the field broadly considers
+methodologically unsound without much stronger justification than has
+historically been offered.
+
+**Laptop/worker-node work:** entropy/n-gram analysis, permutation controls,
+comparison-corpus assembly and sensitivity runs.
+
+## SQ-4 — Historical recovery benchmark
+
+**Purpose:** learn which analysis methods can actually recover meaning from
+plausible comparator systems (other short-inscription notation or writing
+systems with an independently verified reading) before trusting any method
+on Indus material, which has no known answer key.
+
+**Scope:** assemble a small checksummed panel of comparator material with
+documented, independently verifiable readings — candidates to evaluate
+include other early notation or writing systems of comparable brevity with
+scholarly-consensus readings. Hide the reading from the recovery stage and
+measure how much can be recovered blind, to calibrate how much confidence
+any given method's output actually deserves when later applied to Indus
+material.
+
+**Deliverables:** source manifest and licenses, reproducible recovery
+methodology, blind recovery tasks, accuracy measures, and a record of
+methods that fail.
+
+**Stepping-stone value:** validates or eliminates decipherment techniques
+before they are trusted on a corpus with no known answer key — exactly the
+role the sibling projects' own historical recovery benchmarks played for
+their mechanism candidates.
+
+**Laptop/worker-node work:** corpus preprocessing, transform sweeps,
+candidate scoring, robustness tests.
+
+## Initial priority
+
+Start SQ-1 first — it is a hard blocker. SQ-2 (sign inventory
+reconciliation) should begin as soon as a corpus source is provisionally
+selected, since every downstream statistic depends on it and it is itself
+priority #1 in `config/research-department.md`. SQ-3 (writing-system-type
+tests) is the most consequential sidequest overall and should begin as soon
+as SQ-2's inventory exists — it gates whether any subsequent
+language-specific decipherment attempt (which depends on SQ-3 resolving
+toward "this is linguistic writing") is well-motivated at all. SQ-4 can
+begin in parallel with SQ-1/SQ-2 (comparator-source discovery does not
+depend on the Indus corpus itself being ready) without competing with the
+primary task.
