@@ -36,11 +36,12 @@ this repo has had its own incident).
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1/SQ-2 findings and Meeting #1 handoff)
 - `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
+- `meetings/2026-09-23-steering-committee-01.md` — Meeting #1: reviewed SQ-1/SQ-2 round 1, confirmed FSW non-linguistic hypothesis treated as live, set next actions
 
 ## `data/` — source material
 
@@ -55,11 +56,12 @@ this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (bootstrap: all empty except Open Questions)
+- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (2 Confirmed Findings as of 2026-09-23: FSW 2004 + rebuttal chain, inscription-length stats)
 
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-09-23-sq1-sq2-corpus-and-signcount.md` — first real research cycle: corpus-candidate survey, corpus-size/sign-count/inscription-length verification, FSW 2004 + rebuttal chain, Dravidian-hypothesis literature
 
 ## `methods/`
 

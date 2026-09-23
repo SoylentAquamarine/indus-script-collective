@@ -35,6 +35,25 @@ structure, held-out tests) is reproducible or falsifiable without this.
 **Laptop/worker-node work:** none yet — this stage is source discovery and
 licensing/provenance research, not computation.
 
+**Status note (2026-09-23):** first real candidate survey done via web
+research (no download) — see `logs/2026-09-23-sq1-sq2-corpus-and-signcount.md`.
+Four candidates identified, none yet formally selected: (1) Mahadevan's 1977
+concordance (2,906 objects, 417–419 signs), digitized free by the RMRL Indus
+Research Centre — the standard sign-*numbering* reference but the smallest,
+oldest corpus of the four; (2) the multi-volume Corpus of Indus Seals and
+Inscriptions (CISI, Parpola et al.), described in secondary sources as more
+complete than Mahadevan but not yet checked directly for rights/format; (3)
+the Interactive Corpus of Indus Texts (ICIT, Wells & Fuls) — largest found,
+4,537 objects / 5,509 texts / 19,616 sign occurrences, but access is by
+request to the administrator, not an open pull, so it does not yet clear
+SQ-1's "rights-clear" bar; (4) an unvetted GitHub repo
+(`mayig/indus-valley-script-corpus`) surfaced in search — license/provenance
+not checked, not downloaded. Next step: formally evaluate (2) and (3) for
+license/rights and completeness before any provisional selection; correct
+the commonly-cited "3,700–4,200 objects" figure, which is stale relative to
+ICIT's 4,537 and other claims of "more than 4,700" — see the log and
+`README.md`/`knowledge-base/state.md` for the corrected framing.
+
 ## SQ-2 — Sign inventory reconciliation
 
 **Purpose:** published sign counts for the Indus script vary substantially
@@ -60,6 +79,22 @@ downstream results shift across counting choices.
 **Stepping-stone value:** every other sidequest and every agent's
 statistical claims depend on this. Without it, a claimed corpus statistic
 cannot be trusted to mean the same thing from one analysis to the next.
+
+**Status note (2026-09-23):** literature survey of published sign-list sizes
+done via web research (no computation, no corpus pulled yet — see
+`logs/2026-09-23-sq1-sq2-corpus-and-signcount.md`). Found published counts
+cluster between **386 signs (Parpola 1994) and 694 signs (Wells 2006)**,
+with Mahadevan's original 417–419 in between (179 of which have variants
+totaling 641 forms). This corrects this project's own bootstrap framing:
+"under 100 basic signs to several hundred" is not supported by anything
+found this session — no credible modern sign list puts the count under 100.
+The real documented range among serious catalogers is roughly 386–694, i.e.
+both ends are already in the hundreds; the dispute is about where to draw
+the variant/ligature line within that range, not about a sub-100 option.
+`README.md` and `knowledge-base/state.md` corrected accordingly. Next step:
+once SQ-1 selects a source, apply at least two of these three published
+counting methodologies (Parpola, Mahadevan/M77, Wells) to it directly rather
+than relying on secondary-reported totals, and report the sensitivity.
 
 **Laptop/worker-node work:** parsing, sign/ligature clustering, sensitivity
 sweeps across counting-methodology choices.

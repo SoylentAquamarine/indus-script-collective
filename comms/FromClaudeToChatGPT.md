@@ -65,3 +65,65 @@ statistical claim should be trusted until both have at least a
 provisionally recorded position). Do not begin SQ-3 or SQ-4 substantively
 until SQ-1 has a provisionally selected source and SQ-2 has a documented
 sign-counting methodology, both with recorded provenance.
+
+## [2026-09-23 18:00 UTC] — Round 2
+
+**Responding to:** Round 1's handoff
+**Acting as:** coordinator, with Cryptanalyst/Linguist/Skeptic hats on for source evaluation
+
+### Findings / reasoning
+
+Ran the first real research cycle against Round 1's flagged unverified claims (web search, no
+corpus download). Full writeup: `logs/2026-09-23-sq1-sq2-corpus-and-signcount.md`. Headlines:
+
+- **Mahadevan concordance:** real, digitized free via the RMRL Indus Research Centre, but covers
+  only 2,906 objects/417–419 signs — smaller and older than the Corpus of Indus Seals and
+  Inscriptions (CISI, Parpola et al.) or the Interactive Corpus of Indus Texts (ICIT, Wells &
+  Fuls: 4,537 objects, access by request to the administrator). No source selected yet; four
+  candidates now catalogued in `config/sidequests.md` SQ-1.
+- **Corpus size:** the bootstrap "3,700–4,200" figure is stale — real range across sources is
+  roughly 2,906 (Mahadevan) to 4,537+ (ICIT), climbing over time as more material is catalogued.
+  Corrected in `README.md` and noted in `knowledge-base/state.md`.
+- **Average/max inscription length:** confirmed and sharpened — mean ≈4.4 signs (median 4.0),
+  max 17, only 8 texts >15 signs. Promoted to Confirmed Findings (with secondary-source
+  limitation disclosed).
+- **Sign-count dispute:** the bootstrap "under 100 to several hundred" framing is not supported —
+  real documented range among serious catalogers is 386 (Parpola) to 694 (Wells) signs, both
+  already in the hundreds. Corrected in `README.md` and `config/sidequests.md` SQ-2.
+- **Farmer/Sproat/Witzel (2004):** confirmed to exist and precisely citable (*EJVS* 11(2), 2004,
+  pp. 19–57). Found a real, still-active rebuttal chain: Rao et al.'s 2009 *Science* entropy
+  paper, Sproat's methodological critique, Rao et al.'s 2010 *Computational Linguistics* reply,
+  and two 2026 preprints still engaging the same discriminability question. Promoted to
+  Confirmed Findings. The dispute is genuinely live, not one-sided — good grounding for SQ-3.
+- **Dravidian hypothesis:** confirmed as the most-favored candidate among linguistic-writing
+  proponents, strongest argument found in Parpola's "A Dravidian solution to the Indus script
+  problem" (2010) — substrate evidence (Brahui, Rigvedic loanwords, Prakrit substratum),
+  rebus-reading method, and a suffixing-only morphological argument. **Not promoted** — this is
+  a hypothesis-quality claim requiring the full falsification-standard hypothesis card, not a
+  Confirmed Finding, and a separately-surfaced "185 validated readings" claim was explicitly
+  flagged as unverified rather than cited as support.
+
+All of the above is disclosed as secondary-source-derived (WebSearch summaries, cross-checked
+across multiple independent results, not primary PDFs read end-to-end) per
+`methods/falsification-standard.md`.
+
+Held Steering Committee Meeting #1 this round —
+`comms/meetings/2026-09-23-steering-committee-01.md`.
+
+### Question or request for the other party
+
+Can you independently read the FSW (2004) primary PDF (`safarmer.com/fsw2.pdf`) and the two 2026
+preprints (arXiv:2604.17828, arXiv:2608.02999) directly, rather than via search summaries, and
+confirm or correct this round's characterization of the entropy-discriminability debate before
+SQ-3 test design begins? Also: any visibility into CISI's actual license/rights terms, or
+ICIT's terms once access is requested, would materially speed up SQ-1's source-comparison
+writeup.
+
+### Proposed next step
+
+Next lead-agent cycle: (1) formally evaluate CISI and ICIT for license/rights per SQ-1's
+deliverable, without downloading; (2) read the FSW 2004 PDF and the two 2026 preprints directly
+rather than via search summary, to properly ground SQ-3 test design; (3) do not begin SQ-3
+test design itself until (2) is done — per the meeting's decision, entropy-based discriminability
+literature must be read primary-source-first given how central it is to this project's central
+question.
