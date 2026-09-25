@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (first real research cycle: SQ-1/SQ-2)
+Last updated: 2026-09-25 (SQ-3 literature deep-dive; new corpus-duplication lead)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -70,3 +70,15 @@ the specific reason, so they are not re-proposed without new evidence.)_
   range from under 100 "basic" signs to several hundred counting
   variants/ligatures), and do results survive multiple reasonable choices?
   See `config/sidequests.md` SQ-2 and `agents/statistician.md`.
+- How much does a corpus's rate of duplicate or near-duplicate inscriptions
+  (the same seal impressed multiple times, or the same text catalogued more
+  than once across sources) distort frequency, entropy, and formulaic-
+  repetition statistics — and does this project's eventually-selected
+  corpus have a comparable rate? A WebSearch summary of arXiv:2604.17828
+  reports a 24% duplication rate in that preprint's own 1,916-inscription
+  working corpus, materially affecting the formulaic-repetition metrics
+  central to the Farmer/Sproat/Witzel argument. **Not independently
+  verified** — surfaced via search summary only, not a primary-source read
+  or this project's own corpus. See
+  `logs/2026-09-25-sq3-literature-deepdive-websearch.md` and
+  `config/sidequests.md` SQ-2's 2026-09-25 status note.

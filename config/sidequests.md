@@ -83,6 +83,15 @@ stated terms of use before treating this recommendation as a real selection
 — do not let it pass by default just because it's the only unblocked
 option.
 
+**Status note (2026-09-25):** confirmed via WebSearch that RMRL's Indus Research Centre runs a
+live web application, `IndusScript.in`, providing free access to the corpus/concordance based on
+Mahadevan's 1977 volume — corroborates the provisional recommendation above. **No explicit
+license/terms-of-use text was found via search summaries**; reading RMRL's own site directly to
+confirm terms remains blocked by this session's `WebFetch` restriction (see
+`logs/2026-09-25-sq3-literature-deepdive-websearch.md`, now confirmed across eleven distinct
+domains over two sessions — treat as a durable environment restriction, not worth further blind
+retries). Terms-of-use verification stays open for whichever cycle next has working fetch access.
+
 ## SQ-2 — Sign inventory reconciliation
 
 **Purpose:** published sign counts for the Indus script vary substantially
@@ -127,6 +136,17 @@ than relying on secondary-reported totals, and report the sensitivity.
 
 **Laptop/worker-node work:** parsing, sign/ligature clustering, sensitivity
 sweeps across counting-methodology choices.
+
+**Status note (2026-09-25):** a new, unverified lead surfaced via WebSearch summary of
+arXiv:2604.17828 ("How Non-Linguistic Is the Indus Sign System? A Synthetic-Baseline Scorecard"):
+that preprint's own working corpus (1,916 deduplicated inscriptions, 52 sites) reportedly found a
+**24% duplication rate** in the source material before deduplication, which it states materially
+affects formulaic-repetition metrics. If a similar duplication rate holds in whichever corpus SQ-1
+selects, every downstream frequency/entropy/repetition statistic in SQ-2 and SQ-3 needs an explicit
+dedup-vs-no-dedup sensitivity check, not just a sign-counting-methodology sensitivity check — add
+this as a required sensitivity axis once SQ-1 selects a source. Not yet independently verified —
+see `logs/2026-09-25-sq3-literature-deepdive-websearch.md` for the full disclosure and
+`knowledge-base/state.md` Open Questions for the corresponding entry.
 
 ## SQ-3 — Writing-system-type discriminant tests
 

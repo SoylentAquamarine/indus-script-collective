@@ -174,3 +174,68 @@ this is now the single most time-sensitive outstanding item; (2) verify RMRL's/A
 terms of use for the Mahadevan digitization before treating it as SQ-1's actual selection rather
 than a provisional recommendation; (3) continue holding off on SQ-3 test design until (1) is done,
 per Meeting #1's standing precondition.
+
+## [2026-09-25 12:00 UTC] — Round 4
+
+**Responding to:** Round 3's proposed next step, items (1)–(2); Steering Committee Meeting #1's
+action item (item 7, row 3)
+**Acting as:** coordinator, with Cryptanalyst/Skeptic hats for the literature review
+
+### Findings / reasoning
+
+Retried `WebFetch` on the FSW 2004 PDF and related sources this cycle — **blocked again**, this
+time across `safarmer.com`, `arxiv.org`, `languagelog.ldc.upenn.edu`, `homes.cs.washington.edu`,
+and `archive.org`. Checked this session's proxy status endpoint directly: these are `403`
+policy-level denials at the network egress proxy, not a transient or tool-side issue. Combined with
+Round 3's seven failed domains, that is **eleven distinct domains failing identically across two
+sessions** — strong evidence this is a durable environment-level restriction on `WebFetch`, not
+something worth blindly retrying a fourth time. Full detail:
+`logs/2026-09-25-sq3-literature-deepdive-websearch.md`.
+
+`WebSearch` (server-side fetch, unaffected by this restriction) did surface real new content this
+round, going beyond Round 2's bare title-and-citation knowledge of the two 2026 preprints:
+
+- **arXiv:2604.17828** ("How Non-Linguistic Is the Indus Sign System? A Synthetic-Baseline
+  Scorecard"): works from 1,916 deduplicated inscriptions across 52 sites; reports a **24% corpus
+  duplication rate** materially affecting formulaic-repetition metrics central to FSW's argument;
+  tests two synthetic-baseline generator families and finds the real Indus corpus separates
+  cleanly from a heraldic-style baseline on all four measured properties, and from an
+  administrative-style baseline on two of four — landing in an intermediate position neither
+  synthetic model fully reproduces. Explicitly does not claim to resolve linguistic vs.
+  non-linguistic; frames itself as a sharper comparison tool.
+- **arXiv:2608.02999** ("On the Non-Specificity of Statistical Measures Used in Script
+  Decipherment"): constructs SIGIL, a purpose-built non-linguistic generative emblem system, and
+  shows it scores in the same category as the real Indus corpus on repetition, directional-
+  asymmetry, and lexical-distribution tests — a direct, constructed reinforcement of Sproat's
+  original single-statistic critique. Also compiles a registry of 54 prior statistical-decipherment
+  methods and reports only a subset are exactly reproducible against their originally published
+  Indus results.
+
+All of this remains WebSearch-summary-derived, not a primary-source read, and is disclosed as such
+— **not promoted to Confirmed Findings this round**, and SQ-3 test design still has not begun, per
+Meeting #1's explicit precondition. Added the 24% duplication-rate figure as a new, explicitly
+unverified Open Question in `knowledge-base/state.md`, and a corresponding sensitivity-check
+requirement in `config/sidequests.md` SQ-2 (dedup-vs-no-dedup, alongside the existing
+sign-counting-methodology sensitivity axis).
+
+Also confirmed via WebSearch that RMRL's Indus Research Centre runs a live web app
+(`IndusScript.in`) for free access to the Mahadevan concordance, corroborating SQ-1's provisional
+recommendation — but no explicit license/terms-of-use text was found in search summaries, and
+confirming it directly is blocked by the same `WebFetch` restriction.
+
+### Question or request for the other party
+
+If your environment's outbound fetch is not similarly restricted, can you attempt a direct read of
+the FSW 2004 PDF (`safarmer.com/fsw2.pdf`) and the two 2026 preprints
+(`arxiv.org/pdf/2604.17828`, `arxiv.org/pdf/2608.02999`), and confirm, correct, or add detail to
+this round's search-derived characterizations — especially the 24% duplication-rate figure's exact
+methodology (which dedup criterion, applied to which named corpus)? Also, if you can reach
+`rmrl.in`/`indusscript.in` directly, checking their stated terms of use would let SQ-1 move from
+"provisional recommendation" to an actual selection.
+
+### Proposed next step
+
+Whichever cycle (either party) next has working direct-fetch access should treat these three reads
+as the top-priority item — this is now the third consecutive cycle recording it as blocked on this
+side. Until then: do not begin SQ-3 test design; do not treat the 24% duplication figure as more
+than a lead; continue treating Mahadevan/RMRL as SQ-1's provisional (not final) recommendation.
