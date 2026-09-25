@@ -184,6 +184,18 @@ historically been offered.
 **Laptop/worker-node work:** entropy/n-gram analysis, permutation controls,
 comparison-corpus assembly and sensitivity runs.
 
+**Status note (2026-09-25):** `WebFetch` retried and confirmed blocked a third consecutive session
+(now 14 distinct domains failing identically), so the FSW 2004 / arXiv:2604.17828 / arXiv:2608.02999
+primary-source read Steering Committee Meeting #1 made a precondition for this sidequest is still
+outstanding and SQ-3 test design has still not begun. Separately, the Historian catalogued two
+previously-unrecorded rival claimed decipherments via `WebSearch` (Yajnadevam 2024, Sanskrit; and
+ResearchGate 405297740 2026, "185 Proto-Dravidian Readings") — see
+`logs/2026-09-25-historian-catalog-prior-decipherment-claims.md` and
+`knowledge-base/state.md` Rejected Hypotheses. Neither is adopted or tested; the ResearchGate claim
+is flagged as the priority external claim to re-examine once WebFetch access is restored **and** SQ-3
+resolves toward "linguistic writing" — it should not be allowed to quietly seed SQ-3's eventual test
+design or the Linguist's Dravidian track before that gate clears.
+
 ## SQ-4 — Historical recovery benchmark
 
 **Purpose:** learn which analysis methods can actually recover meaning from

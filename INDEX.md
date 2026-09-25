@@ -36,8 +36,8 @@ this repo has had its own incident).
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1/SQ-2 findings and Meeting #1 handoff)
-- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1/SQ-2 findings and Meeting #1 handoff; Round 3: CISI/ICIT rights evaluation; Round 4: SQ-3 literature deep-dive, WebFetch blocked; Round 5: Historian catalog of two rival claimed decipherments)
+- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty — auditor has not yet responded)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
@@ -56,12 +56,15 @@ this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (2 Confirmed Findings as of 2026-09-23: FSW 2004 + rebuttal chain, inscription-length stats)
+- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (3 Confirmed Findings, 2 catalogued Rejected Hypotheses as of 2026-09-25)
 
 ## `logs/`
 
 - `README.md` — append-only work-log convention
 - `2026-09-23-sq1-sq2-corpus-and-signcount.md` — first real research cycle: corpus-candidate survey, corpus-size/sign-count/inscription-length verification, FSW 2004 + rebuttal chain, Dravidian-hypothesis literature
+- `2026-09-23-sq1-cisi-icit-rights-evaluation.md` — CISI/ICIT license/rights evaluation (both fail rights-clear bar); Mahadevan/RMRL provisional recommendation
+- `2026-09-25-sq3-literature-deepdive-websearch.md` — deeper WebSearch grounding on FSW/Rao/Sproat and the two 2026 preprints; WebFetch confirmed blocked; new corpus-duplication-rate lead
+- `2026-09-25-historian-catalog-prior-decipherment-claims.md` — Historian catalog of two rival claimed decipherments (Yajnadevam 2024 Sanskrit; ResearchGate 2026 "185 Proto-Dravidian Readings"); WebFetch confirmed blocked a third session
 
 ## `methods/`
 

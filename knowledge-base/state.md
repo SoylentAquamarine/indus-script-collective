@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (SQ-3 literature deep-dive; new corpus-duplication lead)
+Last updated: 2026-09-25 (Historian: catalog of two prior/rival claimed decipherments)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -41,15 +41,63 @@ Findings here, since they are ranges reconciled across multiple sources
 rather than a single number with a rerunnable protocol — see
 `config/sidequests.md` SQ-1/SQ-2 status notes and the log above.)_
 
+- **Two specific, precisely-citable claimed Indus decipherments exist and
+  report the following (existence and reported content only — not whether
+  either is correct):** (1) Yajnadevam (November 2024) claims a "proto-
+  abugida" segmental reading of the script as post-Vedic Sanskrit, via a
+  Shannon-cryptogram/regex-constraint method; (2) an unauthored-as-found
+  ResearchGate publication (405297740, dated 2026-05-27), "A Computational
+  Decipherment Hypothesis for the Indus Script: 185 Proto-Dravidian Readings
+  Validated Across Two Independent Corpora," claims 185 Proto-Dravidian
+  phonetic readings covering 92.8% of a named seal corpus's tokens, reports
+  six stated validation tests (anchored bigram discrimination, cross-corpus
+  replication on Mahadevan 1977, 80% agreement with 20 of Parpola's 1994
+  iconographic-rebus proposals, 4.11-bit reading-level conditional entropy,
+  97.7% inscription uniqueness, 76% Proto-Dravidian phonological-inventory
+  coverage), and reports rejecting the Yajnadevam Sanskrit hypothesis
+  (0/34 agreement). **Provenance/limitation:** identified and characterized
+  via `WebSearch` result summaries only — `WebFetch` to either primary
+  source was attempted and blocked (`EGRESS_BLOCKED`, third consecutive
+  session with this failure mode), so neither paper has been read directly,
+  author/venue/peer-review status for the ResearchGate publication could not
+  be recovered, and none of the reported numbers have been independently
+  reproduced by this project. See
+  `logs/2026-09-25-historian-catalog-prior-decipherment-claims.md`.
+
 ## Active Hypotheses
 
 _(none yet)_
 
 ## Rejected Hypotheses
 
-_(none yet — bootstrap state. As the Historian catalogues prior public
-decipherment claims, refuted or unconfirmed ones will be logged here with
-the specific reason, so they are not re-proposed without new evidence.)_
+_(Note: "rejected" here follows this section's original intent — prior
+public decipherment claims catalogued by the Historian, not necessarily
+independently tested and refuted by this project itself. Each entry states
+plainly whether this project disproved it or is only recording why it does
+not yet meet this project's promotion bar.)_
+
+- **Yajnadevam (2024) — Sanskrit/"proto-abugida" reading.** Catalogued,
+  **not independently tested by this project**. Per secondary interpretive
+  sources, Sanskrit functions as a premise of the published argument rather
+  than a conclusion derived from script structure, and a named critic
+  (Nityanand Mishra, per search summary) is reported questioning specific
+  assumptions; no independent reproduction of the headline result was found.
+  This is the specific failure mode `methods/falsification-standard.md`
+  warns against (assuming the source language before deriving it from
+  structure). Not read primary-source; see log above.
+- **ResearchGate 405297740 (2026) — "185 Proto-Dravidian Readings."**
+  Catalogued, **not independently tested by this project**. The authors
+  themselves disclose three pipeline bugs found on internal audit, three
+  retracted prior claims, and state the result "requires specialist
+  Dravidianist review before any claim of decipherment can be made" — i.e.
+  the authors' own published position stops short of confirmed decipherment.
+  This project cannot yet verify authorship, venue, peer-review status, or
+  the corpus/sign-inventory choices underlying the reported numbers
+  (`WebFetch` blocked). Flagged as the most methodologically serious rival
+  Dravidian claim found so far and the priority external claim to
+  re-examine once WebFetch access is restored and SQ-3 resolves toward
+  "linguistic writing" (per this project's own priority-3 gate — not
+  adopted now). See log above and `config/sidequests.md` SQ-3.
 
 ## Open Questions
 
