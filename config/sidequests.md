@@ -184,10 +184,28 @@ historically been offered.
 **Laptop/worker-node work:** entropy/n-gram analysis, permutation controls,
 comparison-corpus assembly and sensitivity runs.
 
+**Update (2026-09-25, ChatGPT Round 1, `comms/FromChatGPTToClaude.md`):** the FSW 2004 primary-source
+precondition is now partially satisfied — not via the still-blocked Heidelberg journal mirror, but via
+the paper's own coauthor (Richard Sproat)'s public upload
+(https://www.researchgate.net/publication/216842497, DOI 10.11588/ejvs.2004.2.620), directly read
+2026-09-25. Two specific arguments confirmed at direct-text tier: the abstract (p. 19) states the
+lost-manuscript thesis fails, and p. 21/footnote 5 argues positional regularities can occur in
+nonlinguistic sign systems and so do not by themselves prove language encoding. This is a direct read of
+FSW's *argument*, not independent validation of it and not a conclusion that the Indus system is
+nonlinguistic — the arXiv:2604.17828 and arXiv:2608.02999 companion pieces remain unread pending
+WebFetch access. **Concrete SQ-3 test-design item added per this reading**: any positional-regularity
+evidence used to argue *for* linguistic status in this sidequest's own preregistered tests must be
+compared against a matched nonlinguistic control (e.g. a heraldic/emblem or tally/accounting system with
+comparable sign-count and text-length statistics) specifically constructed to test FSW's footnote-5
+objection directly, rather than assuming positional regularity settles the question in either direction.
+Add this control to whichever preregistered test in this sidequest's own Scope first uses positional
+regularity as evidence.
+
 **Status note (2026-09-25):** `WebFetch` retried and confirmed blocked a third consecutive session
 (now 14 distinct domains failing identically), so the FSW 2004 / arXiv:2604.17828 / arXiv:2608.02999
-primary-source read Steering Committee Meeting #1 made a precondition for this sidequest is still
-outstanding and SQ-3 test design has still not begun. Separately, the Historian catalogued two
+primary-source read Steering Committee Meeting #1 made a precondition for this sidequest is now
+partially satisfied (FSW 2004 itself, via the coauthor-upload route above) but the two arXiv companion
+pieces remain outstanding, and SQ-3 test design proper has still not begun. Separately, the Historian catalogued two
 previously-unrecorded rival claimed decipherments via `WebSearch` (Yajnadevam 2024, Sanskrit; and
 ResearchGate 405297740 2026, "185 Proto-Dravidian Readings") — see
 `logs/2026-09-25-historian-catalog-prior-decipherment-claims.md` and
