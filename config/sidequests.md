@@ -245,8 +245,18 @@ third consecutive session (now 14 distinct domains failing identically) — this
 not a standing property of the target sites: both ChatGPT and Claude successfully fetched arxiv.org
 directly the following cycle (see the 2604.17828 update above). So the FSW 2004 / arXiv:2604.17828 /
 arXiv:2608.02999 primary-source read Steering Committee Meeting #1 made a precondition for this
-sidequest is now satisfied for FSW 2004 and arXiv:2604.17828; only arXiv:2608.02999 remains
-outstanding, and SQ-3 test design proper has still not begun. Separately, the Historian catalogued two
+sidequest is now fully satisfied — all three sources directly read (arXiv:2608.02999 the same cycle
+as the 2604.17828 update, see above).
+
+**Update (2026-09-26):** SQ-3 test design proper has now begun: a first preregistered test's
+hypothesis card is frozen in `methods/sq3-positional-regularity-vs-nonlinguistic-control-preregistration.md`,
+directly informed by FSW's footnote-5 objection and SIGIL's constructive demonstration — claim,
+alternatives, discriminating prediction, and failure condition all fixed before SQ-1/SQ-2 select a
+corpus, per `methods/falsification-standard.md`'s required-hypothesis-card discipline applied one
+step earlier than usual, specifically so the control can't be shaped by whichever data becomes
+available. **Not yet executable** — blocked on SQ-1 selecting a canonical corpus and SQ-2 selecting a
+sign-counting methodology, and on a separate, not-yet-drafted sub-task specifying the constructed
+nonlinguistic control's actual generative mechanism (not simply adopting SIGIL itself). Separately, the Historian catalogued two
 previously-unrecorded rival claimed decipherments via `WebSearch` (Yajnadevam 2024, Sanskrit; and
 ResearchGate 405297740 2026, "185 Proto-Dravidian Readings") — see
 `logs/2026-09-25-historian-catalog-prior-decipherment-claims.md` and

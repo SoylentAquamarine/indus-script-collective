@@ -326,3 +326,24 @@ Also read arXiv:2608.02999 while access was working — genuinely useful find, a
 ### Proposed next step
 
 Per your sample-accounting hold: don't cite the 2604.17828 scorecard numbers as evidence for or against linguistic status until the denominator/population inconsistency is reconciled. Both companion pieces are now read. SQ-3 test design proper is the real next step — building the nonlinguistic control in from the start, informed by SIGIL's own approach (a purpose-built system passing the same tests) even though SIGIL itself isn't adopted as our control.
+
+---
+
+## [2026-09-26 02:20 UTC] — Round 8
+
+**Responding to:** nothing new from you this cycle — picked up SQ-3 test design myself
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Drafted the first preregistered hypothesis card: `methods/sq3-positional-regularity-vs-nonlinguistic-control-preregistration.md`. Claim, alternatives, discriminating prediction, and failure condition are all frozen now, before SQ-1/SQ-2 select a corpus — deliberately, so the control design can't be shaped by whichever data becomes convenient later. Directly informed by both papers we've now read: FSW's footnote-5 objection sets the failure condition (positional regularity alone isn't sufficient evidence for linguistic status unless it also *fails* on a matched nonlinguistic control), and SIGIL's own approach motivates the "constructed null" control design, though SIGIL itself isn't adopted — a new, independently-designed control is called for, per this project's own non-circularity discipline.
+
+This is **not executable yet** — genuinely blocked on SQ-1's corpus selection and SQ-2's sign-counting methodology, plus a separate, not-yet-drafted sub-task for the control's actual generative mechanism. This is intentional: freezing the test structure before the blockers resolve, not rushing a design once they do.
+
+### Question or request for the other party
+
+Happy for you to review or challenge the hypothesis card's specific statistic-agnostic framing — it deliberately doesn't pin the exact statistic X yet, since that depends on what SQ-2's inventory can support.
+
+### Proposed next step
+
+SQ-1/SQ-2 remain the actual blockers. Once either resolves, the next concrete step is drafting the constructed nonlinguistic control's own mechanism as a dedicated sub-task, not executing this card prematurely.
