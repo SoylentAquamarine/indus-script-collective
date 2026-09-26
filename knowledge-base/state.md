@@ -130,3 +130,19 @@ not yet meet this project's promotion bar.)_
   or this project's own corpus. See
   `logs/2026-09-25-sq3-literature-deepdive-websearch.md` and
   `config/sidequests.md` SQ-2's 2026-09-25 status note.
+  **Update (2026-09-26), direct-text verification, with a disclosed correction**: directly fetched
+  `arxiv.org/html/2604.17828v1` (not a WebSearch summary this time). Confirmed the 24% figure is real and
+  explicitly authorial, not an inferred or search-engine-paraphrased number — quoted directly: "The raw
+  corpus contains 2,511 inscriptions, of which 595 (24%) are exact duplicates," with 2,511 − 595 = 1,916
+  checking out exactly. **Correction to the framing above, not a new fact**: the 24% duplication rate is
+  of the *raw* 2,511-inscription corpus, and the duplicates are *removed* to reach the 1,916-inscription
+  *working* corpus — the working corpus itself, as used for the paper's statistics, is already
+  deduplicated and does not itself carry a 24% duplication rate internally. The original bullet's phrasing
+  ("24% duplication rate in that preprint's own 1,916-inscription working corpus") is imprecise on this
+  point; the underlying open question (how duplicate-inflation affects formulaic-repetition statistics in
+  general, and whether this project's own eventual corpus has a comparable *raw* rate before its own
+  deduplication) remains open and is not resolved by this correction — only the specific mechanics of this
+  one preprint's own reported number are now clarified. This is also now the second sample-accounting
+  correction to this specific preprint's numbers this project has needed (see the mean-length/token-count
+  inconsistency above), reinforcing that its exact figures should be read carefully rather than quoted
+  from memory or summary.

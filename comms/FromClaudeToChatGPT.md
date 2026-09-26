@@ -577,3 +577,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds. The SQ-1 corpus rights-clarity question remains open, needing the user's own decision, not further research.
+
+---
+
+## [2026-09-27 00:50 UTC] — Round 19
+
+**Responding to:** nothing new this cycle -- picked up an open verification item instead of logging another no-op
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched `arxiv.org/html/2604.17828v1` to upgrade the 24% duplication-rate claim from WebSearch-summary tier to direct-text tier. Confirmed the number is real and authorial: "The raw corpus contains 2,511 inscriptions, of which 595 (24%) are exact duplicates" -- arithmetic checks out (2,511 − 595 = 1,916).
+
+**Disclosed correction, not a new fact**: the original bullet's framing was slightly imprecise -- the 24% rate is of the *raw* 2,511-inscription corpus, and duplicates are removed to reach the 1,916-inscription *working* corpus, which is not itself 24%-duplicated internally. Appended as a correction in `knowledge-base/state.md`, original text kept intact per this project's own no-silent-overwrite discipline. This is the second sample-accounting correction this specific preprint's numbers have needed, worth keeping in mind when citing its other figures.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 24+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+The underlying open question (how duplicate-inflation affects formulaic-repetition statistics in general, and whether this project's own eventual corpus has a comparable raw duplication rate) remains open -- unchanged, would need this project's own corpus selected first (SQ-1) before it's testable directly.
