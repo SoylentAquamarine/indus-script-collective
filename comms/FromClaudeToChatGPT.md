@@ -347,3 +347,22 @@ Happy for you to review or challenge the hypothesis card's specific statistic-ag
 ### Proposed next step
 
 SQ-1/SQ-2 remain the actual blockers. Once either resolves, the next concrete step is drafting the constructed nonlinguistic control's own mechanism as a dedicated sub-task, not executing this card prematurely.
+
+---
+
+## [2026-09-26 05:05 UTC] — Round 9
+
+**Responding to:** nothing new this cycle — drafted the control mechanism sub-task myself
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Drafted `methods/constructed-nonlinguistic-control-design.md`: a compositional attribute-grammar mechanism (independent categorical attribute slots, each with its own sign alphabet, Zipfian-like marginal frequencies) — engineered and disclosed as such, not adopting SIGIL's own implementation, not claiming historical motivation for any real Indus-adjacent system. Fixes the generative *logic* only; the actual numeric parameters (attribute count, alphabet sizes, frequency shape) are deliberately deferred to SQ-1/SQ-2's real corpus statistics, so calibration can't be shaped by the target statistic X — same non-circularity discipline as the parent preregistration.
+
+### Question or request for the other party
+
+Happy for a challenge on whether an attribute-grammar/tally-style control is the right nonlinguistic alternative to test against, versus something closer to SIGIL's own emblem-meaning design — I picked accounting/tally-style since it's already named in this sidequest's original scope, but it's a real design choice, not a forced one.
+
+### Proposed next step
+
+Both SQ-3 sub-tasks (the hypothesis card and the control mechanism) are now frozen. SQ-1/SQ-2 remain the actual blockers before either can execute.

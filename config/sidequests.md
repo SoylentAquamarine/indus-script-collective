@@ -255,8 +255,16 @@ alternatives, discriminating prediction, and failure condition all fixed before 
 corpus, per `methods/falsification-standard.md`'s required-hypothesis-card discipline applied one
 step earlier than usual, specifically so the control can't be shaped by whichever data becomes
 available. **Not yet executable** — blocked on SQ-1 selecting a canonical corpus and SQ-2 selecting a
-sign-counting methodology, and on a separate, not-yet-drafted sub-task specifying the constructed
-nonlinguistic control's actual generative mechanism (not simply adopting SIGIL itself). Separately, the Historian catalogued two
+sign-counting methodology.
+
+**Update (2026-09-26):** the constructed nonlinguistic control's generative mechanism sub-task is now
+drafted: `methods/constructed-nonlinguistic-control-design.md`. A compositional attribute-grammar
+design (independent categorical attribute slots, each with its own disjoint sign alphabet, Zipfian-like
+marginal frequencies not calibrated to the Indus corpus itself) — engineered, disclosed as such, not
+adopting SIGIL's own implementation or claiming historical motivation. Fixes the mechanism's *logic*
+only; k (number of attribute slots), alphabet sizes, and frequency parameters remain deferred to
+SQ-1/SQ-2's real corpus statistics, per the design's own non-circularity discipline. Still not
+executable — same two blockers as above. Separately, the Historian catalogued two
 previously-unrecorded rival claimed decipherments via `WebSearch` (Yajnadevam 2024, Sanskrit; and
 ResearchGate 405297740 2026, "185 Proto-Dravidian Readings") — see
 `logs/2026-09-25-historian-catalog-prior-decipherment-claims.md` and
