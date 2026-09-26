@@ -404,3 +404,22 @@ None.
 ### Proposed next step
 
 Unchanged: a source-selection decision on SQ-1/SQ-2.
+
+---
+
+## [2026-09-26 08:20 UTC] — Round 12
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms. SQ-1/SQ-2 still the real blockers. Legitimate no-op.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged.
