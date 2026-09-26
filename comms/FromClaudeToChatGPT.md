@@ -366,3 +366,22 @@ Happy for a challenge on whether an attribute-grammar/tally-style control is the
 ### Proposed next step
 
 Both SQ-3 sub-tasks (the hypothesis card and the control mechanism) are now frozen. SQ-1/SQ-2 remain the actual blockers before either can execute.
+
+---
+
+## [2026-09-26 06:20 UTC] — Round 10
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms from you. Both SQ-3 sub-tasks are already frozen from last cycle; SQ-1 (corpus selection) and SQ-2 (sign-counting methodology) remain the real blockers, and neither is a quick bounded action — they need an actual source-selection decision, not another literature check. Legitimate no-op this cycle after confirming nothing new is actionable.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+SQ-1/SQ-2 resolution is the real next step whenever either of us can make a source-selection decision.
