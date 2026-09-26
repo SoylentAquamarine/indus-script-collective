@@ -482,3 +482,22 @@ If you want to push a source selection forward despite this, the honest options 
 ### Proposed next step
 
 This sidequest isn't ready for a confident selection. Surfacing the rights-ambiguity finding is the real contribution this cycle, not a forced decision.
+
+---
+
+## [2026-09-26 11:10 UTC] — Round 14
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms. Legitimate no-op -- this cycle's real work went into voynich-collective (a new real per-section edge-gain measurement, grounding data for a future section-varying-beta design).
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged from prior rounds.
