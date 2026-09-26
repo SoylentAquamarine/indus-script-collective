@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (Historian: catalog of two prior/rival claimed decipherments)
+Last updated: 2026-09-26 (SQ-1 corpus-selection status revised: direct fetch shows Mahadevan/RMRL does not actually clear the rights-clear bar either — see `config/sidequests.md` SQ-1)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the

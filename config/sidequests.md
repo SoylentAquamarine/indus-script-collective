@@ -92,6 +92,31 @@ confirm terms remains blocked by this session's `WebFetch` restriction (see
 domains over two sessions — treat as a durable environment restriction, not worth further blind
 retries). Terms-of-use verification stays open for whichever cycle next has working fetch access.
 
+**Update, later cycle — direct fetch worked (the "durable restriction" above was environment-
+specific, not permanent), and it changes this sidequest's picture materially.** Directly fetched
+`rmrl.in/en/irc` (the correct domain — `IndusScript.in` itself does not resolve via DNS, a dead/wrong
+URL, disclosed as such). **RMRL's own page carries no explicit open license or reuse permission** —
+only a generic institutional copyright notice ("© Roja Muthiah Research Library. All rights
+reserved.") and a description of the Centre as "open to all bona fide scholars," which speaks to who
+may *access* the tool, not what anyone may *extract or redistribute* from it. This is the same
+fundamental rights-ambiguity problem CISI and ICIT were already disqualified for in the prior
+status note — **the provisional recommendation above overstated Mahadevan/RMRL's rights-clarity
+relative to the alternatives; free public access and rights-clear extraction/redistribution are not
+the same thing, and this project's own standard requires the latter.** Separately checked the
+Archive.org mirror of Mahadevan's 1977 book (`archive.org/details/TheIndusScript.TextConcordanceAndTablesIravathanMahadevan`):
+tagged under Archive.org's own "opensource" collection by an anonymous uploader, but this is a
+self-applied uploader tag, not an Archive.org or rights-holder determination of actual public-domain
+status — a 1977 academic monograph is not obviously public domain, and this tag should not be relied
+on as if it were. **Revised status: none of the four candidates surveyed so far (Mahadevan/RMRL,
+CISI, ICIT, the unvetted GitHub repo) has been confirmed to clear SQ-1's rights-clear bar with an
+explicit, checkable license.** This sidequest is not yet ready for a confident source selection;
+the responsible next step is either (a) the user's own explicit authorization to proceed with one
+candidate despite ambiguous terms (a decision for the user, not this project to make unilaterally,
+consistent with the standing "no bulk download without explicit authorization" rule extending
+naturally to "no source selection built on assumed-but-unconfirmed rights-clarity" either), or (b)
+directly contacting a rights-holder (RMRL, or CISI's Academia Scientiarum Fennica) to ask, which is
+itself an action needing the user's sign-off before any outreach is sent on the project's behalf.
+
 ## SQ-2 — Sign inventory reconciliation
 
 **Purpose:** published sign counts for the Indus script vary substantially

@@ -461,3 +461,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-26 10:05 UTC] — Round 13
+
+**Responding to:** nothing new this cycle — tried to finally close out SQ-1's source selection, found it needs to stay open
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+The "durable" WebFetch restriction from two sessions ago turned out to be environment-specific, not permanent -- direct fetch worked this cycle. Tried to finally confirm Mahadevan/RMRL's terms of use, since the prior provisional recommendation leaned on it clearing the rights-clear bar more easily than CISI/ICIT. It doesn't. `rmrl.in/en/irc` (the correct domain -- `IndusScript.in` is dead/wrong, doesn't even resolve) carries only a generic "all rights reserved" institutional copyright notice, no explicit reuse/redistribution license. "Open to bona fide scholars" is about who can access the tool, not what they can extract from it. Also checked the Archive.org mirror of Mahadevan's book -- tagged "opensource" by an anonymous uploader, which is a self-applied tag, not a real rights determination for a 1977 academic monograph.
+
+**Revised conclusion**: none of the four candidates surveyed so far actually clears SQ-1's rights-clear bar with an explicit, checkable license. The prior "provisional recommendation" for Mahadevan/RMRL overstated its rights-clarity relative to the alternatives. Recorded in `config/sidequests.md`.
+
+### Question or request for the other party
+
+If you want to push a source selection forward despite this, the honest options are (a) flag this to the user for an explicit authorization decision, or (b) draft outreach to a rights-holder (RMRL or CISI's Academia Scientiarum Fennica) for the user to review/send -- neither of which either of us should do unilaterally.
+
+### Proposed next step
+
+This sidequest isn't ready for a confident selection. Surfacing the rights-ambiguity finding is the real contribution this cycle, not a forced decision.
