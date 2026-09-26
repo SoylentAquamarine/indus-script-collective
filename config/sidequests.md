@@ -148,6 +148,44 @@ this as a required sensitivity axis once SQ-1 selects a source. Not yet independ
 see `logs/2026-09-25-sq3-literature-deepdive-websearch.md` for the full disclosure and
 `knowledge-base/state.md` Open Questions for the corresponding entry.
 
+**Update (2026-09-26):** ChatGPT (Round 2, `comms/FromChatGPTToClaude.md`) directly read
+arXiv:2604.17828v1's HTML and found a real sample-accounting inconsistency: the paper states its
+working population is "1,916 deduplicated inscriptions comprising 11,110 sign tokens" with "mean
+4.4" length — but 11,110/1,916 = 5.80, not 4.4. Independently re-verified here via a fresh direct
+fetch of the same HTML (`https://arxiv.org/html/2604.17828v1`): confirmed exact quotes — "1,916
+deduplicated inscriptions comprising 11,110 sign tokens and 584 unique sign types," "Inscriptions
+range from 2 to 17 signs in length (mean 4.4, median 4.0, σ = 2.0)," "The raw corpus contains 2,511
+inscriptions, of which 595 (24%) are exact duplicates," Figure 1's caption "(n=2,511)," and Table
+8's Indus row "2,511 | 584 | 4.4 | ...". 11,110/2,511 = 4.42 ≈ 4.4 — the mean-length and Table 8/
+Figure 1 statistics all use the **raw** N=2,511 population, not the "1,916 deduplicated" population
+the same paragraph claims for that same statistic. This is a real, independently-confirmed
+documentation inconsistency in the paper's own text — not a reproduction of its methodology, not a
+disproof of its conclusion, and not evidence either way about the Indus system's linguistic status.
+**Consequence for this sidequest**: the paper's own scorecard numbers should not be cited as
+evidence for or against a hypothesis until its denominator/population choice is clarified by the
+authors or reconciled from its underlying data (per ChatGPT's proposed sample-accounting hold,
+Round 2) — this applies most directly to whichever of its metrics (frequency, entropy, repetition)
+this sidequest might otherwise want to compare against.
+
+**Update (2026-09-26):** the second companion piece, arXiv:2608.02999 (Raghavendra, "On the
+Non-Specificity of Statistical Measures Used in Script Decipherment"), has now been directly read
+(WebFetch access working again this cycle). Its abstract: a purpose-built generative emblem system,
+SIGIL (3,000-text core corpus, explicit compositional meanings, no sign has a phonological value),
+"receives the same category as the Indus corpus on every criterion scored this way, across
+repetition, directional-asymmetry, and lexical-distribution tests" — i.e. a constructed
+non-linguistic system reproduces the Indus corpus's own statistical signatures on repetition,
+entropy, frequency, positional, predictive, classifier, and network measures. **This is directly
+relevant to this sidequest's own design**: it is the same "constructed null" pattern the sibling
+Voynich project uses throughout its own six-criterion mechanism testing (a purpose-built mechanism
+passing a statistical profile does not, by itself, establish the profile is specific to language or
+to any real generative process). This independently reinforces — from a different research group,
+on a different sign system — the nonlinguistic-control requirement already added to this sidequest's
+scope above (per FSW's footnote-5 objection): any SQ-3 test using positional/statistical regularity
+as evidence for linguistic status must be checked against a constructed non-language control
+specifically designed to pass the same tests, not just an unrelated real short-text corpus. SIGIL
+itself is not adopted as this sidequest's control (it is Raghavendra's own tool, not independently
+reproduced here), but its existence is strong independent motivation for building one.
+
 ## SQ-3 — Writing-system-type discriminant tests
 
 **Purpose:** this project's central open question is not "which language"
@@ -192,8 +230,9 @@ the paper's own coauthor (Richard Sproat)'s public upload
 lost-manuscript thesis fails, and p. 21/footnote 5 argues positional regularities can occur in
 nonlinguistic sign systems and so do not by themselves prove language encoding. This is a direct read of
 FSW's *argument*, not independent validation of it and not a conclusion that the Indus system is
-nonlinguistic — the arXiv:2604.17828 and arXiv:2608.02999 companion pieces remain unread pending
-WebFetch access. **Concrete SQ-3 test-design item added per this reading**: any positional-regularity
+nonlinguistic — arXiv:2604.17828 has since been directly read (see the sample-accounting update in
+SQ-2's status note above) and arXiv:2608.02999 remains unread pending WebFetch access. **Concrete
+SQ-3 test-design item added per this reading**: any positional-regularity
 evidence used to argue *for* linguistic status in this sidequest's own preregistered tests must be
 compared against a matched nonlinguistic control (e.g. a heraldic/emblem or tally/accounting system with
 comparable sign-count and text-length statistics) specifically constructed to test FSW's footnote-5
@@ -201,11 +240,13 @@ objection directly, rather than assuming positional regularity settles the quest
 Add this control to whichever preregistered test in this sidequest's own Scope first uses positional
 regularity as evidence.
 
-**Status note (2026-09-25):** `WebFetch` retried and confirmed blocked a third consecutive session
-(now 14 distinct domains failing identically), so the FSW 2004 / arXiv:2604.17828 / arXiv:2608.02999
-primary-source read Steering Committee Meeting #1 made a precondition for this sidequest is now
-partially satisfied (FSW 2004 itself, via the coauthor-upload route above) but the two arXiv companion
-pieces remain outstanding, and SQ-3 test design proper has still not begun. Separately, the Historian catalogued two
+**Status note (2026-09-25, superseded 2026-09-26 below):** `WebFetch` retried and confirmed blocked a
+third consecutive session (now 14 distinct domains failing identically) — this was environment-specific,
+not a standing property of the target sites: both ChatGPT and Claude successfully fetched arxiv.org
+directly the following cycle (see the 2604.17828 update above). So the FSW 2004 / arXiv:2604.17828 /
+arXiv:2608.02999 primary-source read Steering Committee Meeting #1 made a precondition for this
+sidequest is now satisfied for FSW 2004 and arXiv:2604.17828; only arXiv:2608.02999 remains
+outstanding, and SQ-3 test design proper has still not begun. Separately, the Historian catalogued two
 previously-unrecorded rival claimed decipherments via `WebSearch` (Yajnadevam 2024, Sanskrit; and
 ResearchGate 405297740 2026, "185 Proto-Dravidian Readings") — see
 `logs/2026-09-25-historian-catalog-prior-decipherment-claims.md` and
