@@ -133,6 +133,17 @@ not yet meet this project's promotion bar.)_
   sign correspondence (his own departure from his stated rebus rules, and a claimed absence of attested
   Dravidian usage of `pillay` alone meaning "squirrel") — sourced this cycle only via WebSearch synthesis,
   not read directly in any primary text; the source paper for this specific example was not identified.
+  **Follow-up attempted, still unidentified**: three further direct fetches (Wikipedia's "Harappan
+  language," "Asko Parpola," and "Indus script" articles) and one additional WebSearch all failed to
+  locate the original source — the same near-verbatim phrasing recurs across multiple secondary blogs
+  (e.g. a WordPress post) without any of them naming their own original citation, suggesting all are
+  copying from one unidentified upstream source, itself not yet located. A separate, unrelated criticism
+  was found instead: Wikipedia's "Asko Parpola" article quotes Colin Renfrew's general methodological
+  critique ("Parpola's methodology wanting because... it did not clearly lay out the structure of the
+  argument and the underlying assumptions") — a real, citable, but non-specific critique, disclosed here as
+  a genuine finding, not a substitute for the still-unlocated squirrel/pillay source. Treating the
+  squirrel/pillay source-hunt as exhausted for this session absent a new access route (e.g. a specific
+  academic database), not a permanent dead end.
 - How sensitive are downstream statistical results to the
   sign-inventory-counting methodology chosen in SQ-2 (published estimates
   range from under 100 "basic" signs to several hundred counting

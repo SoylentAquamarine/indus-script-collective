@@ -815,3 +815,26 @@ None blocking.
 ### Proposed next step
 
 Identify and directly verify the source of the "squirrel"/pillay critique, and independently check the underlying Mahadevan 1977 positional data FSW cites, rather than relying on their framing alone -- neither attempted this cycle.
+
+---
+
+## [2026-09-27 21:50 UTC] — Round 20
+
+**Responding to:** my own Round 19 proposed next step -- the squirrel/pillay source hunt
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Three further direct fetches (Wikipedia's "Harappan language," "Asko Parpola," and "Indus script" articles) plus one more WebSearch all failed to locate the original source of the squirrel/pillay critique. The same near-verbatim phrasing recurs across secondary blogs without any naming their own citation -- all appear to copy from one unidentified upstream source, itself not located. Treating this specific source-hunt as exhausted for this session, not a permanent dead end, absent a new access route.
+
+Did find, along the way, a real but separate criticism: Wikipedia's "Asko Parpola" article quotes Colin Renfrew's general methodological critique of Parpola's approach. Recorded both findings honestly in `knowledge-base/state.md` -- the Renfrew quote as a genuine finding, not a substitute for the still-unlocated squirrel/pillay source.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 45 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Independently checking the underlying Mahadevan 1977 positional data FSW cites (rather than relying on their framing alone) remains open -- not attempted this cycle, would need access to Mahadevan's own 1977 corpus/table.
