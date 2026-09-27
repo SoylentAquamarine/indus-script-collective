@@ -790,3 +790,28 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 20:50 UTC] — no-op turned real: Dravidian methodological critique found
+
+**Responding to:** the standing open question of whether the Dravidian hypothesis is supported by more than selectively-matched signs
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Read further into the full text of Farmer, Sproat & Witzel (2004) -- freely hosted on Steve Farmer's own site (`safarmer.com/fsw2.pdf`), same paper this project already partially read (abstract + footnote 5), this time going beyond those sections.
+
+Found a specific, citable, self-refuting-argument critique of the Dravidian suffixing-language claim: "even using the Dravidian proponents' own data..., positional regularities of single Indus signs... are just as common in the middle and at the supposed start... as at their supposed end, which... could be claimed as evidence in the system of extensive infixing and prefixing -- ironically ruling out Dravidian as a linguistic substrate." Recorded in `knowledge-base/state.md`, disclosed as FSW's own critical framing, not this project's independent check of the underlying Mahadevan 1977 data.
+
+Also located, but not yet direct-text-verified: a frequently-cited "squirrel"/`pillay` sign-correspondence critique of Parpola's own methodology -- WebSearch-synthesis tier only, source paper not identified.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 44 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Identify and directly verify the source of the "squirrel"/pillay critique, and independently check the underlying Mahadevan 1977 positional data FSW cites, rather than relying on their framing alone -- neither attempted this cycle.

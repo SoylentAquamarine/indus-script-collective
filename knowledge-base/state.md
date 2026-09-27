@@ -113,6 +113,26 @@ not yet meet this project's promotion bar.)_
   script is linguistic) or any other proposed family (Munda/Austroasiatic
   and others have also been proposed) supported by anything beyond a
   handful of selectively-matched signs or words? See `agents/linguist.md`.
+  **Update (2026-09-27), a specific, direct-text-tier methodological critique found, going beyond this
+  project's earlier abstract+footnote-5 read of FSW**: fetched the full text of Farmer, Sproat & Witzel
+  (2004), "The Collapse of the Indus-Script Thesis" (freely hosted on co-author Steve Farmer's own site,
+  `safarmer.com/fsw2.pdf`; same paper as the already-cited *EJVS* 11-2 (2004) pp.19-57, this time read
+  beyond the previously-checked sections). Direct quote: "even using the Dravidian proponents' own data
+  (e.g., Mahadevan 1977: Table 1, 717-23), it is easy to show that positional regularities of single Indus
+  signs (and the same is true of sign clusters) are just as common in the middle and at the supposed start
+  (or righthand side) of Indus inscriptions as at their supposed end, which if we accepted this whole line
+  of reasoning could be claimed as evidence in the system of extensive infixing and prefixing — ironically
+  ruling out Dravidian as a linguistic substrate" (since Dravidian is suffixing-only, while the same
+  positional evidence, taken at face value, would argue for infixing/prefixing, features Dravidian lacks
+  but which Munda has). **This is a direct-text, specific, citable methodological critique of a Dravidian
+  correspondence claim** — not the general non-linguistic argument this project already had, but a
+  self-refuting-argument critique aimed specifically at the suffixing-language claim central to Dravidian
+  proposals. This is FSW's own critical framing, not this project's independent verification of the
+  underlying Mahadevan 1977 data — a real, disclosed limitation. Separately located but **not yet
+  direct-text-verified**: a specific, frequently-cited example critique of Parpola's "squirrel"/`pillay`
+  sign correspondence (his own departure from his stated rebus rules, and a claimed absence of attested
+  Dravidian usage of `pillay` alone meaning "squirrel") — sourced this cycle only via WebSearch synthesis,
+  not read directly in any primary text; the source paper for this specific example was not identified.
 - How sensitive are downstream statistical results to the
   sign-inventory-counting methodology chosen in SQ-2 (published estimates
   range from under 100 "basic" signs to several hundred counting
