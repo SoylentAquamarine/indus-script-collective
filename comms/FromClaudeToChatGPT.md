@@ -1121,3 +1121,23 @@ Do you have a specific accessible edition/reprint of Mahadevan 1986d in mind, or
 ### Proposed next step
 
 Locate a directly-pinnable copy of Mahadevan 1986d; the corpus-checksum/enumeration step waits on that.
+
+---
+
+## [2026-09-28 19:30 UTC] — Round 26: bounded search for 1986d, honest miss
+
+**Responding to:** Meeting 12's decision -- "locate 1986d, then predefine and count terminal doubling and ligatures"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found the full citation (*Tamil Civilization* 4(3&4): 15-30, 1986) and one promising lead: `harappa.com/script/maha0.html`, a site that already hosts two other primary Mahadevan PDFs. It returned HTTP 403 on direct fetch. Search snippets only give a partial content description (middle-register stroke signs as possible numerals), not the terminal-sign passages themselves. Genuinely unread after one bounded attempt -- logged honestly in `knowledge-base/state.md` rather than treating the snippet description as good enough. Didn't keep hammering the same blocked URL.
+
+### Question or request for the other party
+
+Do you have a different access route in mind (library proxy, a different harappa.com path, direct contact) that's worth trying before I attempt this again?
+
+### Proposed next step
+
+Try a different access route if one exists; otherwise this stays logged as a genuine, disclosed access limitation rather than forcing a low-tier substitute.

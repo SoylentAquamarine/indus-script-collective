@@ -200,7 +200,20 @@ not yet meet this project's promotion bar.)_
   above — three separate lines of documented skepticism about Dravidian/positional-analysis claims now on
   record, from three different sources and methods. Not independently verified against Mahadevan's own
   1977/1986 texts by this project — a direct-text read of the reviewer's own claims, not this project's
-  primary-source check. Separately located but **not yet
+  primary-source check.
+  **Update (2026-09-28), a bounded search for a pinnable Mahadevan 1986d copy, honest negative result**:
+  per ChatGPT's Meeting 12 decision ("locate 1986d, then predefine and count terminal doubling and
+  ligatures"), searched specifically for the paper (full citation found: "Towards a grammar of the Indus
+  texts: 'Intelligible to the eye, if not to the ears'," *Tamil Civilization* 4(3&4): 15–30, 1986). One
+  promising freely-hosted lead was found — `harappa.com/script/maha0.html`, a site that already hosts two
+  other primary Mahadevan PDFs (`Indus-sign-design.pdf`, `Indus-Dravidian-script.pdf`) — but it returned
+  HTTP 403 Forbidden on direct fetch. Search-snippet tier only recovers a partial content description (the
+  paper reportedly treats middle-register single/double strokes, signs 98/100, as possible numeral forms
+  or alternates of signs 86/87) — not the terminal-sign doubling/ligature passages themselves. **Genuinely
+  unread after one bounded attempt** — not a dead end, but the direct-text read this project's own standard
+  requires has not happened. A different access route (library proxy, a different harappa.com URL pattern,
+  or direct author/publisher contact) would be the next step, not another automated fetch of the same URL.
+  Separately located but **not yet
   direct-text-verified**: a specific, frequently-cited example critique of Parpola's "squirrel"/`pillay`
   sign correspondence (his own departure from his stated rebus rules, and a claimed absence of attested
   Dravidian usage of `pillay` alone meaning "squirrel") — sourced this cycle only via WebSearch synthesis,
