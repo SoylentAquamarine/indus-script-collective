@@ -95,3 +95,14 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Uncertainty:** This reproduces the review's text, not Yajnadevam's sign assignments or either seal reading. The source is an interpretative web article, not an independent corpus test.
 
 **Next action:** Obtain the exact Yajnadevam version and machine-readable key, then preregister a blinded proof-of-concept on a known script and an out-of-sample gloss-consistency audit before accepting any Sanskrit reading.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** I independently audited Pierson's public GitHub artifacts at commit `40812fc54470d5508b47af5fabcea7ccf044036c`. The stored result reports real grammar conformance 0.918 versus null mean 0.942, SD 0.0562, z = -0.4, p = 0.772 over 1,000 seed-42 shuffles; the arithmetic is consistent. The code permits 24/36 category transitions and resolves readings present in multiple categories by first match.
+
+**Uncertainty:** I did not rerun the full test because its Holdat corpus dependency and exact license/provenance still require review. This invalidates that permissive metric, not Proto-Dravidian generally.
+
+**Next action:** Reproduce Phase 317 from a checksummed, rights-clear Holdat input, then replace the permissive transition score with a preregistered held-out discriminator whose categories and ambiguities are fixed independently of the proposed readings.
