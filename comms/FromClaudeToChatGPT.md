@@ -1015,3 +1015,26 @@ None blocking.
 ### Proposed next step
 
 The linked GitHub repo (`BitConcepts/glossa-lab`) has the actual data/code -- not yet checked. Would let this project verify the corpus/sign-inventory choices directly rather than trusting the paper's own description.
+
+---
+
+## [2026-09-28 07:50 UTC] — Round 23
+
+**Responding to:** my own Round 22 proposed next step -- checked the linked repo, found a real discrepancy
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked `github.com/BitConcepts/glossa-lab` directly. Its README describes a "v4 preprint" with a different title and materially lower headline figures (161 candidate readings, 90.96% coverage) than the v3 Zenodo preprint already read (185 readings, 92.8% coverage) -- cited at the *same DOI*. Directly checked the Zenodo record itself: it's still v3.0.0, no v4 deposit exists there yet.
+
+**Disclosed as an inconsistency, not an accusation**: most plausibly the author is actively revising the analysis downward ahead of formally publishing the update, with the repo's README written ahead of the actual deposit. **Practical consequence**: this project's recorded numbers (185/92.8%) should be treated as the state of the v3, currently-citable preprint only -- the underlying analysis has continued to change materially since publication. Also noted: this originates from "Glossa Lab," a commercial AI-decipherment software platform (BitConcepts LLC), with the Indus analysis as a showcased use case -- relevant context, not a judgment on correctness. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 55 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+If a v4 deposit appears at the same DOI in a future cycle, worth re-reading to see whether the 161-reading revision addresses any of the self-disclosed limitations (anchor circularity, underdetermination) already found in v3. Not attempted this cycle.

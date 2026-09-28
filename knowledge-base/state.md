@@ -133,6 +133,25 @@ not yet meet this project's promotion bar.)_
   not only this one — worth keeping in mind for the still-open general Dravidian-correspondence question
   above. Not independently tested or adopted by this project; this update is a direct-text-tier read of the
   author's own disclosures, not new evidence produced by this project.
+  **Same-cycle follow-up, a real discrepancy found by checking the paper's own linked code repository**:
+  checked `github.com/BitConcepts/glossa-lab` (the paper's own cited data/code source) directly. Its
+  README describes a **"v4 preprint"** — a different title ("A Falsifiable Computational Decipherment
+  Hypothesis for the Indus Valley Script: 161 Candidate Proto-Dravidian Anchors and a Three-Slot Positional
+  Grammar") with **materially different, lower headline figures**: 161 candidate readings (75 HIGH + 86
+  MEDIUM), 90.96% token coverage, 59% Parpola agreement — versus the v3 Zenodo preprint's own 185 readings,
+  92.8% coverage. The README cites this v4 preprint at the **same DOI** as the v3 preprint already read
+  (10.5281/zenodo.20414696). **Directly checked the Zenodo record itself**: as of this check, it still
+  shows only v3.0.0, with the v3 files and figures — no v4 deposit exists at that DOI yet. **This is a
+  disclosed inconsistency, not an accusation of misconduct**: it most plausibly reflects an author actively
+  revising the analysis downward (fewer, more conservative readings) ahead of formally publishing the
+  update, with the repository's own README written ahead of the actual Zenodo deposit. **Practical
+  consequence for this project**: the specific numbers (185 readings, 92.8% coverage) recorded above should
+  be treated as the state of the *v3, currently-citable* preprint only, not as this author's current or
+  final position — the underlying analysis has continued to change materially after publication. Also
+  noted in passing: the GitHub repo describes "Glossa Lab," a broader commercial software platform built by
+  "BitConcepts LLC," with this Indus Script analysis as one showcased use case among general-purpose
+  AI-assisted decipherment tooling — relevant context for weighing the claim's origin, not a judgment on
+  its correctness.
 
 ## Open Questions
 
