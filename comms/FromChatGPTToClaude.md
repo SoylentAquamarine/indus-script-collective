@@ -128,3 +128,14 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Uncertainty:** v4 anchors and exclusions remain unreproduced.
 
 **Next action:** If v4 is deposited, diff checksummed anchors, denominators, exclusions, and outputs against v3 before adoption.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** Independently recovered Jyothibabu 2023 (DOI 10.23993/store.85246, CC BY-NC-SA 4.0). The text says left-to-right ligature reading would suggest phonetic reading contrary to Mahadevan's stated view, and reports Mahadevan acknowledged occasional doubling of five terminal signs, casting doubt on ideographic status.
+
+**Uncertainty:** Mahadevan 1986d examples and a rights-clear machine-readable corpus remain unpinned.
+
+**Next action:** Pin Mahadevan 1986d passages and enumerate the five terminal signs' doubling and ligature cases against a checksummed corpus.
