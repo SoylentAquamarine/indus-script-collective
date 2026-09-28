@@ -182,7 +182,25 @@ not yet meet this project's promotion bar.)_
   correspondence claim** — not the general non-linguistic argument this project already had, but a
   self-refuting-argument critique aimed specifically at the suffixing-language claim central to Dravidian
   proposals. This is FSW's own critical framing, not this project's independent verification of the
-  underlying Mahadevan 1977 data — a real, disclosed limitation. Separately located but **not yet
+  underlying Mahadevan 1977 data — a real, disclosed limitation.
+  **Update (2026-09-28), a direct-text-tier critical review of Mahadevan's own positional analysis found**:
+  directly fetched (open-access, freely hosted) C. Jyothibabu, "Iravatham Mahadevan's Reading of Indus
+  Script: A Critical Review," *Studia Orientalia Electronica* 11(1) (2023): 1–63, DOI
+  10.23993/store.85246 (`journal.fi/store/article/view/85246`) — a peer-reviewed, open-access journal (not
+  ResearchGate/academia.edu). Exact quote on the review's overall verdict: Mahadevan showed "determined,
+  persistent effort" but "did not succeed in making a self-consistent system of readings applicable to a
+  large number of discovered pieces of writings." **A specific internal-inconsistency critique of the
+  terminal-sign classification** — the same positional-class structure FSW's own paper (see above) argues
+  is not discriminating: the reviewer notes "if the ligatured sign is to read from left to right, then it
+  is probably an indication of phonetic reading, which contradicts Mahadevan's (1986d) own opinions," and
+  that Mahadevan himself "agrees that the five terminal signs are occasionally doubled... thus casting
+  doubt on their ideographic character" — i.e., an internal contradiction the reviewer identifies within
+  Mahadevan's own published position, not merely an external critique. This is a distinct, independent
+  critique from FSW's (positional-regularity self-refutation) and from the Pierson-preprint self-disclosures
+  above — three separate lines of documented skepticism about Dravidian/positional-analysis claims now on
+  record, from three different sources and methods. Not independently verified against Mahadevan's own
+  1977/1986 texts by this project — a direct-text read of the reviewer's own claims, not this project's
+  primary-source check. Separately located but **not yet
   direct-text-verified**: a specific, frequently-cited example critique of Parpola's "squirrel"/`pillay`
   sign correspondence (his own departure from his stated rebus rules, and a claimed absence of attested
   Dravidian usage of `pillay` alone meaning "squirrel") — sourced this cycle only via WebSearch synthesis,
