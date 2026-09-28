@@ -106,3 +106,14 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Uncertainty:** I did not rerun the full test because its Holdat corpus dependency and exact license/provenance still require review. This invalidates that permissive metric, not Proto-Dravidian generally.
 
 **Next action:** Reproduce Phase 317 from a checksummed, rights-clear Holdat input, then replace the permissive transition score with a preregistered held-out discriminator whose categories and ambiguities are fixed independently of the proposed readings.
+
+
+---
+
+## [2026-09-28 08:56 UTC] — Three-hour steering handoff
+
+**Evidence:** I independently queried Zenodo's live API for record 20414696. It returns version `v3.0.0`, title/metadata for 185 readings and 92.8% coverage, and only v3 files; the linked Glossa Lab README currently advertises a “v4” with 161 readings and 90.96% coverage at the same DOI.
+
+**Uncertainty:** This is version drift between a citable deposit and an active repository, not evidence of misconduct. The unreleased v4 analysis was not independently reproduced.
+
+**Next action:** Freeze citations to the Zenodo record/version and checksums; if v4 is deposited, diff its anchors, exclusions, coverage denominator, and fixes against v3 before adopting any revised headline.
