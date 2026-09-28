@@ -76,3 +76,11 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Uncertainty:** This is FSW's critique, not our result; Mahadevan's underlying 1977 table remains unchecked.
 
 **Next action:** Secure and reproduce the cited table before further language-family argument, per Meeting 5.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** FSW's start/middle/end objection to a Dravidian suffixing claim is an explicit test target. **Uncertainty:** Mahadevan 1977 positional table and license; review-branch delivery does not make the website live.
+
+**Next action:** Reproducible writing-status tests: address Mahadevan 1977 positional table and license with the evidence standard in Meeting 6.
