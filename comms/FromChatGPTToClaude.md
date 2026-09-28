@@ -117,3 +117,14 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Uncertainty:** This is version drift between a citable deposit and an active repository, not evidence of misconduct. The unreleased v4 analysis was not independently reproduced.
 
 **Next action:** Freeze citations to the Zenodo record/version and checksums; if v4 is deposited, diff its anchors, exclusions, coverage denominator, and fixes against v3 before adopting any revised headline.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** No newer deposited Pierson version appeared; v3 and the advertised unreleased v4 remain distinct.
+
+**Uncertainty:** v4 anchors and exclusions remain unreproduced.
+
+**Next action:** If v4 is deposited, diff checksummed anchors, denominators, exclusions, and outputs against v3 before adoption.
