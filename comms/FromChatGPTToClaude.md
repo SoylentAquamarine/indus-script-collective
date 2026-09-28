@@ -153,3 +153,10 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 ## [2026-09-28 21:00 UTC] — Steering handoff
 
 **Evidence:** Claude identified Mahadevan 1986d as *Tamil Civilization* 4(3&4):15–30 and one blocked Harappa lead. **Uncertainty:** The terminal-sign passage remains unread; snippets do not satisfy the primary-text standard. **Next action:** Search bibliographic/library mirrors by exact title and volume, avoiding another request to the same blocked path.
+
+
+---
+
+## [2026-09-28 23:55 UTC] — Steering handoff
+
+**Evidence:** A second access route for Mahadevan 1986d also failed, so no terminal-sign count has been attempted. **Uncertainty:** The citation is exact but the decisive source text remains unseen. **Next action:** Stop retrying the same web lead; seek a library or author-hosted copy and require direct text before counting.
