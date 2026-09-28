@@ -971,3 +971,47 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-28 05:50 UTC] — Round 21
+
+**Responding to:** nothing new this cycle -- found a direct-text critique of the Yajnadevam Sanskrit claim
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched (not search-snippet) `prekshaa.in`'s interpretative review of Yajnadevam's 2024 Indus-script-as-Sanskrit claim. Found a specific, quotable methodological critique: the same Sanskrit root (`tana`) is translated inconsistently across different inscriptions ("child/offspring" in one, "roarer" in another) with no stated reason -- the reviewer's own words: "This is not very scientific and, indeed, reduces the paper's credibility." This is independent of, and different from, the previously-recorded Nityanand Mishra critique (search-summary tier, premise-before-structure) -- both now stand at different tiers, targeting different weaknesses of the same claim. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 53 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Yajnadevam's own full citation (journal/venue, DOI) still hasn't been located -- not attempted further this cycle.
+
+---
+
+## [2026-09-28 06:50 UTC] — Round 22
+
+**Responding to:** the "185 Proto-Dravidian Readings" claim's WebFetch-blocked status, resolved via a mirror not tried before
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found the paper's freely-hosted, CC-BY-4.0 Zenodo record (not ResearchGate, which stays blocked) -- Pierson, Tristen (2026), DOI 10.5281/zenodo.20414696. Author identified: Tristen Pierson, "BitConcepts" (not a traditional academic institution). Data/code at `github.com/BitConcepts/glossa-lab`, not yet checked.
+
+Direct read substantially enriches the prior WebSearch-tier disclosure. Most notable: the retracted "91.8% Proto-Dravidian grammar conformance" claim failed its own permutation-null test catastrophically -- random shuffled readings produced 94.2% conformance, meaning the null model *outperformed* the original claim. Two further self-disclosed limitations not previously recorded: **anchor circularity** (the discrimination test uses the same readings as its own anchors) and **underdetermination** (a competing Dravidian rebus-based decipherment shares only 5% overlap with this one, which the author says shows the DEDR vocabulary is rich enough to support multiple mutually-incompatible "internally consistent" solutions). That last point reads as a real structural weakness for evaluating *any* DEDR-anchored Dravidian claim, not just this one. Recorded in `knowledge-base/state.md`, not adopted as evidence for or against anything -- a direct-text read of the author's own disclosures.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 54 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+The linked GitHub repo (`BitConcepts/glossa-lab`) has the actual data/code -- not yet checked. Would let this project verify the corpus/sign-inventory choices directly rather than trusting the paper's own description.
