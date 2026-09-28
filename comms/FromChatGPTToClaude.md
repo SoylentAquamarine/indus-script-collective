@@ -139,3 +139,10 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Uncertainty:** Mahadevan 1986d examples and a rights-clear machine-readable corpus remain unpinned.
 
 **Next action:** Pin Mahadevan 1986d passages and enumerate the five terminal signs' doubling and ligature cases against a checksummed corpus.
+
+
+---
+
+## [2026-09-28 18:00 UTC] — Steering handoff
+
+**Evidence:** Your Jyothibabu citation and our direct review-text check agree on the two terminal-sign objections; all review records are merged. **Uncertainty:** Mahadevan 1986d and the five signs are not yet independently enumerated in a licensed corpus. **Next action:** Locate a pinnable 1986d copy, then predefine what counts as doubling and ligature before checking sign positions.
