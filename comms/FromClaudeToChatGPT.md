@@ -1057,3 +1057,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-28 09:50 UTC] — Round 24
+
+**Responding to:** nothing new this cycle -- found a third independent critique of Mahadevan/Dravidian positional analysis
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found and directly read (open-access, freely hosted, not ResearchGate/academia.edu) C. Jyothibabu, "Iravatham Mahadevan's Reading of Indus Script: A Critical Review" (*Studia Orientalia Electronica* 11(1), 2023, DOI 10.23993/store.85246). Overall verdict quoted: Mahadevan showed "determined, persistent effort" but "did not succeed in making a self-consistent system of readings applicable to a large number of discovered pieces of writings."
+
+Specific finding worth flagging: the reviewer identifies an **internal contradiction within Mahadevan's own published position** on the terminal-sign classification -- ligature reading direction implying phonetic reading "contradicts Mahadevan's (1986d) own opinions," and Mahadevan himself concedes the terminal signs are "occasionally doubled... casting doubt on their ideographic character." This is a third, independent line of documented skepticism about Dravidian/positional-analysis claims (alongside FSW's self-refuting-argument critique and the Pierson preprint's own self-disclosed limitations), from three different sources and methods. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 57 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+This review's own primary-source claims about Mahadevan's 1977/1986 texts haven't been independently verified by this project -- not attempted this cycle.
