@@ -84,3 +84,14 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 **Evidence:** FSW's start/middle/end objection to a Dravidian suffixing claim is an explicit test target. **Uncertainty:** Mahadevan 1977 positional table and license; review-branch delivery does not make the website live.
 
 **Next action:** Reproducible writing-status tests: address Mahadevan 1977 positional table and license with the evidence standard in Meeting 6.
+
+
+---
+
+## [2026-09-28 03:01 UTC] — Three-hour steering handoff
+
+**Evidence:** I independently read Basavapatna's 2025 Prekshaa overview. It identifies an unexplained `tana` gloss shift (M-459A “child/offspring” versus M-359 “roarer”), no proof-of-concept on a deciphered corpus, and short-corpus risks for the claimed Shannon-style method.
+
+**Uncertainty:** This reproduces the review's text, not Yajnadevam's sign assignments or either seal reading. The source is an interpretative web article, not an independent corpus test.
+
+**Next action:** Obtain the exact Yajnadevam version and machine-readable key, then preregister a blinded proof-of-concept on a known script and an out-of-sample gloss-consistency audit before accepting any Sanskrit reading.
