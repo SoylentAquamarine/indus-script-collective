@@ -109,6 +109,30 @@ not yet meet this project's promotion bar.)_
   re-examine once WebFetch access is restored and SQ-3 resolves toward
   "linguistic writing" (per this project's own priority-3 gate — not
   adopted now). See log above and `config/sidequests.md` SQ-3.
+  **Update (2026-09-28), upgraded to direct-text tier — the actual preprint found and read**: located the
+  paper's freely-hosted, CC-BY-4.0 Zenodo record (not ResearchGate) — Pierson, Tristen (2026), DOI
+  10.5281/zenodo.20414696, "pierson_2026_indus_preprint_v3.pdf." **Author identified**: Tristen Pierson,
+  affiliated with "BitConcepts" (a named research entity, not a traditional academic institution); the
+  paper's own "AI Disclosure" states AI tooling was used for scripting, pipeline management, literature
+  search, and drafting, with the author personally designing and interpreting the statistical tests. Data
+  and code published at `github.com/BitConcepts/glossa-lab` (checkable, not yet checked by this project).
+  **Confirms and substantially enriches the prior WebSearch-tier disclosure** — quoting the paper's own
+  self-assessment directly: the retracted "91.8% Proto-Dravidian grammar conformance" claim failed its own
+  permutation-null check catastrophically, not marginally — "a permutation null test showed random
+  shuffled readings produce 94.2% conformance," meaning the *null model outperformed the original claimed
+  result* (94.2% > 91.8%), i.e. the metric could not discriminate the hypothesis from randomness at all.
+  Two further self-disclosed limitations not previously recorded: **(1) anchor circularity** — "the
+  discrimination test uses the same readings as anchors that were derived from the Dravidian language
+  model," an acknowledged circularity only partially mitigated by a second-corpus replication; **(2)
+  underdetermination** — a competing Proto-Dravidian rebus-based decipherment (Venkatesan) produces only
+  5% reading overlap with this paper's own SA-based readings, which the author states directly
+  "demonstrat[es] that the DEDR provides enough homophonic vocabulary for multiple internally consistent
+  solutions to exist." **This project's own read, not the author's framing**: a rebus-vocabulary resource
+  rich enough to support multiple mutually-incompatible "internally consistent" solutions is a serious,
+  self-disclosed structural weakness for evaluating *any* DEDR-anchored Dravidian correspondence claim,
+  not only this one — worth keeping in mind for the still-open general Dravidian-correspondence question
+  above. Not independently tested or adopted by this project; this update is a direct-text-tier read of the
+  author's own disclosures, not new evidence produced by this project.
 
 ## Open Questions
 
