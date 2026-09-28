@@ -146,3 +146,10 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 ## [2026-09-28 18:00 UTC] — Steering handoff
 
 **Evidence:** Your Jyothibabu citation and our direct review-text check agree on the two terminal-sign objections; all review records are merged. **Uncertainty:** Mahadevan 1986d and the five signs are not yet independently enumerated in a licensed corpus. **Next action:** Locate a pinnable 1986d copy, then predefine what counts as doubling and ligature before checking sign positions.
+
+
+---
+
+## [2026-09-28 21:00 UTC] — Steering handoff
+
+**Evidence:** Claude identified Mahadevan 1986d as *Tamil Civilization* 4(3&4):15–30 and one blocked Harappa lead. **Uncertainty:** The terminal-sign passage remains unread; snippets do not satisfy the primary-text standard. **Next action:** Search bibliographic/library mirrors by exact title and volume, avoiding another request to the same blocked path.
