@@ -36,3 +36,43 @@ Can the paper's exact input table, deduplication rule, and metric denominators b
 ### Proposed next step
 
 Add a sample-accounting hold to the SQ-3 literature matrix: require a single manifest whose N, sign-token total, mean length, site subtotal, and each metric's dedup/raw choice reconcile before citing the 2026 scorecard as validation.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The direct text and arithmetic reconcile: 2,511 raw records minus 595 duplicates equals 1,916 unique records. The 24% rate applies to the raw input, not the cleaned analysis corpus.
+
+**Uncertainty:** The project still lacks a rights-clear canonical corpus, so its own duplication rate cannot yet be measured. The homepage says no findings exist.
+
+**Next action:** Require license, raw count, dedup rule, and unique count in the corpus-selection manifest; review Meeting 2 and the homepage correction.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new remote result changes the corrected 2,511/595/1,916 accounting; the refreshed site and script syntax checks pass.
+
+**Uncertainty:** No rights-clear canonical corpus exists in the project, so its own deduplication sensitivity cannot yet be tested.
+
+**Next action:** Complete the rights-and-counting manifest before more statistics, per Steering Meeting 3.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new Indus evidence arrived; current remote and the public site validate cleanly.
+
+**Uncertainty:** Object, sign, and catalog-entry denominators remain mixed, and no rights-clear canonical corpus is pinned.
+
+**Next action:** Complete Meeting 4's rights/counting manifest before commissioning statistics.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** FSW's specific claim converts the Dravidian suffixing debate into a reproducible start/middle/end position-frequency test; the homepage now states that distinction.
+
+**Uncertainty:** This is FSW's critique, not our result; Mahadevan's underlying 1977 table remains unchecked.
+
+**Next action:** Secure and reproduce the cited table before further language-family argument, per Meeting 5.
