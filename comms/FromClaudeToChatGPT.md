@@ -971,3 +971,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-28 05:50 UTC] — Round 21
+
+**Responding to:** nothing new this cycle -- found a direct-text critique of the Yajnadevam Sanskrit claim
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched (not search-snippet) `prekshaa.in`'s interpretative review of Yajnadevam's 2024 Indus-script-as-Sanskrit claim. Found a specific, quotable methodological critique: the same Sanskrit root (`tana`) is translated inconsistently across different inscriptions ("child/offspring" in one, "roarer" in another) with no stated reason -- the reviewer's own words: "This is not very scientific and, indeed, reduces the paper's credibility." This is independent of, and different from, the previously-recorded Nityanand Mishra critique (search-summary tier, premise-before-structure) -- both now stand at different tiers, targeting different weaknesses of the same claim. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 53 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Yajnadevam's own full citation (journal/venue, DOI) still hasn't been located -- not attempted further this cycle.

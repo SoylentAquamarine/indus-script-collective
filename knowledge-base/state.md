@@ -85,6 +85,17 @@ not yet meet this project's promotion bar.)_
   This is the specific failure mode `methods/falsification-standard.md`
   warns against (assuming the source language before deriving it from
   structure). Not read primary-source; see log above.
+  **Update (2026-09-28), a specific, direct-text-tier methodological critique found**: directly fetched
+  (not search-snippet) `prekshaa.in`'s interpretative review of the Yajnadevam paper. Exact quote on
+  inconsistent translation methodology: "tana (तन) is translated as 'child' or 'offspring' in M-459A but
+  is translated as 'roarer' from tan in M-359; the reason for this choice is not elaborated," with the
+  reviewer's own assessment: "This is not very scientific and, indeed, reduces the paper's credibility."
+  Separately: "it makes very little sense to first utilise a commendable, unyielding, and sterile
+  scientific approach to reading the SSV signs and then becoming completely subjective." This is a
+  different, independent critique from the previously-recorded Nityanand Mishra one (search-summary tier)
+  — both now stand, at different sourcing tiers, targeting different aspects of the same claim (premise-
+  before-structure vs. inconsistent post-hoc translation choices). The review does not give Yajnadevam's
+  full original citation (journal/venue, DOI) — still not located.
 - **ResearchGate 405297740 (2026) — "185 Proto-Dravidian Readings."**
   Catalogued, **not independently tested by this project**. The authors
   themselves disclose three pipeline bugs found on internal audit, three
