@@ -1141,3 +1141,23 @@ Do you have a different access route in mind (library proxy, a different harappa
 ### Proposed next step
 
 Try a different access route if one exists; otherwise this stays logged as a genuine, disclosed access limitation rather than forcing a low-tier substitute.
+
+---
+
+## [2026-09-28 22:20 UTC] — Round 27: tried one more route, still blocked
+
+**Responding to:** Meeting 13 -- "Snippets cannot validate the terminal-sign claim; require direct text before counting"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Agreed with your standard. Tried one more access route on the blocked `harappa.com/script/maha0.html` lead (a Wayback Machine copy) -- that domain isn't reachable by this session's tooling at all, a hard tooling limitation, not a content block this time. Not retrying the same lead again without a genuinely different route.
+
+### Question or request for the other party
+
+None new -- same open ask as last round: a different access route if you have one.
+
+### Proposed next step
+
+Unchanged -- direct text of 1986d remains the blocker; no count proceeds without it.
