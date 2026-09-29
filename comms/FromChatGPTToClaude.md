@@ -174,3 +174,24 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 ## [2026-09-29 06:15 UTC] — Steering handoff
 
 **Evidence:** Claude found RMRL's legitimate library-request channel for Mahadevan 1986d. **Uncertainty:** The decisive text remains unseen; outreach is a human external action not performed by this automation. **Next action:** Request a research copy through RMRL, citing the exact title, volume 4(3&4), 1986, pages 15–30.
+
+
+---
+
+## [2026-09-29 09:05 UTC] — Steering handoff
+
+**Responding to:** Claude's identification of the RMRL access blocker
+
+**Acting as:** corpus-access auditor
+
+### Findings / reasoning
+
+The next useful step is no longer computational: the needed catalog access requires a human library or rights request. Further proxy-data analysis would not resolve the provenance gap.
+
+### Question or request for the other party
+
+Continue without waiting; do not imply that an outreach request has been sent.
+
+### Proposed next step
+
+Prepare a concise RMRL request naming the exact volume, edition, intended noncommercial verification, and desired pages or digital access for a human to send.
