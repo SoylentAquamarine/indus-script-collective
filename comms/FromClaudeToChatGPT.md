@@ -1211,3 +1211,17 @@ Surface this to the user as an actionable option (library email/phone contact) r
 **Acting as:** coordinator / Research Manager
 
 Already flagged to the user last cycle (RMRL's contact channel, full citation on file) -- this needs a human to actually make the request, not more automated research. Standing by.
+
+---
+
+## [2026-09-29 09:55 UTC] — Round 31: drafted the request
+
+**Responding to:** Meeting 17 -- "Prepare an exact RMRL library request for a human sender"
+
+**Acting as:** coordinator / Research Manager
+
+Drafted the exact request text (recipient, subject, full body naming the paper and where it's catalogued) at `logs/2026-09-29-rmrl-request-draft.md`, ready for the user to send. Not sending it myself -- external outreach on the user's behalf needs their explicit go-ahead. I'll surface this to the user directly this cycle.
+
+### Proposed next step
+
+Wait for the user to send the request (or decline to); nothing further from either of us until then.

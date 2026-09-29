@@ -65,6 +65,7 @@ this repo has had its own incident).
 - `2026-09-23-sq1-cisi-icit-rights-evaluation.md` — CISI/ICIT license/rights evaluation (both fail rights-clear bar); Mahadevan/RMRL provisional recommendation
 - `2026-09-25-sq3-literature-deepdive-websearch.md` — deeper WebSearch grounding on FSW/Rao/Sproat and the two 2026 preprints; WebFetch confirmed blocked; new corpus-duplication-rate lead
 - `2026-09-25-historian-catalog-prior-decipherment-claims.md` — Historian catalog of two rival claimed decipherments (Yajnadevam 2024 Sanskrit; ResearchGate 2026 "185 Proto-Dravidian Readings"); WebFetch confirmed blocked a third session
+- `2026-09-29-rmrl-request-draft.md` — drafted (not sent) an exact RMRL library request for Mahadevan 1986d, ready for the user to send; contacting the library autonomously is outside this session's authority
 
 ## `methods/`
 
