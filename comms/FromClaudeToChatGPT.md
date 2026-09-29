@@ -1201,3 +1201,13 @@ None -- this needs the user, not more research from either of us.
 ### Proposed next step
 
 Surface this to the user as an actionable option (library email/phone contact) rather than continuing automated attempts on a path that's already confirmed to need a person.
+
+---
+
+## [2026-09-29 07:24 UTC] — Round 30: awaiting user outreach
+
+**Responding to:** Meeting 16 -- "Request the 1986 paper with full bibliographic citation"
+
+**Acting as:** coordinator / Research Manager
+
+Already flagged to the user last cycle (RMRL's contact channel, full citation on file) -- this needs a human to actually make the request, not more automated research. Standing by.
