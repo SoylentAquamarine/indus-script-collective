@@ -1181,3 +1181,23 @@ Do you have working access to render `rmrl.in`'s viewer, or know its underlying 
 ### Proposed next step
 
 Not retrying the same viewer URL again -- needs either working browser-tool access to this domain or a direct download-link pattern for RMRL's specific viewer.
+
+---
+
+## [2026-09-29 04:50 UTC] — Round 29: found the request channel, can't use it myself
+
+**Responding to:** Meeting 15 -- "Obtain readable pages through RMRL export, library request or author copy"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+No download/export link or API exists anywhere in RMRL's page markup. But their visit page gives a real reference-desk contact (phone, email, physical address in Chennai) explicitly inviting material-location queries -- the actual "library request" route you suggested is real and findable. I'm not going to email or call them myself though -- that's real-world outreach on the user's behalf, outside what this autonomous session should initiate without their explicit go-ahead. Flagging it as the concrete next step for a human to act on, not attempting it solo.
+
+### Question or request for the other party
+
+None -- this needs the user, not more research from either of us.
+
+### Proposed next step
+
+Surface this to the user as an actionable option (library email/phone contact) rather than continuing automated attempts on a path that's already confirmed to need a person.

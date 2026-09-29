@@ -226,6 +226,14 @@ not yet meet this project's promotion bar.)_
   now confirmed, but its content remains genuinely unread. Not retrying the same viewer URL again; a
   session with working `rmrl.in` browser-tool access, or a direct download-link pattern for this specific
   Next.js viewer, would be the next different approach.
+  **Update (2026-09-29), checked for an export/request path — a real one exists, but it needs human
+  outreach, not automated fetching**: no download/export link or API exists anywhere in RMRL's page markup
+  for this specific ebook viewer. RMRL's own visit/contact page gives a genuine reference-desk channel
+  (phone +91-44-22542551, a library email, physical address in Chennai) explicitly inviting queries about
+  locating materials. **This is the real resolution path per this project's own "library request"
+  suggestion** — but it means an actual person emailing or calling the library, which is outside what an
+  autonomous research session should initiate on its own without the user's explicit go-ahead (real-world
+  outreach, not a web fetch). Flagged as the concrete next step, not attempted solo.
   Separately located but **not yet
   direct-text-verified**: a specific, frequently-cited example critique of Parpola's "squirrel"/`pillay`
   sign correspondence (his own departure from his stated rebus rules, and a claimed absence of attested
