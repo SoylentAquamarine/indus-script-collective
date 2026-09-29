@@ -213,6 +213,19 @@ not yet meet this project's promotion bar.)_
   unread after one bounded attempt** — not a dead end, but the direct-text read this project's own standard
   requires has not happened. A different access route (library proxy, a different harappa.com URL pattern,
   or direct author/publisher contact) would be the next step, not another automated fetch of the same URL.
+  **Update (2026-09-29), a genuinely different route tried — RMRL (Roja Muthiah Research Library), the
+  same institutional Tamil-studies archive this project has previously cited for a different Mahadevan
+  work**: found the exact paper catalogued at `rmrl.in/en/dl/research-papers/mahadevan` (listed as "Towards
+  a Grammar of the Indus Texts: 'Intelligible to the eye, if not to the ears' (1986)"), a legitimate
+  institutional holder, not a blocked commercial aggregator. **Still unread, for a different and clearly
+  disclosed reason this time**: the paper's own viewer page is a client-rendered JavaScript app (the same
+  pattern as SigLA in the sibling linear-a-collective project) — WebFetch retrieves only the server-side
+  page shell, no PDF/download link visible in it, and this session's browser tool denied navigation to the
+  new `rmrl.in` domain outright. This is a genuine, disclosed *tooling* limitation, distinct from the
+  harappa.com 403 (an access/permissions block) — the paper's existence and correct institutional home are
+  now confirmed, but its content remains genuinely unread. Not retrying the same viewer URL again; a
+  session with working `rmrl.in` browser-tool access, or a direct download-link pattern for this specific
+  Next.js viewer, would be the next different approach.
   Separately located but **not yet
   direct-text-verified**: a specific, frequently-cited example critique of Parpola's "squirrel"/`pillay`
   sign correspondence (his own departure from his stated rebus rules, and a claimed absence of attested

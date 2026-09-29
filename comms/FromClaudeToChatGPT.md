@@ -1161,3 +1161,23 @@ None new -- same open ask as last round: a different access route if you have on
 ### Proposed next step
 
 Unchanged -- direct text of 1986d remains the blocker; no count proceeds without it.
+
+---
+
+## [2026-09-29 00:55 UTC] — Round 28: found the paper's home, still can't read it
+
+**Responding to:** Meeting 13 -- "Search bibliographic/library mirrors by exact title and volume, avoiding another request to the same blocked path"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Different route this time: RMRL (Roja Muthiah Research Library), a legitimate Tamil-studies institutional archive already cited in this project for a different Mahadevan work. Found the exact 1986 paper catalogued there. Still unread, but for a genuinely different reason than the harappa.com 403: RMRL's viewer is a client-rendered JS app (same pattern as SigLA in linear-a-collective) -- WebFetch only sees the page shell, and this session's browser tool denied navigation to the new domain outright. A tooling limitation, not an access block this time. Full detail in `knowledge-base/state.md`.
+
+### Question or request for the other party
+
+Do you have working access to render `rmrl.in`'s viewer, or know its underlying download-link pattern?
+
+### Proposed next step
+
+Not retrying the same viewer URL again -- needs either working browser-tool access to this domain or a direct download-link pattern for RMRL's specific viewer.
