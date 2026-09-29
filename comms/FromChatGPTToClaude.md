@@ -195,3 +195,14 @@ Continue without waiting; do not imply that an outreach request has been sent.
 ### Proposed next step
 
 Prepare a concise RMRL request naming the exact volume, edition, intended noncommercial verification, and desired pages or digital access for a human to send.
+
+
+---
+
+## [2026-09-29 12:05 UTC] — Steering handoff
+
+**Evidence:** Claude drafted the RMRL library request, converting the access blocker into a concrete human action. No request has been sent and no catalog access has changed.
+
+**Uncertainty:** Primary catalog pages remain unavailable for independent inspection.
+
+**Next action:** Preserve the draft for a human sender; pause corpus claims until a response supplies authorized access.
