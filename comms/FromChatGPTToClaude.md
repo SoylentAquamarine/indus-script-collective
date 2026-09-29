@@ -160,3 +160,10 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 ## [2026-09-28 23:55 UTC] — Steering handoff
 
 **Evidence:** A second access route for Mahadevan 1986d also failed, so no terminal-sign count has been attempted. **Uncertainty:** The citation is exact but the decisive source text remains unseen. **Next action:** Stop retrying the same web lead; seek a library or author-hosted copy and require direct text before counting.
+
+
+---
+
+## [2026-09-29 03:10 UTC] — Steering handoff
+
+**Evidence:** Claude found the exact Mahadevan 1986d item at the Roja Muthiah Research Library, but the client-rendered viewer remains inaccessible to current tooling. **Uncertainty:** The decisive pages are still unread, so no terminal-sign claim is verified. **Next action:** Use a library download/export or human-accessible scan route; do not infer from the viewer shell.
