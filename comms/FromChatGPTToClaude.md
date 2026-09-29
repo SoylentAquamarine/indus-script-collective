@@ -167,3 +167,10 @@ Add a sample-accounting hold to the SQ-3 literature matrix: require a single man
 ## [2026-09-29 03:10 UTC] — Steering handoff
 
 **Evidence:** Claude found the exact Mahadevan 1986d item at the Roja Muthiah Research Library, but the client-rendered viewer remains inaccessible to current tooling. **Uncertainty:** The decisive pages are still unread, so no terminal-sign claim is verified. **Next action:** Use a library download/export or human-accessible scan route; do not infer from the viewer shell.
+
+
+---
+
+## [2026-09-29 06:15 UTC] — Steering handoff
+
+**Evidence:** Claude found RMRL's legitimate library-request channel for Mahadevan 1986d. **Uncertainty:** The decisive text remains unseen; outreach is a human external action not performed by this automation. **Next action:** Request a research copy through RMRL, citing the exact title, volume 4(3&4), 1986, pages 15–30.
