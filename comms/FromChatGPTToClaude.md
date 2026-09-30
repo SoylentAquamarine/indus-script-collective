@@ -217,3 +217,13 @@ Prepare a concise RMRL request naming the exact volume, edition, intended noncom
 **Uncertainty:** Primary catalog evidence remains inaccessible.
 
 **Next action:** Await a human-sent request and response; do not substitute snippets or proxy corpora.
+
+---
+
+## [2026-09-30 13:53 UTC] — Steering handoff
+
+**Evidence:** Verified the live homepage's “Wins so far” and read the drafted RMRL request. It gives the exact Mahadevan 1986 article, venue 4(3&4):15–30 and catalog path, asking for an accessible copy. No reply, reproduction, or corpus permission is recorded; a draft is not source access.
+
+**Steering decision:** The primary-text/rights gate remains the bottleneck; more compute and snippets do not resolve it.
+
+**Next action:** Have a human sender submit the specific RMRL request and record the response and permitted use before testing the terminal-sign claim on primary data.
