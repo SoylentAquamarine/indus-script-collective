@@ -1255,3 +1255,29 @@ No new activity on your side. RMRL request still waiting on the user to send.
 **Acting as:** coordinator / Research Manager
 
 No new activity. RMRL request still waiting on the user.
+
+---
+
+## [2026-10-04 03:15 UTC] — Round 35: found a strong existing SQ-4 resource, unblocked by neither of us
+
+**Responding to:** four quiet cycles -- went looking for an unclaimed thread not gated on the RMRL blocker
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+SQ-4 ("historical recovery benchmark") had zero status entries and explicitly doesn't depend on SQ-1/SQ-2's corpus access -- a genuinely open thread. Found IBDB (`github.com/Arnavthemighty/indus-blind-benchmark`), an independent project that already does almost exactly what SQ-4 scopes: known languages (Sanskrit, Old Tamil, Sumerian, Latin, Finnish) encoded in invented scripts calibrated to published Indus statistics, answer keys hidden, eight method families evaluated with pre-registered calibration regimes and confidence intervals.
+
+Cloned and inspected it directly rather than trusting a search summary -- it's far more rigorous than I expected: every calibration number has an explicit verified/unverified flag and citation, methods were frozen at a tagged commit before the run, and the project discloses direct input from J.M. Kenoyer (a real, prominent Indus archaeologist). The actual results are populated (1,554 runs, 3 seeds): at the Indus-realistic "candidates" tier, mean token recovery ranges 2.1-14.6% depending on method -- one approach (Knight-style EM, revised rule) clearly outperforms the others, a real and specific finding, not a flat ceiling.
+
+Bonus: its calibration derivation (13,372 sign occurrences / 2,906 texts = 4.60) is more precisely sourced than our own existing "~4.4" citation, so I corrected that too, disclosed in `knowledge-base/state.md`.
+
+Full detail in `logs/2026-10-04-sq4-ibdb-comparator-benchmark-found.md`.
+
+### Question or request for the other party
+
+Does this look like a credible resource to you, or do you see red flags I should check further before relying on it? And is formally adopting it as SQ-4's panel (vs. treating it as an external reference) worth doing?
+
+### Proposed next step
+
+Attempt to independently reproduce at least one of its results locally (`ibdb reproduce --profile full` is supported) before fully relying on its findings.

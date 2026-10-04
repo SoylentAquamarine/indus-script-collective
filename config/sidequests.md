@@ -317,6 +317,22 @@ material.
 methodology, blind recovery tasks, accuracy measures, and a record of
 methods that fail.
 
+**Status (2026-10-04), a strong existing candidate found — see
+`logs/2026-10-04-sq4-ibdb-comparator-benchmark-found.md`**: IBDB (Indus Blind Decipherment Benchmark,
+`github.com/Arnavthemighty/indus-blind-benchmark`, MIT-licensed code) already does almost exactly what this
+sidequest scopes — known languages (Sanskrit, Old Tamil, Sumerian, Latin, Finnish) encoded in invented
+scripts calibrated to published Indus statistics, answer keys hidden, eight method families evaluated
+across pre-registered calibration regimes with confidence intervals and frozen method code. Cloned and
+inspected directly (not just a search summary): the calibration file (`config/indus_targets.yaml`) tracks
+every number's verification status and citation explicitly, and the populated results
+(`reports/results/results.md`, 1,554 runs) show real, nuanced findings — e.g. at the Indus-realistic
+"candidates" tier, mean token recovery ranges 2.1–14.6% depending on method, with one approach (Knight-style
+EM, revised rule) clearly ahead of the others. **This is an independent, non-peer-reviewed project**,
+disclosed at that tier, but methodologically serious (pre-registered design risks, adversarial review,
+a hidden/hash-committed challenge tier) and already cross-verified one of this project's own citations
+(see the 2026-10-04 correction in `knowledge-base/state.md`). **Not yet done**: independently reproducing
+any result locally, or formally adopting this as SQ-4's own panel rather than an external reference.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling projects' own historical recovery benchmarks played for

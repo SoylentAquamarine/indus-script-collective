@@ -34,6 +34,16 @@ git log of this file — nothing here is ever silently overwritten.
   from secondary aggregator pages, not a primary statistical publication
   read directly — flagged for a follow-up direct citation. See
   `logs/2026-09-23-sq1-sq2-corpus-and-signcount.md`.
+  **Correction (2026-10-04), the flagged follow-up direct citation is now available — see
+  `logs/2026-10-04-sq4-ibdb-comparator-benchmark-found.md`**: the IBDB project's calibration file derives
+  mean length as **4.60** (tolerance ±0.25), computed directly from two independently-verified primary
+  figures — Rao (2018): 13,372 total sign occurrences in Mahadevan's (1977) corpus; Yadav et al. (2010):
+  2,906 texts in that same corpus — giving 13,372/2,906 = 4.60. Farmer, Sproat & Witzel (2004) independently
+  state the average is "under 4.6," consistent with this derivation. **This supersedes the earlier ≈4.4
+  figure** — not a large change, but a more precisely sourced one (a direct arithmetic derivation from two
+  verified primary-literature numbers, not a secondary-aggregator approximation). The "median 4.0" and
+  "range 2–17" figures are not corrected by this update — IBDB's own calibration file marks its median
+  figure as unverified too (its own "brief" value, not independently re-derived).
 
 _(Corpus-size and sign-count figures were also researched this round but are
 recorded as corrections to `README.md`'s framing rather than Confirmed

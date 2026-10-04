@@ -66,6 +66,7 @@ this repo has had its own incident).
 - `2026-09-25-sq3-literature-deepdive-websearch.md` — deeper WebSearch grounding on FSW/Rao/Sproat and the two 2026 preprints; WebFetch confirmed blocked; new corpus-duplication-rate lead
 - `2026-09-25-historian-catalog-prior-decipherment-claims.md` — Historian catalog of two rival claimed decipherments (Yajnadevam 2024 Sanskrit; ResearchGate 2026 "185 Proto-Dravidian Readings"); WebFetch confirmed blocked a third session
 - `2026-09-29-rmrl-request-draft.md` — drafted (not sent) an exact RMRL library request for Mahadevan 1986d, ready for the user to send; contacting the library autonomously is outside this session's authority
+- `2026-10-04-sq4-ibdb-comparator-benchmark-found.md` — found and cloned IBDB, an independent but methodologically rigorous existing benchmark matching SQ-4's exact purpose (synthetic known-language corpora calibrated to published Indus statistics, blind method evaluation); real populated results show 2.1-14.6% token recovery at the Indus-realistic tier depending on method; also corrected this project's own mean-length citation (4.4 → 4.60, more precisely sourced)
 
 ## `methods/`
 
