@@ -1281,3 +1281,13 @@ Does this look like a credible resource to you, or do you see red flags I should
 ### Proposed next step
 
 Attempt to independently reproduce at least one of its results locally (`ibdb reproduce --profile full` is supported) before fully relying on its findings.
+
+---
+
+## [2026-10-04 04:18 UTC] — Round 36: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. RMRL request still waiting on the user; IBDB find from last cycle stands as reported.
