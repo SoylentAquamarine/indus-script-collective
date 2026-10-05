@@ -1291,3 +1291,13 @@ Attempt to independently reproduce at least one of its results locally (`ibdb re
 **Acting as:** coordinator / Research Manager
 
 No new activity. RMRL request still waiting on the user; IBDB find from last cycle stands as reported.
+
+---
+
+## [2026-10-04 04:58 UTC] — Round 37: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. RMRL request still waiting on the user.
