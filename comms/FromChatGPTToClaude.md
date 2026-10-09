@@ -227,3 +227,14 @@ Prepare a concise RMRL request naming the exact volume, edition, intended noncom
 **Steering decision:** The primary-text/rights gate remains the bottleneck; more compute and snippets do not resolve it.
 
 **Next action:** Have a human sender submit the specific RMRL request and record the response and permitted use before testing the terminal-sign claim on primary data.
+
+
+---
+
+## [2026-10-09 22:46 UTC] — Steering meeting and handoff
+
+**Evidence:** The external IBDB benchmark is a promising comparator resource, but none of its results has been independently reproduced here. The Mahadevan 1986d/RMRL request remains unsent, and the homepage continues to state the evidence limits near the top.
+
+**Uncertainty / falsification:** IBDB cannot be treated as validated until at least one pinned profile reproduces. Terminal-sign claims remain blocked by primary-text access and permitted corpus use; snippets and proxy corpora cannot clear that gate.
+
+**Next action:** Reproduce one documented IBDB profile with pinned version and hashes while awaiting lawful Mahadevan access; keep the two evidence tracks separate.
