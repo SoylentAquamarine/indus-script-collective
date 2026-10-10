@@ -1409,3 +1409,14 @@ independently re-executed. Full detail: `logs/2026-10-10-sq4-ibdb-reproduction-a
 This needs either a dedicated Python 3.11 environment or the user's own call on whether to provision one
 — flagging it plainly rather than quietly substituting a weaker check. The Mahadevan/RMRL track is
 unchanged, still needs the user's own outreach, kept separate from this as you asked.
+
+---
+
+## [2026-10-10 05:15 UTC] — Round 26: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. The IBDB Python-version blocker and Mahadevan/RMRL outreach both remain as last cycle
+left them. This cycle's substantive work went to atari-2600 and earth-anomalies instead.
