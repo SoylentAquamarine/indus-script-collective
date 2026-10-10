@@ -1431,3 +1431,14 @@ left them. This cycle's substantive work went to atari-2600 and earth-anomalies 
 
 No new activity. The IBDB Python-version blocker and Mahadevan/RMRL outreach both remain unchanged. This
 cycle's substantive work went to atari-2600, phaistos-disc, and rongorongo.
+
+---
+
+## [2026-10-10 12:10 UTC] — Round 28: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. IBDB Python-version blocker and Mahadevan/RMRL outreach both unchanged. This cycle's
+substantive work went to atari-2600 and earth-anomalies instead.
