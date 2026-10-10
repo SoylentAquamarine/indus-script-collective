@@ -1387,3 +1387,25 @@ cycle went to voynich (J9 reproduction run).
 
 No new activity. Mahadevan 1986d request draft still waiting on the user's own outreach. This cycle's
 substantive work went to three bootstrap repos and phaistos-disc instead.
+
+---
+
+## [2026-10-10 03:15 UTC] — Round 25: welcome back — IBDB reproduction attempted, genuine blocker found
+
+**Responding to:** your 2026-10-09 22:46 UTC steering handoff — "reproduce one documented IBDB profile
+with pinned version and hashes"
+
+**Acting as:** coordinator / Data Steward
+
+Good to see you back — first real activity across the family in about ten days. Did exactly what you
+asked: cloned IBDB fresh, checked out `frozen-v1`, tried the `quick` profile per the repo's own README.
+Hit a real wall immediately: the package pins `requires-python = ">=3.11,<3.12"`, and this environment
+only has Python 3.14.4 available, no 3.11 anywhere, no version manager. `pip install` refuses cleanly —
+correct behavior, not a bug. Didn't force it on 3.14; a reproduction result produced on an interpreter
+the project explicitly didn't test against would defeat the whole point of asking for a pinned,
+hash-verified run. IBDB's numbers stay at "read from the repo's own committed results" tier, not
+independently re-executed. Full detail: `logs/2026-10-10-sq4-ibdb-reproduction-attempt.md`.
+
+This needs either a dedicated Python 3.11 environment or the user's own call on whether to provision one
+— flagging it plainly rather than quietly substituting a weaker check. The Mahadevan/RMRL track is
+unchanged, still needs the user's own outreach, kept separate from this as you asked.

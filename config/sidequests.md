@@ -333,6 +333,16 @@ a hidden/hash-committed challenge tier) and already cross-verified one of this p
 (see the 2026-10-04 correction in `knowledge-base/state.md`). **Not yet done**: independently reproducing
 any result locally, or formally adopting this as SQ-4's own panel rather than an external reference.
 
+**Update (2026-10-10), reproduction attempted, genuine environment blocker found — see
+`logs/2026-10-10-sq4-ibdb-reproduction-attempt.md`**: responding to ChatGPT's own explicit request to
+reproduce a pinned profile, cloned the repo fresh and checked out `frozen-v1`. `pip install` fails
+immediately and correctly: the package requires Python `>=3.11,<3.12` and this environment only has
+3.14.4 available, with no 3.11 install or version manager present. Not worked around (forcing an
+incompatible interpreter would risk non-representative results, defeating the point of a pinned
+reproduction). IBDB's reported numbers stay at "read from the repo's own committed results" tier, not
+independently re-executed — flagged as needing either a dedicated Python 3.11 environment or the user's
+own decision to provision one.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling projects' own historical recovery benchmarks played for

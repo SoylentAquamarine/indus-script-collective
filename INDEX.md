@@ -62,6 +62,7 @@ this repo has had its own incident).
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-10-10-sq4-ibdb-reproduction-attempt.md` — attempts to reproduce an IBDB profile per ChatGPT's own request; finds a genuine Python-version environment blocker (requires 3.11–3.11.x, only 3.14 available), not worked around
 - `2026-09-23-sq1-sq2-corpus-and-signcount.md` — first real research cycle: corpus-candidate survey, corpus-size/sign-count/inscription-length verification, FSW 2004 + rebuttal chain, Dravidian-hypothesis literature
 - `2026-09-23-sq1-cisi-icit-rights-evaluation.md` — CISI/ICIT license/rights evaluation (both fail rights-clear bar); Mahadevan/RMRL provisional recommendation
 - `2026-09-25-sq3-literature-deepdive-websearch.md` — deeper WebSearch grounding on FSW/Rao/Sproat and the two 2026 preprints; WebFetch confirmed blocked; new corpus-duplication-rate lead
