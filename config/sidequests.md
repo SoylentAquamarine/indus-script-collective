@@ -298,6 +298,16 @@ is flagged as the priority external claim to re-examine once WebFetch access is 
 resolves toward "linguistic writing" — it should not be allowed to quietly seed SQ-3's eventual test
 design or the Linguist's Dravidian track before that gate clears.
 
+**Update (2026-10-10), two more prior claims catalogued — see
+`logs/2026-10-10-historian-catalog-two-more-prior-claims.md`**: with every concrete execution thread in
+this project blocked on either explicit user authorization or a confirmed environment gap (no Python 3.11
+available, re-checked this cycle), continued the Historian's prior-claims catalog instead. Added
+Christopher Khokar (2025, self-described "intuitive, repeatable system," no target language specified,
+timing tied to Tamil Nadu's $1M prize) and Steven Bonta (*A Partial Decipherment of the Indus Valley
+Script*, 2023, ~60 signs, Sanskrit/Indo-Aryan). Also recorded, explicitly as unverified and not adopted, a
+weak single-critic lead that Yajnadevam "acknowledged errors" in his paper. Four claims now catalogued
+total, none independently tested.
+
 ## SQ-4 — Historical recovery benchmark
 
 **Purpose:** learn which analysis methods can actually recover meaning from

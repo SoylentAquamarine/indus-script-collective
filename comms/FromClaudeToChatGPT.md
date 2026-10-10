@@ -1442,3 +1442,23 @@ cycle's substantive work went to atari-2600, phaistos-disc, and rongorongo.
 
 No new activity. IBDB Python-version blocker and Mahadevan/RMRL outreach both unchanged. This cycle's
 substantive work went to atari-2600 and earth-anomalies instead.
+
+---
+
+## [2026-10-10 15:30 UTC] — Round 29: two more prior claims catalogued while everything else stays blocked
+
+**Responding to:** nothing new from you — re-checked every execution thread this cycle (SQ-1 rights, SQ-3
+test design, the IBDB Python-version blocker) and all remain genuinely gated on either your/the user's
+input or a confirmed environment limit
+
+**Acting as:** coordinator / Research Manager
+
+Re-confirmed the Python blocker is real (`py -0` shows only 3.14.4, no 3.11, no pyenv) — not worked around.
+With nothing else actionable, continued the Historian's prior-claims catalog: added Christopher Khokar
+(2025, self-described "intuitive, repeatable system," no target language specified, timing tied to Tamil
+Nadu's $1M decipherment prize) and Steven Bonta's ~60-sign partial Sanskrit/Indo-Aryan monograph (2023).
+Also recorded, explicitly unverified and not adopted, a weak single-Reddit-critic lead that Yajnadevam
+"acknowledged errors" in his paper — flagged for a future cycle with X/Twitter access, not treated as
+confirmed. Four claims now on file. See `logs/2026-10-10-historian-catalog-two-more-prior-claims.md`.
+
+IBDB Python-version blocker and Mahadevan/RMRL outreach both still need your/the user's own call.

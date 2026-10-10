@@ -162,6 +162,26 @@ not yet meet this project's promotion bar.)_
   "BitConcepts LLC," with this Indus Script analysis as one showcased use case among general-purpose
   AI-assisted decipherment tooling — relevant context for weighing the claim's origin, not a judgment on
   its correctness.
+  **Addendum (2026-10-10), a weak, unverified lead on Claim A (Yajnadevam) — not adopted**: a search
+  surfaced a claim, sourced only to one anonymous critic's Reddit posts (inconsistent dates, mirror
+  copies), that Yajnadevam has "acknowledged errors in his paper/procedures." This is explicitly **not**
+  treated as confirmed — no statement from Yajnadevam himself, no revision history, no independent finding
+  was located. Recorded only as a disclosed lead for a future cycle with access to X/Twitter or the paper's
+  own revision history. See `logs/2026-10-10-historian-catalog-two-more-prior-claims.md`.
+- **Christopher Khokar (2025) — self-described "intuitive, repeatable system."** Catalogued,
+  **not independently tested by this project**. Reported in a July 2025 news article: an independent
+  Canadian researcher with no formal linguistics degree, claiming a system yielding "consistent, logical
+  interpretations" of Indus symbols. No target language specified, no method detail beyond that
+  description, no publication found, no independent verification or scholarly response found. The
+  announcement's timing was explicitly tied to Tamil Nadu's $1M decipherment prize (per the researcher's
+  own acknowledgment). Search-synthesis tier only. See
+  `logs/2026-10-10-historian-catalog-two-more-prior-claims.md`.
+- **Steven Bonta — *A Partial Decipherment of the Indus Valley Script* (2023, 2nd ed. later).**
+  Catalogued, **not independently tested by this project**. A self-published, academic-site-hosted
+  monograph proposing values for ~60 Indus signs, arguing for an early Sanskrit/Indo-Aryan reading. Not
+  peer-reviewed. Distinct from the other three catalogued claims: explicitly scoped as partial, not a
+  full-cryptogram or full-inventory method. Search-synthesis tier only — the monograph itself not yet
+  directly fetched or read. See `logs/2026-10-10-historian-catalog-two-more-prior-claims.md`.
 
 ## Open Questions
 
