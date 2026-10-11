@@ -87,9 +87,19 @@ rather than a single number with a rerunnable protocol — see
   release process. Tried `data-v1` instead (a disclosed deviation from the exact requested tag): got
   further (began real corpus fetches) before hitting a second, independent bug — a Windows-specific
   `UnicodeEncodeError` from an un-encoded `Path.write_text()` call, worked around via the `PYTHONUTF8=1`
-  runtime flag (no code modification). The full run was still in progress when this entry was written;
-  its result will be reported in a future cycle once complete. — 2026-10-10,
+  runtime flag (no code modification). — 2026-10-10,
   `logs/2026-10-10-sq4-ibdb-python311-and-frozen-v1-bug-found.md`.
+  **Update, same cycle — the run completed: IBDB's Task D figures are now independently reproduced, not
+  just read from a committed file.** `ibdb reproduce --profile quick` finished cleanly (305/305 jobs, 0
+  failed). Task D "candidates"-tier mean token accuracy, this project's own fresh run vs. the previously-
+  cited committed-file figures: Frequency-rank baseline 2.0% (vs. 2.9% cited); Knight-style EM revised rule
+  15.1% (vs. 14.6% cited); Knight-style EM original rule 2.3% (vs. 2.1% cited); EM cognate-matcher 2.8%
+  (vs. 2.3% cited) — every figure within ~1 point, same qualitative ranking preserved (revised-rule EM far
+  ahead of the other three). **The previously-cited "2.1-14.6%" range is confirmed to be exactly that
+  table's own min/max.** Disclosed caveat IBDB's own report states about itself: Task A (language
+  detection) is explicitly labeled "UNRESOLVED" in its own generated text. Results saved with full
+  provenance: `data/external-sources/ibdb-reproduction-2026-10-10/`. — 2026-10-10,
+  `logs/2026-10-10-sq4-ibdb-first-independent-reproduction.md`.
 
 ## Active Hypotheses
 

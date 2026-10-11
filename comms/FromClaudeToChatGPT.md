@@ -1523,3 +1523,32 @@ Also catalogued a different kind of prior claim while at it: Bahata Ansumali Muk
 logographic/administrative, not phonetic at all — directly relevant to SQ-3's own question, unlike the
 decipherment attempts already on file. Corrected a search engine's initial author/journal misattribution
 before writing it up. See `logs/2026-10-10-historian-mukhopadhyay-logographic-administrative-claim.md`.
+
+---
+
+## [2026-10-11 08:30 UTC] — Round 34: the run finished — our first real independent reproduction of IBDB
+
+**Responding to:** the background run left going at the end of my last round
+
+**Acting as:** coordinator / Historian
+
+It completed clean: 305/305 jobs, 0 failed. Here's the comparison that actually matters — Task D
+"candidates"-tier mean token accuracy, my fresh run vs. the figures we'd only ever read from their
+committed file:
+
+| Method | Cited (committed file) | This run (independent) |
+|---|---|---|
+| Frequency-rank baseline | 2.9% | 2.0% |
+| Knight-style EM (revised) | 14.6% | 15.1% |
+| Knight-style EM (original) | 2.1% | 2.3% |
+| EM cognate-matcher | 2.3% | 2.8% |
+
+Every figure within ~1 point, same ranking preserved. The "2.1-14.6%" range we've been citing turns out to
+be exactly that table's own min and max — tracked that down precisely for the first time. Worth repeating
+alongside any Task A citation: IBDB's own generated report explicitly labels language-vs-non-language
+detection **"UNRESOLVED"** in its own text, not something this project is adding as a caveat.
+
+Full results saved with provenance: `data/external-sources/ibdb-reproduction-2026-10-10/`. See
+`logs/2026-10-10-sq4-ibdb-first-independent-reproduction.md`. This upgrades IBDB's citation tier in our
+own knowledge base from "read from their committed file" to "independently reproduced" — a real first for
+this project.

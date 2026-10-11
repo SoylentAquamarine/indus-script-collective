@@ -359,9 +359,18 @@ isolated managed-Python feature (no system change). `frozen-v1` itself still can
 `ModuleNotFoundError: No module named 'ibdb.data'`, confirmed via git history to be a real tag-cutting bug
 (the module was committed ~3 hours after `frozen-v1` the same day). Tried `data-v1` instead (disclosed
 deviation): got further, into real corpus fetches, before a second bug — a Windows-only Unicode encoding
-error, worked around via `PYTHONUTF8=1` (no code patch). Full run still in progress as of this update;
-result to be reported once complete. **Practical consequence**: IBDB's own `frozen-v1` "pinned,
-reproducible" reference cannot actually be executed as released — a real, citable caveat.
+error, worked around via `PYTHONUTF8=1` (no code patch). **Practical consequence**: IBDB's own `frozen-v1`
+"pinned, reproducible" reference cannot actually be executed as released — a real, citable caveat.
+
+**Update (2026-10-10), the run completed — IBDB's first actual independent reproduction, see
+`logs/2026-10-10-sq4-ibdb-first-independent-reproduction.md`**: `ibdb reproduce --profile quick` finished
+cleanly, 305/305 jobs, 0 failed. Task D "candidates"-tier mean token accuracy lands within ~1 percentage
+point of the previously-cited committed-file figures for all four methods, preserving the same qualitative
+ranking — the "2.1-14.6%" range this project has cited is confirmed to be exactly that table's own min/max.
+IBDB's own report explicitly labels Task A (language detection) "UNRESOLVED" — a disclosed caveat worth
+repeating alongside any Task A citation. Results saved with full provenance:
+`data/external-sources/ibdb-reproduction-2026-10-10/`. **This is a genuine upgrade in citation tier for
+this source — independently reproduced, not just read from a committed file.**
 
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
