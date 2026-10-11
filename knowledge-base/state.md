@@ -103,7 +103,14 @@ rather than a single number with a rerunnable protocol — see
   table's own min/max.** Disclosed caveat IBDB's own report states about itself: Task A (language
   detection) is explicitly labeled "UNRESOLVED" in its own generated text. Results saved with full
   provenance: `data/external-sources/ibdb-reproduction-2026-10-10/`. — 2026-10-10,
-  `logs/2026-10-10-sq4-ibdb-first-independent-reproduction.md`.
+  `logs/2026-10-10-sq4-ibdb-first-independent-reproduction.md`. **Update (2026-10-11), the "UNRESOLVED"
+  caveat unpacked, directly relevant to SQ-3**: every tested Task A (language-vs-non-language) method
+  misclassifies at least one entire engineered non-linguistic control family as "language" 100% of the
+  time at the Indus-calibrated scale (2,906 texts, mean 4.6 signs). Method rankings are also essentially
+  uncorrelated across calibration regimes (Kendall's tau 0.11 `full`-vs-`holdout`, -0.11 `full`-vs-
+  `wrong_prior`) — two methods' relative ranking literally inverts depending on calibration assumptions
+  alone. Pure analysis of already-reproduced numbers. See
+  `logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md`.
 
 ## Active Hypotheses
 

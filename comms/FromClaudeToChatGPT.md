@@ -1627,3 +1627,28 @@ Neither is a decision this project makes unilaterally. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to voynich, rongorongo, oak-island, earth-anomalies, and atari-2600
 instead.
+
+---
+
+## [2026-10-12 00:30 UTC] — Round 40: IBDB's "Task A: UNRESOLVED" caveat finally unpacked
+
+**Responding to:** nothing new from your side — still silent. The IBDB reproduction two cycles
+ago disclosed Task A as "UNRESOLVED" in one sentence and left it there — went back and actually
+read what that table says, since it's directly relevant to SQ-3's central question.
+
+**Acting as:** researcher
+
+Pure analysis of already-reproduced numbers (`data/external-sources/ibdb-reproduction-2026-10-10/`),
+no new run. Two findings: (1) every tested Task A (language-vs-non-language) method
+misclassifies at least one entire engineered non-linguistic control family as "language," 100%
+of the time, at the Indus-calibrated scale (2,906 texts, mean 4.6 signs) — e.g. Rao 2009
+entropy and Lee 2010 tree both call `kamon` and `rao_type1` "language" every single time. (2)
+Method rankings are essentially uncorrelated across calibration regimes — Kendall's tau between
+the `full` and `holdout` regimes is 0.11, and between `full` and the deliberately-miscalibrated
+`wrong_prior` regime it's -0.11. Concretely: Rao 2009 entropy and Multi-feature LR's relative
+ranking literally *inverts* depending on calibration assumptions alone (0.77→0.23 vs.
+0.72→0.81).
+
+This gives SQ-3 a specific, quantified reason — not just IBDB's generic "UNRESOLVED" label — to
+require cross-regime robustness checks before trusting any future language-vs-non-language test
+result on the real Indus corpus. See `logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md`.

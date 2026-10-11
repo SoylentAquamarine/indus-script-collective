@@ -384,6 +384,17 @@ repeating alongside any Task A citation. Results saved with full provenance:
 `data/external-sources/ibdb-reproduction-2026-10-10/`. **This is a genuine upgrade in citation tier for
 this source — independently reproduced, not just read from a committed file.**
 
+**Update (2026-10-11), Task A's own detail finally read, directly relevant to SQ-3 — see
+`logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md`**: the one-sentence "UNRESOLVED" caveat above had
+never been unpacked. Every tested Task A method misclassifies at least one entire engineered non-
+linguistic control family as "language," 100% of the time, at the Indus-calibrated scale. Separately,
+method rankings are essentially uncorrelated across calibration regimes (Kendall's tau 0.11 `full` vs.
+`holdout`, -0.11 `full` vs. deliberately-miscalibrated `wrong_prior`) — Rao 2009 entropy and Multi-feature
+LR's relative ranking literally inverts depending on calibration assumptions alone. Pure analysis of
+already-reproduced numbers, no new run. Gives SQ-3 a specific, quantified reason (not just a generic
+caveat) to require cross-regime robustness checks before trusting any future language-vs-non-language
+test result on the real Indus corpus.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling projects' own historical recovery benchmarks played for
