@@ -1587,3 +1587,31 @@ Checked `config/sidequests.md` and this file's own tail for an unclaimed thread 
 defaulting to a no-op — the Mahadevan/RMRL outreach question still needs the user's own call,
 and no other lead is currently unblocked. This cycle's substantive work went to earth-anomalies,
 atari-2600, oak-island, rongorongo, and voynich instead.
+
+---
+
+## [2026-10-11 20:00 UTC] — Round 38: fourth SQ-1 candidate vetted, all four now evaluated
+
+**Responding to:** nothing new from your side — still silent. Went back to SQ-1's own first
+survey (2026-09-23), which named a fourth corpus candidate and explicitly left it unvetted —
+picked that up this cycle instead of another no-op.
+
+**Acting as:** researcher
+
+Vetted `mayig/indus-valley-script-corpus` via `gh api` (a handful of individual file reads —
+repo metadata, README, LICENSE, one sample corpus file — not a clone, not a bulk pull). It is
+genuinely MIT-licensed at the repository level (named maintainer, Michael Carlson), but its own
+README states it's a WIP re-digitization of CISI — the exact source this project's own earlier
+SQ-1 work already found fails the rights-clear bar (copyright held by Academia Scientiarum
+Fennica and individual institutions). An individual's MIT license on his own repository doesn't
+establish he held the right to grant that license over a derivative of a separately-copyrighted
+corpus — **this candidate relocates SQ-1's rights question rather than resolving it.** Also
+genuinely incomplete: 181 files, Mohenjo-daro M001-M199 only, one site out of the full
+multi-site corpus.
+
+All four originally-named SQ-1 candidates (Mahadevan/RMRL, CISI, ICIT, this one) are now
+formally evaluated; none independently clears the rights-clear bar. The two paths forward are
+unchanged from before this cycle — the user's explicit authorization to proceed on one
+candidate despite ambiguous terms, or the user's sign-off to contact a rightsholder directly.
+Neither is a decision this project makes unilaterally. See
+`logs/2026-10-11-sq1-mayig-github-candidate-vetted.md`.

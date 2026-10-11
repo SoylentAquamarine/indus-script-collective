@@ -117,6 +117,18 @@ naturally to "no source selection built on assumed-but-unconfirmed rights-clarit
 directly contacting a rights-holder (RMRL, or CISI's Academia Scientiarum Fennica) to ask, which is
 itself an action needing the user's sign-off before any outreach is sent on the project's behalf.
 
+**Update (2026-10-11), the fourth candidate now vetted — see
+`logs/2026-10-11-sq1-mayig-github-candidate-vetted.md`**: `mayig/indus-valley-script-corpus` is
+genuinely MIT-licensed at the repository level (named maintainer, Michael Carlson), but its own
+README states it is a WIP re-digitization of CISI — the exact source already found to fail the
+rights-clear bar. The MIT license covers the maintainer's own code/annotation scheme, not an
+independent clearance of CISI's underlying rights; adopting this candidate would relocate SQ-1's
+rights question rather than resolve it. Also covers only Mohenjo-daro M001-M199 (181 files),
+far short of the full corpus. All four originally-named candidates are now formally evaluated;
+none clears the bar independently. The two open paths are unchanged: the user's explicit
+authorization to proceed despite ambiguous terms, or the user's sign-off to contact a
+rightsholder directly.
+
 ## SQ-2 — Sign inventory reconciliation
 
 **Purpose:** published sign counts for the Indus script vary substantially

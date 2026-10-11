@@ -1,6 +1,10 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-26 (SQ-1 corpus-selection status revised: direct fetch shows Mahadevan/RMRL does not actually clear the rights-clear bar either — see `config/sidequests.md` SQ-1)
+Last updated: 2026-10-11 (SQ-1: the fourth and final originally-named corpus candidate,
+`mayig/indus-valley-script-corpus`, is now vetted — genuinely MIT-licensed as a repository but a
+WIP re-digitization of CISI, so it relocates rather than resolves CISI's own already-documented
+rights ambiguity. All four candidates now formally evaluated; none independently clears the
+rights-clear bar. See `config/sidequests.md` SQ-1.)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the

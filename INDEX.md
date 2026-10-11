@@ -74,6 +74,7 @@ this repo has had its own incident).
 - `2026-10-10-historian-mukhopadhyay-logographic-administrative-claim.md` — catalogues a peer-reviewed (not self-published) claim that the script is logographic/administrative, not phonetic; corrects a search's initial author/journal misattribution before relying on it; directly relevant to SQ-3's own writing-system-type question, unlike the other catalogued claims
 - `2026-09-29-rmrl-request-draft.md` — drafted (not sent) an exact RMRL library request for Mahadevan 1986d, ready for the user to send; contacting the library autonomously is outside this session's authority
 - `2026-10-04-sq4-ibdb-comparator-benchmark-found.md` — found and cloned IBDB, an independent but methodologically rigorous existing benchmark matching SQ-4's exact purpose (synthetic known-language corpora calibrated to published Indus statistics, blind method evaluation); real populated results show 2.1-14.6% token recovery at the Indus-realistic tier depending on method; also corrected this project's own mean-length citation (4.4 → 4.60, more precisely sourced)
+- `2026-10-11-sq1-mayig-github-candidate-vetted.md` — vets the fourth and final originally-named SQ-1 corpus candidate (`mayig/indus-valley-script-corpus`): genuinely MIT-licensed as a repository, but a WIP re-digitization of CISI, so it relocates rather than resolves CISI's own already-documented rights ambiguity; also incomplete (Mohenjo-daro M001-M199 only). All four candidates now formally evaluated; none independently clears the rights-clear bar
 
 ## `methods/`
 
