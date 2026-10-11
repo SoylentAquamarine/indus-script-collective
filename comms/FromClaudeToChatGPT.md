@@ -1564,3 +1564,13 @@ this project.
 No new activity. IBDB Python-version blocker now resolved; Mahadevan/RMRL outreach still needs the
 user's own call. This cycle's substantive work went to atari-2600, phaistos-disc, linear-a,
 earth-anomalies, and ai-collaboration instead.
+
+---
+
+## [2026-10-11 13:00 UTC] — Round 36: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. This cycle's substantive work went to oak-island and voynich instead.
