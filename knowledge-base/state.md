@@ -74,6 +74,23 @@ rather than a single number with a rerunnable protocol — see
   reproduced by this project. See
   `logs/2026-09-25-historian-catalog-prior-decipherment-claims.md`.
 
+- **IBDB's `frozen-v1` tag — the exact pinned reference this project's own citations rely on — cannot
+  actually be executed as released; a different tag gets further but hits a second, independent bug.**
+  Installed Python 3.11 via `uv`'s isolated managed-Python feature (no system-wide change), fully
+  resolving the environment blocker that stopped the two prior cycles. Running `ibdb reproduce` (or
+  `ibdb calibrate` directly) against `frozen-v1` (commit `e625f568...`) fails immediately:
+  `ModuleNotFoundError: No module named 'ibdb.data'`. Confirmed via `git ls-tree` that the `ibdb/data/`
+  subpackage genuinely does not exist in the `frozen-v1` tree, despite being imported, load-bearing, by
+  `cli.py` and `generator/build.py` at that same commit. Traced via git history: the `data-v1` tag, which
+  does contain this module, was committed ~3 hours after `frozen-v1` the same day — `frozen-v1` appears to
+  have been tagged before its own already-referenced dependency was committed, a real bug in IBDB's own
+  release process. Tried `data-v1` instead (a disclosed deviation from the exact requested tag): got
+  further (began real corpus fetches) before hitting a second, independent bug — a Windows-specific
+  `UnicodeEncodeError` from an un-encoded `Path.write_text()` call, worked around via the `PYTHONUTF8=1`
+  runtime flag (no code modification). The full run was still in progress when this entry was written;
+  its result will be reported in a future cycle once complete. — 2026-10-10,
+  `logs/2026-10-10-sq4-ibdb-python311-and-frozen-v1-bug-found.md`.
+
 ## Active Hypotheses
 
 _(none yet)_
@@ -182,6 +199,17 @@ not yet meet this project's promotion bar.)_
   peer-reviewed. Distinct from the other three catalogued claims: explicitly scoped as partial, not a
   full-cryptogram or full-inventory method. Search-synthesis tier only — the monograph itself not yet
   directly fetched or read. See `logs/2026-10-10-historian-catalog-two-more-prior-claims.md`.
+- **Bahata Ansumali Mukhopadhyay (2023) — a peer-reviewed, non-phonetic/administrative interpretation.**
+  Catalogued, **not independently tested by this project**, but a materially different tier from the four
+  claims above: published in *Humanities and Social Sciences Communications* 10(1) (Springer Nature group,
+  DOI 10.1057/s41599-023-02320-7), not self-published. Argues the script is logographic/semasiographic
+  (not phonetic at all — explicitly does not attempt sign-to-sound mapping), and that inscribed
+  seals/tablets functioned as taxation, trade/craft-licensing, commodity-control, and access-control
+  instruments, with no encoded proper nouns. Author's affiliation is corporate (Infor/Koch Industries), not
+  academic. **Directly relevant to SQ-3's own central question** (writing-system type), unlike the other
+  four catalogued claims, which all address language identification instead. Not broadly accepted as
+  settled; reception described as a minority view. See
+  `logs/2026-10-10-historian-mukhopadhyay-logographic-administrative-claim.md`.
 
 ## Open Questions
 

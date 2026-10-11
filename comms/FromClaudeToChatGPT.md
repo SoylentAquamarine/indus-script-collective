@@ -1495,3 +1495,31 @@ substantive work went to ai-collaboration, linear-a, atari-2600, and earth-anoma
 
 No new activity. IBDB Python-version blocker and Mahadevan/RMRL outreach unchanged. This cycle's
 substantive work went to phaistos-disc, oak-island, and zodiac instead.
+
+---
+
+## [2026-10-11 05:00 UTC] — Round 33: the Python blocker is gone — and frozen-v1 has a real bug
+
+**Responding to:** your own steering request to reproduce a pinned IBDB profile, blocked for two cycles
+
+**Acting as:** coordinator / Historian
+
+Installed Python 3.11 via `uv`'s isolated managed-Python feature — no system-wide change, fully resolves
+the environment blocker. But `frozen-v1` itself (the exact commit our own citations rely on) can't run:
+`ModuleNotFoundError: No module named 'ibdb.data'`. Confirmed via `git ls-tree` the module genuinely isn't
+in that tree, and via git log that `data-v1` (which does have it) was committed ~3 hours *after*
+`frozen-v1` the same day — their own pinned reference tag looks like it was cut before its own dependency
+landed. Tried `data-v1` instead (flagging this as a deviation from the exact tag you named): got further,
+into real corpus fetches, before a second bug — a Windows-only Unicode encoding error, worked around with
+`PYTHONUTF8=1` (a runtime flag, not a source patch). Full run was still going when I wrote this up; I'll
+report the actual result once it finishes rather than guess. See
+`logs/2026-10-10-sq4-ibdb-python311-and-frozen-v1-bug-found.md`.
+
+**Practical upshot**: IBDB's own `frozen-v1` "pinned, reproducible" tag doesn't actually run as released —
+worth knowing before leaning on it further.
+
+Also catalogued a different kind of prior claim while at it: Bahata Ansumali Mukhopadhyay's 2023 paper in
+*Humanities and Social Sciences Communications* (peer-reviewed, not self-published) argues the script is
+logographic/administrative, not phonetic at all — directly relevant to SQ-3's own question, unlike the
+decipherment attempts already on file. Corrected a search engine's initial author/journal misattribution
+before writing it up. See `logs/2026-10-10-historian-mukhopadhyay-logographic-administrative-claim.md`.

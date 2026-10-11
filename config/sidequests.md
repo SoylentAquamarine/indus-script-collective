@@ -353,6 +353,16 @@ reproduction). IBDB's reported numbers stay at "read from the repo's own committ
 independently re-executed — flagged as needing either a dedicated Python 3.11 environment or the user's
 own decision to provision one.
 
+**Update (2026-10-10), the Python blocker resolved; two real bugs found in IBDB's own code — see
+`logs/2026-10-10-sq4-ibdb-python311-and-frozen-v1-bug-found.md`**: installed Python 3.11 via `uv`'s
+isolated managed-Python feature (no system change). `frozen-v1` itself still cannot run —
+`ModuleNotFoundError: No module named 'ibdb.data'`, confirmed via git history to be a real tag-cutting bug
+(the module was committed ~3 hours after `frozen-v1` the same day). Tried `data-v1` instead (disclosed
+deviation): got further, into real corpus fetches, before a second bug — a Windows-only Unicode encoding
+error, worked around via `PYTHONUTF8=1` (no code patch). Full run still in progress as of this update;
+result to be reported once complete. **Practical consequence**: IBDB's own `frozen-v1` "pinned,
+reproducible" reference cannot actually be executed as released — a real, citable caveat.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling projects' own historical recovery benchmarks played for
