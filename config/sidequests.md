@@ -395,6 +395,16 @@ already-reproduced numbers, no new run. Gives SQ-3 a specific, quantified reason
 caveat) to require cross-regime robustness checks before trusting any future language-vs-non-language
 test result on the real Indus corpus.
 
+**Update (2026-10-12), three further already-reproduced sections read — see
+`logs/2026-10-12-sq4-ibdb-length-sweep-and-feasibility-analysis.md`**: the length sweep shows Indus's own
+extreme brevity (mean 4.6 signs/text) is a precise, quantified handicap (Task D accuracy 7.4%→15.1%→36.1%
+at 3.0/4.6/10.0 signs/text). The "smallest corpus where a method beats chance" table shows every Task
+C/D method relevant to the real Indus situation is marked "never" at any corpus size up to 50,000 texts
+except one marginal case — only the explicitly-not-Indus-realistic "related" tier (a known sister
+language) ever crosses these thresholds. The 16-scenario feasibility sweep confirms this isn't a fragile
+artifact of one calibration choice: every relevant Task D method's success share is exactly 0.00 across
+all 16 random perturbations. Pure analysis of already-reproduced numbers, no new run.
+
 **Stepping-stone value:** validates or eliminates decipherment techniques
 before they are trusted on a corpus with no known answer key — exactly the
 role the sibling projects' own historical recovery benchmarks played for

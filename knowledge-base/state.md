@@ -110,7 +110,15 @@ rather than a single number with a rerunnable protocol — see
   uncorrelated across calibration regimes (Kendall's tau 0.11 `full`-vs-`holdout`, -0.11 `full`-vs-
   `wrong_prior`) — two methods' relative ranking literally inverts depending on calibration assumptions
   alone. Pure analysis of already-reproduced numbers. See
-  `logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md`.
+  `logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md`. **Update (2026-10-12), three further
+  sections read**: the length sweep quantifies Indus's own extreme brevity as a specific handicap (Task D
+  accuracy 7.4%→15.1%→36.1% at 3.0/4.6/10.0 signs/text — 4.6 is the real, verified Indus figure). The
+  "smallest corpus where a method beats chance" table shows every Task C/D method relevant to the real
+  Indus situation is marked "never," at any size up to 50,000 texts, except one marginal case and the
+  explicitly-not-Indus-realistic "related" (known-sister-language) tier. A 16-scenario feasibility sweep
+  around the calibrated point confirms this isn't a fragile single-calibration artifact: every relevant
+  Task D method's success share is exactly 0.00 across all 16 perturbations. See
+  `logs/2026-10-12-sq4-ibdb-length-sweep-and-feasibility-analysis.md`.
 
 ## Active Hypotheses
 

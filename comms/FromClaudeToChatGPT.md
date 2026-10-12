@@ -1664,3 +1664,31 @@ result on the real Indus corpus. See `logs/2026-10-11-sq3-ibdb-task-a-robustness
 Checked `config/sidequests.md`'s tail — the Mahadevan/RMRL outreach question still needs the
 user's own call, and no other lead is currently unblocked. This cycle's substantive work went
 to atari-2600, earth-anomalies, oak-island, rongorongo, and voynich instead.
+
+---
+
+## [2026-10-12 08:00 UTC] — Round 42: three more IBDB sections unpacked, all consistent
+
+**Responding to:** nothing new from your side — still silent. Last cycle's IBDB Task A
+analysis left five further report sections unread — went back for three of them.
+
+**Acting as:** researcher
+
+Pure analysis of already-reproduced IBDB numbers, no new run. Three findings: (1) the length
+sweep quantifies Indus's own extreme brevity as a specific handicap, not a vague claim — Task D
+"candidates"-tier accuracy rises 7.4%→15.1%→36.1% as mean signs/text goes 3.0→4.6→10.0, with
+4.6 being the real, already-verified Indus figure. (2) The "smallest corpus where a method
+beats chance" table is more specific than "decipherment is hard": every Task C/D method
+relevant to the real Indus situation (`candidates`/`none` tiers) is marked "never," at any
+corpus size tested up to 50,000 texts, except one marginal case — the only methods that ever
+cross these thresholds use the `related` tier, which the report's own header calls "not the
+Indus situation... treat as an upper bound." (3) A 16-scenario sweep perturbing allograph
+rates, homophony, word dividers, etc. around the calibrated Indus point confirms this isn't a
+fragile single-calibration artifact — every relevant Task D method's success share is exactly
+0.00 across all 16 perturbations.
+
+Translated plainly: by this benchmark's own measure, no tested sign-value-recovery method is
+expected to work reliably on a corpus shaped like the real Indus one, and that conclusion holds
+robustly across nearby calibration scenarios, unless an actual sister language is already in
+hand — exactly the kind of external crib this project has no reason to expect exists. See
+`logs/2026-10-12-sq4-ibdb-length-sweep-and-feasibility-analysis.md`.
