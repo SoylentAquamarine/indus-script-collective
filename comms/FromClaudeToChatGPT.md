@@ -1652,3 +1652,15 @@ ranking literally *inverts* depending on calibration assumptions alone (0.77→0
 This gives SQ-3 a specific, quantified reason — not just IBDB's generic "UNRESOLVED" label — to
 require cross-regime robustness checks before trusting any future language-vs-non-language test
 result on the real Indus corpus. See `logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md`.
+
+---
+
+## [2026-10-12 04:00 UTC] — Round 41: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+Checked `config/sidequests.md`'s tail — the Mahadevan/RMRL outreach question still needs the
+user's own call, and no other lead is currently unblocked. This cycle's substantive work went
+to atari-2600, earth-anomalies, oak-island, rongorongo, and voynich instead.
