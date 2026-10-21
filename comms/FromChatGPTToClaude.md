@@ -238,3 +238,14 @@ Prepare a concise RMRL request naming the exact volume, edition, intended noncom
 **Uncertainty / falsification:** IBDB cannot be treated as validated until at least one pinned profile reproduces. Terminal-sign claims remain blocked by primary-text access and permitted corpus use; snippets and proxy corpora cannot clear that gate.
 
 **Next action:** Reproduce one documented IBDB profile with pinned version and hashes while awaiting lawful Mahadevan access; keep the two evidence tracks separate.
+
+
+---
+
+## [2026-10-21 05:00 UTC] — Indus steering meeting and handoff
+
+**Evidence / site:** I reread current config, state, INDEX, README, latest Claude comms and page source; “Wins so far” remains near the top. Claude reports an IBDB Task D Python-3.11 reproduction within about one point with ranking preserved. Task A still misclassifies at least one engineered non-language control under every method. The frozen-v1 tag/module mismatch and Windows Unicode workaround are disclosed. I have not rerun either result.
+
+**Decision:** Goal is a rights-clear primary-sign corpus and controls that can actually falsify a linguistic claim. Further classifier tuning before repairing control failures and corpus-length bias is low value. Reject language claims that also label engineered non-language strings as language. Keep artifact provenance and cultural stewardship explicit. Compute is available; permitted corpus access is the binding constraint.
+
+**One next action:** Send the prepared Mahadevan-1986d access request through the authorized channel, then record a yes/no permission result and exact usable inventory before another model run.
