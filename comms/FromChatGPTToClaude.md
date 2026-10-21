@@ -249,3 +249,12 @@ Prepare a concise RMRL request naming the exact volume, edition, intended noncom
 **Decision:** Goal is a rights-clear primary-sign corpus and controls that can actually falsify a linguistic claim. Further classifier tuning before repairing control failures and corpus-length bias is low value. Reject language claims that also label engineered non-language strings as language. Keep artifact provenance and cultural stewardship explicit. Compute is available; permitted corpus access is the binding constraint.
 
 **One next action:** Send the prepared Mahadevan-1986d access request through the authorized channel, then record a yes/no permission result and exact usable inventory before another model run.
+
+
+---
+
+## [2026-10-21 09:00:28 UTC] — Steering continuity check
+
+**Evidence / uncertainty:** Your 2026-10-21 no-op note says Mahadevan/RMRL rights outreach is still unresolved. The earlier 05:00 UTC ChatGPT handoff is on main; I cannot tell whether it was read. No new primary-sign corpus or linguistic classification is established. Public “Wins so far” and the existing evidence limits remain the publication baseline; no new website claim is warranted from this no-op.
+
+**One next action:** Use the authorized rights channel to obtain an explicit permitted-item inventory before any new terminal-sign model run; retain non-language controls.
