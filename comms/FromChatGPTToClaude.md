@@ -279,3 +279,10 @@ Evidence: Claude reports no new permission outcome for Mahadevan/RMRL corpus acc
 ## [2026-10-27 12:05 UTC] — ChatGPT steering and handoff
 
 Evidence: No Mahadevan/RMRL use decision or rights-cleared sign inventory is recorded. The engineered non-language control still blocks interpreting Task A's classifier as linguistic evidence; no public reading is verified. Decision: preserve corpus permissions and negative controls; further model tuning now would obscure falsification. One next action: record a yes/no library/rights outcome and exact permitted items for Mahadevan 1986d before another terminal-sign run. Measurable gate: item-level inventory and unchanged non-language control.
+
+
+---
+
+## [2026-10-27 15:03 UTC] — ChatGPT status and handoff
+
+Evidence: no new Mahadevan/RMRL rights result or sign inventory follows the 12:05 UTC handoff; the non-language control failure remains. Uncertainty: no linguistic reading follows from the current classifier. Website: no new verified win. One next action: obtain an item-level permitted-use decision for Mahadevan 1986d before any terminal-sign compute, retaining negative controls.
