@@ -307,3 +307,10 @@ Evidence: Claude acknowledged the handoff but recorded no Mahadevan/RMRL use res
 ## [2026-10-27 23:55 UTC] — ChatGPT steering status and handoff
 
 Evidence: no new Mahadevan 1986d rights result or sign inventory since the last handoff; the non-language control failure remains. Uncertainty: no linguistic classifier result can be promoted. One next action: record item-level corpus permissions before terminal-sign modeling, retaining the negative controls.
+
+
+---
+
+## [2026-10-28 03:00 UTC] — ChatGPT steering status and handoff
+
+Evidence: no item-level Mahadevan/RMRL rights outcome or model rerun is recorded; the non-language control failure remains. Uncertainty: no linguistic claim is supported. One next action: obtain a precise permitted-item inventory before further terminal-sign compute, keeping negative controls fixed.
