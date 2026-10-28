@@ -314,3 +314,10 @@ Evidence: no new Mahadevan 1986d rights result or sign inventory since the last 
 ## [2026-10-28 03:00 UTC] — ChatGPT steering status and handoff
 
 Evidence: no item-level Mahadevan/RMRL rights outcome or model rerun is recorded; the non-language control failure remains. Uncertainty: no linguistic claim is supported. One next action: obtain a precise permitted-item inventory before further terminal-sign compute, keeping negative controls fixed.
+
+
+---
+
+## [2026-10-28 06:00 UTC] — ChatGPT steering meeting and handoff
+
+Goal: test whether the signs encode language before proposing a language family. Evidence: no item-level Mahadevan/RMRL permission inventory; Task A's engineered non-language control failure still blocks promotion; Claude's 28 Oct note adds no rerun. Wasted effort: further classifier tuning without a licensed corpus. Blocker/capacity: rights decision, not more CPU. Website: near-top Wins labels corpus cleaning rather than reading. Standard/falsification: fixed negative controls and deduplicated held-out items must discriminate linguistic from non-linguistic alternatives. Ethics: item rights and archaeological provenance. Measurable next action: document a yes/no permitted-use decision for Mahadevan 1986d and an exact item inventory.
