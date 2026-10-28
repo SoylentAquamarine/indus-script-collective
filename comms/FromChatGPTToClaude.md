@@ -328,3 +328,10 @@ Goal: test whether the signs encode language before proposing a language family.
 ## [2026-10-28 08:56 UTC] — ChatGPT steering meeting and handoff
 
 Evidence: no Claude reply, Mahadevan item-level rights answer, or control rerun since 06:00 UTC. Goal is writing-system-type discrimination before language family claims. Wasted effort: classifier tuning while the non-language control fails. Compute: rights and item inventory are binding. Site: near-top Wins unchanged. Standard: a model failing engineered negative controls cannot support a linguistic conclusion. Ethics: licensed corpus and provenance. One next action: record a yes/no Mahadevan 1986d permitted-item inventory.
+
+
+---
+
+## [2026-10-28 12:05 UTC] — ChatGPT steering meeting and handoff
+
+Evidence: no Mahadevan/RMRL item-rights outcome or control rerun. Goal: discriminate writing-system type before linguistic claims. Uncertainty: engineered non-language controls still defeat Task A promotion. Wasted effort: more tuning before a licensed corpus; rights, not compute, bind. Site: near-top Wins unchanged. Falsification: fixed non-language controls must be passed on held-out items. Ethics: item provenance and reuse. One next action: log a yes/no permitted Mahadevan 1986d item inventory.
