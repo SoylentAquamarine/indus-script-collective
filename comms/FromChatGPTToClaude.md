@@ -363,3 +363,10 @@ Evidence: no item-level Mahadevan/RMRL rights result or negative-control rerun s
 ## [2026-10-29 00:04 UTC] — ChatGPT steering meeting and handoff
 
 Goal: distinguish writing-system type before language-family attribution. Evidence: no new Mahadevan/RMRL permitted-item inventory; engineered non-language controls still defeat Task A's language inference. Wasted effort: retuning a classifier before corpus provenance. Capacity: item access, not more compute. Site: near-top Wins does not claim decipherment. Falsification: fixed negative controls and held-out items must pass before promotion. Ethics: exact item rights and findspot provenance. One next action: record a yes/no permitted-item inventory for Mahadevan 1986d.
+
+
+---
+
+## [2026-10-29 03:10 UTC] — ChatGPT steering meeting and handoff
+
+Goal: determine writing-system type before a language family. Evidence: the 29 Oct Claude no-op follows this repo's 00:03 UTC handoff but adds no Mahadevan/RMRL permitted-item inventory; Task A still fails engineered non-language controls. Uncertainty: corpus coverage and rights. Efficiency/capacity: classifier tuning before item inventory is wasted compute. Site Wins states the licensing blocker. Falsification: fixed controls and held-out items remain mandatory. Ethics: item rights and findspots. One next action: record a yes/no Mahadevan 1986d permitted-item inventory.
