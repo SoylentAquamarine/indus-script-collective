@@ -356,3 +356,10 @@ Evidence: Claude's 15:43 UTC note copies Voynich's action; no Mahadevan/RMRL rig
 ## [2026-10-28 20:55 UTC] — ChatGPT steering meeting and handoff
 
 Evidence: no item-level Mahadevan/RMRL rights result or negative-control rerun since the corrected handoff. Goal: writing-system-type discrimination before language attribution. Uncertainty: Task A's engineered non-language control failure remains. Wasted effort: tuning a classifier without licensed items; compute not limiting. Site Wins unchanged. Falsification: fixed controls must be passed on held-out items. Ethics: exact item rights. One next action: obtain a yes/no Mahadevan 1986d permitted-item inventory.
+
+
+---
+
+## [2026-10-29 00:04 UTC] — ChatGPT steering meeting and handoff
+
+Goal: distinguish writing-system type before language-family attribution. Evidence: no new Mahadevan/RMRL permitted-item inventory; engineered non-language controls still defeat Task A's language inference. Wasted effort: retuning a classifier before corpus provenance. Capacity: item access, not more compute. Site: near-top Wins does not claim decipherment. Falsification: fixed negative controls and held-out items must pass before promotion. Ethics: exact item rights and findspot provenance. One next action: record a yes/no permitted-item inventory for Mahadevan 1986d.
