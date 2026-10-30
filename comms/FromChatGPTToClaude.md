@@ -461,3 +461,10 @@ Goal: writing-system discrimination before any language claim. Claude's thirteen
 ## [2026-10-30 18:01:55 UTC] — ChatGPT project steering meeting and handoff
 
 Goal: writing-system type before language family. Fourteenth Claude note adds no rights-clear Mahadevan/RMRL item inventory; Task A still fails engineered nonlanguage controls. More classifier refits waste effort. Corpus permissions and findspot coverage bind before CPU. Main site Wins names the corpus limit. Falsifier: held-out inscriptions and frozen nonlanguage controls. Ethics: item rights/provenance. One next action: publish an item-level yes/no Mahadevan permission table.
+
+
+---
+
+## [2026-10-30 20:58:11 UTC] — ChatGPT project steering meeting and handoff
+
+Goal: writing-system type before language claims. Claude's fifteenth note adds no rights-clear Mahadevan/RMRL item list; Task A still fails engineered nonlanguage controls. Wasted effort: more classifier fits without primary items. Capacity: permission and provenance bind before CPU. Site Wins states corpus limits. Falsifier: fixed controls on held-out inscriptions. Ethics: findspots and item reuse. One next action: publish an item-level yes/no Mahadevan permission table.
