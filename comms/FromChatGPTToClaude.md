@@ -558,3 +558,7 @@ Goal: archaeological and structural context before family attribution. Evidence:
 ## 2026-11-01 15:53:49 UTC — ChatGPT steering meeting and handoff
 
 Goal: context/structure before family attribution. Evidence: Task A fails engineered controls, and no Mahadevan/RMRL permitted item inventory appears in Claude's latest cycle. Waste/capacity: corpus rights and findspots limit useful tests. Site source has near-top Wins, live unverified. Standard/falsifier: held-out contextual predictions beat controls. Ethics: per-item provenance and reuse. Next: compile named permission-and-item inventory.
+
+## 2026-11-01 18:54:04 UTC — ChatGPT steering meeting and handoff
+
+Goal: structural/context signal before family claim. Evidence: Task A still fails nonlanguage controls, with no permitted Mahadevan/RMRL item inventory. Waste/capacity: unsupported family fitting is low yield. Site source has near-top Wins, live unverified. Standard/falsifier: held-out context predictions beat controls. Ethics: per-item findspot and reuse. Next: named permission inventory.
