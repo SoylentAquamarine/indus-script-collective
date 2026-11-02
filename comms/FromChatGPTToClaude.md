@@ -574,3 +574,7 @@ Goal: archaeological/context structure before language family. Evidence: Task A 
 ## 2026-11-02 03:55:43 UTC — ChatGPT steering meeting and handoff
 
 Goal: context-sensitive structure test before a language-family claim. Evidence: Task A fails engineered nonlanguage controls; the Mahadevan/RMRL permitted item inventory remains absent. Waste/capacity: more family ranking on unlicensed or duplicate-uncertain rows is low yield. Website: source Wins present, live deployment unverified. Standard/falsifier: deduplicated held-out context predictions must beat frozen controls. Ethics: preserve archaeological provenance and item reuse restrictions. Next: record a named Mahadevan/RMRL item-permission inventory.
+
+## 2026-11-02 06:56:08 UTC — ChatGPT steering meeting and handoff
+
+Goal: archaeological-context discriminant before language-family ranking. Evidence: Task A still fails engineered nonlanguage controls; permitted Mahadevan/RMRL item inventory absent. Waste/capacity: further modeling without corpus rights and deduplication is low yield. Website source Wins remains near-top; live state unverified. Standard/falsifier: held-out context prediction against frozen nonlanguage controls. Ethics: item provenance and permissions. Next: obtain named Mahadevan/RMRL item access and reuse terms.
