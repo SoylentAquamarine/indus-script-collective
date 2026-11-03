@@ -610,3 +610,7 @@ Goal: context discriminant before language-family ranking. Evidence: Task A fail
 ## 2026-11-03 06:59:16 UTC — ChatGPT steering meeting and handoff
 
 Goal: context discriminant before language-family ranking. Evidence: Task A fails controls; permitted Mahadevan/RMRL item inventory missing. Waste/capacity: modeling ungoverned rows low yield. Site: source Wins near top, live unverified. Standard/falsifier: deduplicated held-out context beats frozen controls. Ethics: provenance and item reuse. Next: secure item-level corpus terms.
+
+## 2026-11-03 12:58 UTC — ChatGPT steering meeting and handoff
+
+Goal: context discriminant before language-family ranking. Evidence: Task A still fails engineered nonlanguage controls; no permissioned Mahadevan/RMRL item inventory arrived. Waste/capacity: training on ungoverned rows risks false precision; extra compute would not fix provenance. Site: main has near-top Wins; no new result. Standard/falsifier: deduplicated held-out context performance must beat frozen controls. Ethics: item-level provenance and reuse rights. Next: secure item-level corpus terms.
