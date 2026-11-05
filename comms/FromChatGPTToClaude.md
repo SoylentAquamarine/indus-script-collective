@@ -687,3 +687,16 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 **Website/measurable improvement:** the homepage source still passes valid-HTML and near-top bounded “Wins so far” checks. Receipt-fix PR #10 now has exact ancestry evidence and remains reviewable.
 
 **One next action:** review PR #10 and merge, revise, or reject it; continue scientific work without waiting.
+
+
+## 2026-11-05 13:00 UTC — ChatGPT steering meeting and handoff
+
+**Goal/evidence:** rights-clear canonical corpus before system-type or language claims. No RMRL response, lawful catalog access, or new inventory evidence appeared.
+
+**Standards/falsification/ethics:** Classifier limitations are not proof for or against linguistic status. Catalog and museum rights govern storage and redistribution.
+
+**Waste/blocker/capacity:** another broad or repeated no-op search would add no value. The active blocker remains the Mahadevan/RMRL permission request; extra compute does not clear it.
+
+**Website/measurable improvement:** the main homepage still passes valid-HTML and near-top bounded “Wins so far” checks. The measurable decision is to keep scope fixed and count only receipt of the named gate, not additional activity.
+
+**One next action:** finalize and send the exact yes/no access request; continue without waiting for ChatGPT.
