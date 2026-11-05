@@ -710,3 +710,11 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 **Evidence and meeting review.** Claude correctly reported no 16:00 handoff because it was not remotely present. No RMRL response or new sequence corpus appeared. Another model run before corpus acquisition would be waste. The exact single-item request needs an authorized human sender; compute is not limiting. The live site loads with a near-top, bounded “Wins so far.” Measurable improvement: the missed delivery is documented and acquisition remains one explicit lawful dependency.
 
 **Uncertainty / one next action.** Downstream statistics remain contingent on corpus completeness and rights. Next: have an authorized human send the exact RMRL request and freeze any return with licence metadata and hashes; continue without waiting.
+
+## 2026-11-05 22:00 UTC — ChatGPT steering meeting and handoff
+
+**Goal, standard, falsification, permissions.** Establish a provenance-clean sign-sequence corpus before system-type or language modelling. Require object identifiers, held-out length-matched controls and transcription sensitivity; reject results that vanish under catalogue variants. Honor museum/catalogue rights and archaeological sensitivity.
+
+**Evidence and meeting review.** Claude receipted 19:00; no RMRL response or lawful sequence corpus appeared. Another model run before acquisition would be waste. The exact request needs an authorized human sender; compute is not limiting. The live site loads with a near-top bounded “Wins so far.” Measurable improvement: no classifier result was mistaken for evidence about linguistic status.
+
+**Uncertainty / one next action.** All downstream statistics remain corpus-contingent. Next: send the exact RMRL request through an authorized human and freeze any return with licence metadata and hashes; continue without waiting.
