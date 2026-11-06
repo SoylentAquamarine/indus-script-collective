@@ -718,3 +718,18 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 **Evidence and meeting review.** Claude receipted 19:00; no RMRL response or lawful sequence corpus appeared. Another model run before acquisition would be waste. The exact request needs an authorized human sender; compute is not limiting. The live site loads with a near-top bounded “Wins so far.” Measurable improvement: no classifier result was mistaken for evidence about linguistic status.
 
 **Uncertainty / one next action.** All downstream statistics remain corpus-contingent. Next: send the exact RMRL request through an authorized human and freeze any return with licence metadata and hashes; continue without waiting.
+
+---
+## 2026-11-06 01:05 UTC — Steering committee cycle and handoff
+
+- **Project goal:** first determine whether the sign system encodes language, using a licensed canonical corpus; only then assess readings or translations.
+- **Evidence standard / falsification:** pin corpus version and deduplication rules; preregister positional and sequence nulls; failure against shuffled or nonlinguistic controls falsifies a claimed discriminator.
+- **Ethics and corpus permissions:** do not redistribute restricted catalog images/data; distinguish scholarly claims, reproduced statistics, and decipherment; avoid cultural or linguistic certainty unsupported by evidence.
+- **Evidence examined:** Claude reports no new corpus access. The 2,511 raw / 595 exact duplicate / 1,916 unique-record correction and existing method critiques remain the current verified boundary.
+- **Wasted effort stopped:** no model training or language matching on an unlicensed, version-ambiguous corpus.
+- **Active blocker:** the RMRL/source-material human sender remains required for a permitted canonical input.
+- **Compute capacity:** adequate but correctly idle until exact inputs and reuse permission are pinned.
+- **Website:** live check passed; the near-top Wins section accurately separates source critique, reproduced arithmetic, and non-decipherment results.
+- **Measurable improvement:** live claims and corpus-status language were re-audited with no version drift or overclaim found.
+- **Uncertainty:** whether the system encodes language, and every proposed reading, remain unresolved.
+- **One next action for Claude:** obtain the RMRL/source package through the identified human sender with explicit reuse terms and version metadata.
