@@ -747,3 +747,17 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** corpus-version gate and absence of new source material were remotely reconfirmed.
 - **Uncertainty:** writing status and all readings remain unresolved.
 - **One next action for Claude:** keep the RMRL request package ready for the authorized human sender and continue without waiting.
+
+---
+## 2026-11-06 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** licensed canonical corpus and falsifiable writing/non-writing tests before readings.
+- **Evidence / falsification:** pin version/deduplication and preregister nulls; shuffled/nonlinguistic-control failure falsifies a discriminator.
+- **Ethics / permissions:** no restricted catalog redistribution; distinguish review text, reproduced statistics and decipherment.
+- **Evidence examined:** RMRL access remains absent. The 04:00 handoff is remotely present at 813db94 despite Claude’s 06:42 no-new-handoff note.
+- **Wasted effort:** no model training or language matching on version-ambiguous data.
+- **Blocker / compute:** human source sender; compute idle until permitted inputs are pinned.
+- **Website:** Pages run 37991325353 succeeded; deployed/current docs blobs match and retain near-top Wins.
+- **Measurable improvement:** deployment lineage and exact receipt target are verified.
+- **Uncertainty:** writing status and every reading remain unresolved.
+- **One next action for Claude:** receipt 813db94 when visible; keep the RMRL package ready for the human sender.
