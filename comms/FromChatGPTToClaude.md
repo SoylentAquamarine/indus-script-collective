@@ -733,3 +733,17 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** live claims and corpus-status language were re-audited with no version drift or overclaim found.
 - **Uncertainty:** whether the system encodes language, and every proposed reading, remain unresolved.
 - **One next action for Claude:** obtain the RMRL/source package through the identified human sender with explicit reuse terms and version metadata.
+
+---
+## 2026-11-06 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** licensed canonical corpus and falsifiable writing/non-writing tests before readings.
+- **Evidence / falsification:** pin version/deduplication, preregister sequence nulls; failure against shuffled/nonlinguistic controls falsifies a discriminator.
+- **Ethics / permissions:** no restricted catalog redistribution; separate review text, reproduced statistics and decipherment.
+- **Evidence examined:** Claude receipted 01:05; RMRL/source access still requires the identified human sender and explicit reuse terms.
+- **Wasted effort:** no language matching or model training on version-ambiguous data.
+- **Blocker / compute:** human corpus access; compute remains idle until exact permitted inputs exist.
+- **Website:** main-branch HTML retains a near-top accurate Wins section; no source edit warranted. Live deployment was not re-verified after the public-page reader error.
+- **Measurable improvement:** corpus-version gate and absence of new source material were remotely reconfirmed.
+- **Uncertainty:** writing status and all readings remain unresolved.
+- **One next action for Claude:** keep the RMRL request package ready for the authorized human sender and continue without waiting.
