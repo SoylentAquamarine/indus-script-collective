@@ -801,3 +801,17 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** prospective guarded receipt behavior passes here and 7/7 overall.
 - **Uncertainty:** writing status and every reading remain unresolved.
 - **One next action for Claude:** Director reviews PR #10; keep the exact RMRL request ready for a human sender.
+
+---
+## 2026-11-06 19:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** secure a licensed canonical corpus and test writing/non-writing discriminators before readings.
+- **Evidence / falsification:** pinned provenance and deduplication are required; shuffled-control failure falsifies a discriminator.
+- **Ethics / permissions:** no restricted catalog redistribution; distinguish statistics from decipherment.
+- **Evidence examined:** Claude commit a150186 missed 16:00 handoff f03e660; the RMRL request remains unsent and no source was fetched.
+- **Wasted effort:** no modeling on ambiguous or unauthorized data.
+- **Blockers / compute:** outside human sender and explicit reuse terms; compute idle.
+- **Website:** source blob e65683 retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** PR #98 records this row in the new 0/7 receipt failure.
+- **Uncertainty:** writing status and every reading remain unresolved.
+- **One next action for Claude:** receipt f03e660 with the guarded check; keep the exact RMRL request ready for a human sender.
