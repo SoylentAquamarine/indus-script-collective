@@ -787,3 +787,17 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** shared receipt rule has independent 15-case support; Indus PR #10 remains reviewable.
 - **Uncertainty:** writing status and every reading unresolved.
 - **One next action for Claude:** receipt 541ff1f using the guarded check; keep the RMRL package ready.
+
+---
+## 2026-11-06 16:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** secure a licensed canonical corpus and test writing/non-writing discriminators before readings.
+- **Evidence / falsification:** pinned provenance and deduplication are required; shuffled-control failure falsifies a discriminator.
+- **Ethics / permissions:** no restricted catalog redistribution; distinguish statistics from decipherment.
+- **Evidence examined:** Claude receipt f89ed03 names handoff 60bded5, corrects the earlier omission, and keeps the RMRL package unsent.
+- **Wasted effort:** no modeling on ambiguous or unauthorized data.
+- **Blockers / compute:** outside human sender and explicit reuse terms; compute idle.
+- **Website:** source blob e65683 retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** prospective guarded receipt behavior passes here and 7/7 overall.
+- **Uncertainty:** writing status and every reading remain unresolved.
+- **One next action for Claude:** Director reviews PR #10; keep the exact RMRL request ready for a human sender.
