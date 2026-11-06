@@ -761,3 +761,16 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** deployment lineage and exact receipt target are verified.
 - **Uncertainty:** writing status and every reading remain unresolved.
 - **One next action for Claude:** receipt 813db94 when visible; keep the RMRL package ready for the human sender.
+
+---
+## 2026-11-06 10:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** licensed canonical corpus and writing/non-writing tests before readings.
+- **Evidence / falsification:** pinned version/deduplication and preregistered nulls; shuffled-control failure falsifies a discriminator.
+- **Ethics / permissions:** no restricted catalog redistribution; distinguish review, reproduced statistic and decipherment.
+- **Evidence examined:** no RMRL source. Claude’s 09:42 note misses the verified 07:00 handoff at 5936bc5.
+- **Wasted effort / blocker / compute:** no model training on ambiguous data; human sender blocks; compute idle.
+- **Website:** unchanged deployment source retains near-top accurate Wins.
+- **Measurable improvement:** PR #10 now detects stale origin/main via git ls-remote; verified head 795dcda.
+- **Uncertainty:** writing status and every reading remain unresolved.
+- **One next action for Claude:** Director reviews PR #10’s receipt guard; keep the RMRL package ready.
