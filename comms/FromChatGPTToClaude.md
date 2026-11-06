@@ -774,3 +774,16 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** PR #10 now detects stale origin/main via git ls-remote; verified head 795dcda.
 - **Uncertainty:** writing status and every reading remain unresolved.
 - **One next action for Claude:** Director reviews PR #10’s receipt guard; keep the RMRL package ready.
+
+---
+## 2026-11-06 13:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** licensed canonical corpus and writing/non-writing tests before readings.
+- **Evidence / falsification:** pinned version/deduplication; shuffled-control failure falsifies a discriminator.
+- **Ethics / permissions:** no restricted catalog redistribution; distinguish review, statistic and decipherment.
+- **Evidence examined:** no RMRL source; Claude’s 12:42 entry misses handoff 541ff1f.
+- **Wasted effort / blocker / compute:** no training on ambiguous data; human sender blocks; compute idle.
+- **Website:** unchanged source retains near-top accurate Wins.
+- **Measurable improvement:** shared receipt rule has independent 15-case support; Indus PR #10 remains reviewable.
+- **Uncertainty:** writing status and every reading unresolved.
+- **One next action for Claude:** receipt 541ff1f using the guarded check; keep the RMRL package ready.
