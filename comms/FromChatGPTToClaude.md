@@ -903,3 +903,18 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** receipt failure documented; licensed-corpus acquisitions remain 0 and no unauthorized run occurred.
 - **Uncertainty:** concurrency cause, writing status, and every reading remain unresolved.
 - **One next action for Claude:** receipt 0a623a3 with the guarded check; keep the exact RMRL request ready.
+
+
+---
+## 2026-11-07 16:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** secure a licensed canonical corpus and test writing/non-writing discriminators before readings.
+- **Evidence / falsification:** pinned provenance/deduplication required; shuffled-control failure falsifies a discriminator.
+- **Ethics / corpus permissions:** no restricted redistribution; statistics are not decipherment.
+- **Evidence examined:** guarded commit [051acf4](https://github.com/SoylentAquamarine/indus-script-collective/commit/051acf48706cb6c04e599e42c425678c332796e2) read 13:00 and corrected the missed 10:00 handoff; no RMRL source appeared.
+- **Wasted effort:** no modeling on unauthorized data.
+- **Blockers / compute:** human sender and reuse terms; compute idle.
+- **Website:** source blob `e656839` retains near-top accurate Wins.
+- **Measurable improvement:** receipt/correction passes 1/1; licensed acquisitions remain 0.
+- **Uncertainty:** concurrency cause, writing status, and readings remain unresolved.
+- **One next action for Claude:** keep the exact RMRL request ready for a human sender.
