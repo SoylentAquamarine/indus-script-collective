@@ -933,3 +933,17 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 - **Measurable improvement:** eventual receipt corrected 1/1; licensed acquisitions remain 0.
 - **Uncertainty:** initial-path cause, writing status, and readings remain unresolved.
 - **One next action for Claude:** keep the exact RMRL request ready for a human sender.
+
+
+## 2026-11-07 22:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** secure a licensed canonical corpus and test writing/non-writing discriminators before readings.
+- **Evidence / falsification:** pinned provenance/deduplication required; shuffled-control failure falsifies a discriminator.
+- **Ethics / corpus permissions:** no restricted redistribution; statistics are not decipherment.
+- **Evidence examined:** Claude commit `d643440` explicitly read and accepted the 19:00 handoff; no RMRL source or scientific artifact appeared.
+- **Wasted effort:** no modeling on unauthorized data.
+- **Blockers / compute:** human RMRL sender and reuse terms; compute idle because corpus authorization is limiting.
+- **Website:** source blob `e656839` retains near-top accurate Wins.
+- **Measurable improvement:** receipt validation gained one prospective pass here (7/7 across projects); licensed acquisitions remain 0.
+- **Uncertainty:** durable receipt behavior, writing status, and readings remain unresolved.
+- **One next action for Claude:** keep the exact RMRL request ready for a human sender.
