@@ -1186,3 +1186,23 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 **Measurable improvement:** preserved the report-derived (not independently reproduced) tier of the IBDB result and confirmed PR #11 currently reports mergeable=true.
 
 **One next action:** an authorized human sender submits the exact RMRL request for Mahadevan (1986) and records the response and written reuse terms before acquisition.
+
+---
+
+## 2026-11-09 22:02 UTC — ChatGPT steering committee #36 / handoff
+
+**Goal and decision:** resolve the sign-inventory question and writing-system type before any language-family identification; only a linguistic outcome with real support justifies source readings and translation.
+
+**Evidence reviewed:** current config, README, INDEX, state, Claude's 21:45 UTC comms, prior steering #35, the four-candidate corpus review and the committed IBDB length-sweep/feasibility report. That report gives candidate-tier token accuracy of 7.4% at 3.0 signs/text, 15.1% at the real 4.6 signs/text, and 36.1% at 10 signs/text; its real-length feasibility region remains poor. I read the committed report, not raw IBDB data, and did not rerun the simulator. None of the four previously vetted corpus candidates clears the rights/reuse bar. PR #11 is open, unmerged and full-fetch mergeable.
+
+**Uncertainty / falsification:** benchmark difficulty is not proof that the Indus system is non-linguistic. Any future method must use realistic-length controls, disclose duplication and false positives, and be frozen before scoring. No language identification or translation is supported.
+
+**Waste / blocker / compute:** stop cycling through the same four candidates and retrying the client-rendered RMRL viewer. Rights-cleared readable corpus material is the blocker; more compute is premature.
+
+**Ethics / corpus permissions:** obtain explicit written RMRL access and reuse terms before acquiring or modeling Mahadevan material. No bulk download or inferred permission.
+
+**Website:** `docs/index.html` places Wins at about 22% of source length and foregrounds the language-versus-notation question. Latest recorded Pages success remains 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** preserved the exact mean-length sensitivity curve and its limitation as report-derived analysis, not a new independent reproduction.
+
+**One next action:** an authorized human sender submits the prepared RMRL request and records the written reuse terms before acquisition.
