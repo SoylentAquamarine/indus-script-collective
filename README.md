@@ -53,7 +53,11 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The central question—whether the Indus signs encode language at all—remains unresolved. All four evaluated corpus candidates have failed the project's rights/reuse screen; no rights-cleared canonical corpus has been acquired. A 16-scenario feasibility analysis found zero successes for the relevant Task D methods under the tested perturbations, a methodological limitation rather than proof of a non-linguistic system. The next gate is written reuse permission for the RMRL source, submitted by an authorized human sender. No decipherment or translation is established. See `knowledge-base/state.md`, `config/sidequests.md`, and the Task D reports.
+
+## Public research site
+
+The homepage source is maintained in [`docs/index.html`](docs/index.html), with the language-status dispute and a plain-language Wins section visible. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
 
 ## Public research site
 
