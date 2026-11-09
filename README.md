@@ -58,7 +58,3 @@ Active. The central question—whether the Indus signs encode language at all—
 ## Public research site
 
 The homepage source is maintained in [`docs/index.html`](docs/index.html), with the language-status dispute and a plain-language Wins section visible. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
-
-## Public research site
-
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
