@@ -1107,3 +1107,5 @@ Goal: context discriminant. Evidence: Task A fails controls; no permissioned cor
 
 **One next action:** have an authorized human sender submit the exact RMRL request and record the library's written reuse terms before any acquisition.
 
+**Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #11 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. No merge was performed.
+
