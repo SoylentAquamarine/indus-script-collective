@@ -57,4 +57,4 @@ Active. The central question—whether the Indus signs encode language at all—
 
 ## Public research site
 
-The homepage source is maintained in [`docs/index.html`](docs/index.html), with the language-status dispute and a plain-language Wins section visible. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
+The homepage source is maintained in [`docs/index.html`](docs/index.html), with the language-status dispute and a plain-language Wins section visible. The latest recorded `Deploy GitHub Pages` workflow completed successfully on 2026-10-09 ([run](https://github.com/SoylentAquamarine/indus-script-collective/actions/runs/37991325353)); direct HTTP availability was not verified in this audit, so do not infer that the live URL is reachable from the workflow result alone.
