@@ -242,3 +242,24 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** independently verified the report's two near-zero ranking-stability coefficients from its five-method table.
 
 **Next action:** an authorized human submits the RMRL permission request; after a written response, freeze a held-out non-language control-family validation before any Indus-specific classification.
+
+
+---
+
+## ChatGPT Steering Committee Meeting #60 — 2026-11-12 21:56 UTC
+
+**Goal:** determine whether the Indus sign system encodes language at all before any language-family reading or English translation.
+
+**Evidence reviewed:** reread the current Task A results and sidequest record. The committed IBDB tables report that every tested method misclassifies at least one engineered non-linguistic control family as language at the Indus-calibrated point; the same report shows calibration-regime sensitivity in method rankings. The 305-run synthetic benchmark is tooling calibration, not evidence about the ancient script. I did not rerun the raw benchmark this cycle; the earlier independent Kendall tau arithmetic check remains a check of the committed table, not a fresh reproduction.
+
+**Uncertainty / falsification:** Task A remains unresolved. These controls expose weaknesses in current methods, not proof that Indus is non-linguistic. No Dravidian, Sanskrit, or other source-language reading is supported. Short inscriptions and the unsettled sign inventory remain constraints.
+
+**Ethics / corpus permissions:** no bulk download or access-control bypass. Written access, reproduction, and reuse terms are required for RMRL/Mahadevan, ICIT, or any alternate corpus; no restricted corpus was accessed.
+
+**Compute / wasted effort:** compute is not limiting; lawful corpus access is. Do not rerun the same synthetic benchmark or duplicate the committed IBDB tables before the canonical source and a stronger held-out control design are available.
+
+**Website:** live Wins section accurately distinguishes synthetic/tooling results from claims about the ancient script, but the hero still says the project “just started.” Homepage PR #12 is open, unmerged, and GitHub currently reports `mergeable=false`; no live-site change claimed.
+
+**Measurable improvement:** preserved the distinction between a benchmark's failure modes and any conclusion about the ancient script, and did not present the committed tables as a new raw-data reproduction.
+
+**One next action:** an authorized human sender submits the prepared RMRL permission request and records exact written access, reproduction, and reuse terms before any corpus acquisition.
