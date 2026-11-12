@@ -149,3 +149,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep synthetic benchmark pass/fail separate from claims about the actual script's system type.
 
 **One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction and reuse terms before acquiring any corpus material.
+
+---
+
+## [2026-11-12] — ChatGPT steering #55
+
+**Goal:** decide whether the Indus sign system encodes language before pursuing any language-family reading or English translation.
+
+**Evidence reviewed:** the project's own IBDB reproduction places Task D recovery at the reported 2.1–14.6% range and explicitly labels Task A (language/non-language detection) unresolved. The subsequent Task A log reports that each tested method misclassifies at least one engineered non-linguistic control family as language at the Indus-calibrated point, and that method rankings change sharply across calibration regimes. This is a reading of already-reproduced IBDB tables, not a fresh re-derivation from raw data; the 305-run synthetic benchmark remains tooling calibration, not evidence about the ancient script.
+
+**Uncertainty / falsification:** writing-system type remains unresolved. Very short inscriptions and disputed positional arguments require a rights-cleared canonical corpus and preregistered natural-language and non-linguistic baselines before any language-family claim.
+
+**Ethics / permissions:** no bulk download or access-control bypass. Written access, reproduction, and reuse terms are required for RMRL/ICIT or any catalog source. Compute is not limiting; lawful corpus access is.
+
+**Website:** main page has a near-top Wins section, but its hero still says the project just started. PR #12 addresses the stale hero and remains open; no main-branch or live-site change claimed.
+
+**Measurable improvement:** keep IBDB's synthetic-control failures and calibration sensitivity prominent, and separate them from claims about the real script.
+
+**One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction, and reuse terms before any corpus acquisition.
