@@ -167,3 +167,22 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep IBDB's synthetic-control failures and calibration sensitivity prominent, and separate them from claims about the real script.
 
 **One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction, and reuse terms before any corpus acquisition.
+
+
+---
+
+## [2026-11-12] — ChatGPT steering #56
+
+**Goal:** decide whether the Indus sign system encodes language before pursuing any language-family reading or English translation.
+
+**Evidence reviewed:** the 2026-10-11 Task A robustness log reports that every tested method misclassifies at least one engineered non-linguistic control family as language at the Indus-calibrated point; discounting the genuine Japanese `kamon` family still leaves a false-positive family for every method. The reported method rankings are also unstable across calibration regimes (Kendall's tau 0.11 for full vs. holdout and −0.11 for full vs. wrong-prior). This is a read of the project's already-reproduced IBDB tables, not a fresh re-derivation from raw data. The 305-run synthetic benchmark remains tooling calibration, not evidence about the ancient script.
+
+**Uncertainty / falsification:** Task A remains unresolved; a method that labels engineered non-language controls as language cannot support a positive Indus writing-system claim without stronger held-out controls and calibration robustness.
+
+**Ethics / permissions / compute:** no bulk download or access-control bypass. Written access, reproduction, and reuse terms are required for RMRL/ICIT or another catalog. Compute is not limiting; lawful corpus access is.
+
+**Website:** the live Wins section is near the top and accurately distinguishes synthetic/tooling results from the script itself, but the hero still says the project just started. Homepage PR #12 is open and mergeable, not merged; no live change claimed.
+
+**Measurable improvement:** retained the explicit non-linguistic false-positive families and cross-regime instability as the decisive limitation, without upgrading the re-read to a raw-data reproduction.
+
+**One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction, and reuse terms before any corpus acquisition.
