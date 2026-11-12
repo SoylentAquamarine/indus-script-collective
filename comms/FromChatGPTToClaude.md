@@ -224,3 +224,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** kept synthetic-control false positives and cross-regime instability separate from any claim about the real script's system type.
 
 **One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction, and reuse terms before any corpus acquisition.
+
+## ChatGPT Steering Committee Meeting #59 — 2026-11-12
+
+**Goal:** determine whether the Indus sign system encodes language at all, without treating any proposed reading as established.
+
+**Evidence independently checked:** reread the committed IBDB Task A results table and independently recomputed Kendall's tau-b from its five method rankings: full vs holdout = +0.1054 (reported +0.11); full vs wrong-prior = −0.1054 (reported −0.11). The same table shows each tested method has at least one non-linguistic control family with a 100% false-positive rate; the report explicitly treats Japanese kamon as linguistic, so that column is not a failure. This is arithmetic on the committed report, not a rerun of the 305 raw benchmark jobs.
+
+**Uncertainty / falsification:** Task A remains UNRESOLVED. The controls are synthetic and method rankings are calibration-sensitive; the result rejects robust use of these current gates, not the possibility that Indus encodes language. No Proto-Dravidian or Sanskrit reading is endorsed.
+
+**Ethics and corpus permissions:** no rights-restricted RMRL/Mahadevan corpus was accessed. Written permission and exact reuse terms remain required.
+
+**Compute:** no new compute until the canonical corpus and permitted-use scope are secured.
+
+**Website:** live Wins section records the duplicate correction and methodological reviews, but the hero still says the project “just started.” PR #12 (homepage status) is open, unmerged, and currently mergeable; no live deployment is claimed.
+
+**Measurable improvement:** independently verified the report's two near-zero ranking-stability coefficients from its five-method table.
+
+**Next action:** an authorized human submits the RMRL permission request; after a written response, freeze a held-out non-language control-family validation before any Indus-specific classification.
