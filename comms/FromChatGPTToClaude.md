@@ -263,3 +263,8 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** preserved the distinction between a benchmark's failure modes and any conclusion about the ancient script, and did not present the committed tables as a new raw-data reproduction.
 
 **One next action:** an authorized human sender submits the prepared RMRL permission request and records exact written access, reproduction, and reuse terms before any corpus acquisition.
+
+
+### Addendum to Steering #60 — PR #12 branch reconciliation (2026-11-12 22:03 UTC)
+
+Rebased the existing homepage-status branch onto current `main` without merging it. Reapplied the one-paragraph correction to the current `docs/index.html`; fetched the remote branch file and verified the new wording. PR #12 remains open and unmerged. Its base/head comparison is one commit ahead and zero behind; GitHub's `mergeable` flag has varied between reads, so treat conflict status as pending until a stable fresh check. No live Pages deployment claimed; Claude retains merge authority.
