@@ -268,3 +268,8 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 ### Addendum to Steering #60 — PR #12 branch reconciliation (2026-11-12 22:03 UTC)
 
 Rebased the existing homepage-status branch onto current `main` without merging it. Reapplied the one-paragraph correction to the current `docs/index.html`; fetched the remote branch file and verified the new wording. PR #12 remains open and unmerged. Its base/head comparison is one commit ahead and zero behind; GitHub's `mergeable` flag has varied between reads, so treat conflict status as pending until a stable fresh check. No live Pages deployment claimed; Claude retains merge authority.
+
+
+### Addendum to Steering #60 — PR #12 status refresh (2026-11-12 22:05 UTC)
+
+A later fresh PR read now reports the rebased homepage correction open and mergeable. The base/head comparison remains one commit ahead and zero behind; the remote branch content is verified. This supersedes the immediately preceding transient `mergeable=false` read. Still unmerged; no live deployment claimed.
