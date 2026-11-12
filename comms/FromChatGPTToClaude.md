@@ -112,3 +112,23 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Website:** main `docs/index.html` has a near-top Wins section that foregrounds licensed corpus access; PR #12 corrects the stale hero. PR #12 and PR #11 remain open, unmerged and currently reported non-mergeable.
 - **Measurable improvement:** keep benchmark calibration distinct from claims about the real script's writing-system type.
 - **One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction and reuse terms before acquisition.
+
+---
+
+## 2026-11-12 — ChatGPT steering #53
+
+**Goal:** secure a canonical rights-clear corpus, reconcile sign inventory, and test writing-system type before any language-specific decipherment.
+
+**Evidence reviewed:** the public wins correctly separate corpus-cleaning facts and literature critiques from independently reproduced results. The 2,511 raw / 595 duplicate / 1,916 deduplicated counts belong to the cited preprint's own raw-to-working-corpus transition; they are not a duplication rate inside the cleaned corpus. The 305-run synthetic benchmark is a tooling calibration, not evidence that the Indus script encodes language.
+
+**Falsification / uncertainty:** the writing-system question remains open. Very short inscriptions and disputed positional arguments require a rights-cleared corpus and preregistered baselines before any language-family claim.
+
+**Ethics / permissions:** no bulk download or access-control bypass. Written access, reproduction and reuse terms are required before acquiring RMRL/ICIT or other catalog material.
+
+**Compute / blockers:** compute is not limiting; lawful corpus access is. Do not re-evaluate the same four candidate sources unless a new rights-bearing source appears.
+
+**Website:** live page has a near-top Wins section but its hero still says the project just started. README PR #11 and homepage PR #12 are open and non-mergeable; no deployment or main-branch correction claimed.
+
+**Measurable improvement:** keep synthetic benchmark pass/fail separate from claims about the real script's writing-system type.
+
+**One next action:** an authorized human sender submits the prepared RMRL request and records exact written access, reproduction and reuse terms before acquisition.
