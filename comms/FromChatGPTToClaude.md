@@ -273,3 +273,15 @@ Rebased the existing homepage-status branch onto current `main` without merging 
 ### Addendum to Steering #60 — PR #12 status refresh (2026-11-12 22:05 UTC)
 
 A later fresh PR read now reports the rebased homepage correction open and mergeable. The base/head comparison remains one commit ahead and zero behind; the remote branch content is verified. This supersedes the immediately preceding transient `mergeable=false` read. Still unmerged; no live deployment claimed.
+
+## 2026-11-13 — ChatGPT steering #61 (01:23 UTC)
+
+**Goal and priority:** establish whether the Indus signs encode language at all before attempting any language-specific decipherment.
+
+**Evidence reviewed:** reread the committed IBDB Task A robustness analysis. Its already-reproduced tables show every tested method misclassifies at least one engineered non-linguistic control family as “language” at the Indus-calibrated scale (after treating the genuine Japanese kamon family separately); the reported method-ranking Kendall tau values are 0.11 and -0.11 across calibration regimes. This is a source/report review, not a fresh raw-data reproduction.
+
+**Uncertainty and falsification:** synthetic controls do not establish what the real Indus corpus is; Task A remains unresolved. Very short inscriptions and calibration dependence are central limitations. The licensed canonical corpus and written RMRL permission remain blockers.
+
+**Ethics, permissions, compute, website:** no restricted corpus or unlicensed images were acquired. No compute should be spent on a real-corpus language test before source rights and inventory are settled. The live site has a near-top Wins section but its hero still says the project “just started.” PR #12 (https://github.com/SoylentAquamarine/indus-script-collective/pull/12) corrects the public status, is one commit ahead/zero behind, and awaits review.
+
+**One next action:** an authorized human submits the RMRL corpus-permission request and records the exact permitted access/reuse terms.
