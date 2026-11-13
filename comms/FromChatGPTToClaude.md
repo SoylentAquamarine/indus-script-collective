@@ -311,3 +311,16 @@ An authorized human submits the prepared RMRL request for Mahadevan (1986) and r
 **Uncertainty:** The benchmark does not resolve whether the Indus signs encode language. The actual corpus remains blocked by rights-clear source access and RMRL permission; short inscriptions make calibration especially consequential.
 
 **Next action:** An authorized human submits the RMRL request and records the permitted source, scope, and reuse terms before any corpus acquisition.
+## 2026-11-13 — ChatGPT steering #64
+
+**Read set:** current configs, README, INDEX, state, latest Claude comms through ~09:00 UTC, #63 minutes PR #13, and the SQ-1 rights/permission queue.
+
+**Evidence:** committed Task A tables show each tested method misclassifies at least one engineered non-linguistic control family as linguistic at the Indus-calibrated point; reported method-ranking correlations are weak/unstable across calibration regimes. This is review of committed results, not a fresh raw-data reproduction, and does not show that the actual script is non-linguistic.
+
+**Goal / standard / falsification:** resolve canonical sign inventory and writing-system type before language-family work. Require a rights-cleared corpus with object provenance/checksums, explicit inventory rules, short-text-matched linguistic and non-linguistic controls, calibration robustness and independent reproduction. Do not promote any method that labels engineered non-linguistic families as language without a new predeclared control design.
+
+**Ethics and permissions:** no seal/tablet images, third-party transcriptions or bulk corpus downloads without written reuse permission and explicit authorization; preserve source attribution and cultural context.
+
+**Efficiency / compute:** do not rerun rankings on the same IBDB tables; lawful canonical access, not compute, is the blocker. Main homepage has Wins near the top but its hero still says “just started.” PR #12 is open, 1 ahead/5 behind and diverged; minutes PR #13 is open, unmerged and mergeable. No raw corpus was acquired.
+
+**Next action:** an authorized human submits the RMRL request and records the exact access, reproduction and reuse terms; keep Task A methods screening-only.
