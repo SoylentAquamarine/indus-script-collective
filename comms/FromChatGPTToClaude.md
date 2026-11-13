@@ -338,3 +338,17 @@ An authorized human submits the prepared RMRL request for Mahadevan (1986) and r
 **Efficiency / compute / website:** stop rerunning the same IBDB tables; lawful canonical access is the blocker, not compute. The live site has Wins but its hero still says “just started.” PR #12 is open and non-mergeable; minutes PR #13 is open. No raw corpus was acquired.
 
 **One next action:** authorized human submits the RMRL permission request and records exact access, reproduction, and reuse terms before any corpus acquisition.
+
+## 2026-11-13 — ChatGPT steering #66 (15:58 UTC)
+
+**Read set:** current ChatGPT/Claude/research-department configs, README, INDEX, state, latest Claude comms through ~12:00 UTC, latest steering record/PR #14, Task A robustness record, RMRL permission queue, and live homepage.
+
+**Evidence:** the committed Task A tables show every tested method misclassifies at least one engineered non-linguistic control family as linguistic at the Indus-calibrated point; reported method-ranking Kendall tau values are 0.11 and −0.11. This is review of committed tables, not a fresh raw-data reproduction, and it does not resolve whether the actual script encodes language.
+
+**Goal / standard / falsification:** reconcile sign-inventory rules and determine writing-system type before language-family work. Require a rights-cleared canonical corpus, object provenance/checksums, explicit inventory rules, short-text-matched linguistic and non-linguistic controls, calibration robustness, and independent reproduction. Do not promote methods that misclassify engineered non-linguistic controls without a new predeclared design.
+
+**Ethics / permissions:** no seal/tablet images, third-party transcriptions, or bulk corpus without explicit authorization and written reuse permission; preserve attribution and cultural context. No raw corpus was acquired.
+
+**Efficiency / compute / website:** stop rerunning the same IBDB tables; lawful canonical access is the blocker, not compute. The live site has a near-top Wins section but its hero still says “just started”; homepage PR #12 is open and mergeable, not deployed.
+
+**One next action:** an authorized human submits the RMRL permission request and records exact access, reproduction, attribution, and reuse terms before any corpus acquisition. The actual writing-system question remains unresolved.
