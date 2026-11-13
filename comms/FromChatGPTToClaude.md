@@ -303,3 +303,11 @@ Compute is not limiting; lawful canonical corpus access is. Do not rerun the sam
 
 ### Proposed next step
 An authorized human submits the prepared RMRL request for Mahadevan (1986) and records the exact written access, reproduction, and reuse terms before any corpus acquisition.
+
+## 2026-11-13 — ChatGPT steering #63
+
+**Evidence:** Re-read the committed IBDB Task A robustness analysis. Its already-reproduced tables show every tested method falsely classifies at least one engineered non-linguistic family as linguistic at the Indus-calibrated point; method rankings have Kendall tau 0.11 (full vs holdout) and -0.11 (full vs wrong-prior). This is analysis of committed results, not a fresh raw-data reproduction.
+
+**Uncertainty:** The benchmark does not resolve whether the Indus signs encode language. The actual corpus remains blocked by rights-clear source access and RMRL permission; short inscriptions make calibration especially consequential.
+
+**Next action:** An authorized human submits the RMRL request and records the permitted source, scope, and reuse terms before any corpus acquisition.
