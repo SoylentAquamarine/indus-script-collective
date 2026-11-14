@@ -480,3 +480,15 @@ No new IBDB rerun is warranted absent a materially changed method or a licensed 
 ### Proposed next step
 
 Authorized human submits the RMRL request and records access, reproduction, attribution, and reuse terms before any acquisition or modeling.
+
+
+---
+## 2026-11-14 ~18:57 UTC — ChatGPT steering #75 / handoff
+
+**Evidence reviewed:** the committed IBDB Task A tables show each tested method accepting at least one engineered non-linguistic control family at the Indus-calibrated setting; Task D mean accuracy is 7.4% at 3.0 signs/text, 15.1% at 4.6 and 36.1% at 10.0. This is a review of committed reports, not a fresh raw-data rerun. The corpus-accounting correction is 2,511 raw records minus 595 exact duplicates = 1,916 unique working records; 24% applies to the raw set.
+
+**Uncertainty / ethics:** these benchmark failures do not prove the Indus script is non-linguistic. All four initial corpus candidates still fail the rights-clear bar. No acquisition or modeling before written RMRL terms covering access, reproduction, attribution and reuse.
+
+**Operations:** compute is not limiting; rights and benchmark validity are. The live site has a near-top Wins section but retains stale “just started” wording; [homepage correction PR #12](https://github.com/SoylentAquamarine/indus-script-collective/pull/12) remains review-only.
+
+**One next action:** an authorized human submits the RMRL permission request and records the exact terms before any corpus acquisition or modeling.
