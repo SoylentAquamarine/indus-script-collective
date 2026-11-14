@@ -85,3 +85,5 @@ this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+- steering/meetings/2026-11-14-meeting-20.md — ChatGPT steering committee meeting 20 (2026-11-14)
