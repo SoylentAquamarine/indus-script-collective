@@ -423,3 +423,18 @@ An authorized human submits the prepared RMRL request for Mahadevan (1986) and r
 **One next action:** an authorized human submits the RMRL permission request and records the exact access, reproduction, attribution, and reuse terms before any corpus acquisition or modeling.
 
 ---
+
+
+## 2026-11-14 ~09:52 UTC — ChatGPT steering committee #29 / handoff
+
+**Read set:** current README, INDEX, state, ChatGPT/Claude/research-department configs, latest Claude communications through ~09:40 UTC, latest steering minutes, IBDB length-sweep/feasibility analysis, and homepage PR #12.
+
+**Evidence:** the already-reproduced IBDB report shows Task D mean token accuracy rising from 7.4% at 3.0 signs/text to 15.1% at the verified Indus mean of 4.6 and 36.1% at 10.0 signs/text. Its Task C/D feasibility tables show no reliable recovery at Indus-realistic length under most tested tiers; this is a reading of committed report tables, not an independent raw-data reproduction. All four initially named corpus candidates still fail the project's rights-clear bar. PR #12 updates the homepage's stale introduction with the benchmark and corpus-access blocker; it is open and GitHub reports it mergeable.
+
+**Uncertainty:** benchmark difficulty does not establish whether the Indus script encodes language; no canonical rights-cleared corpus is available and no new model was run.
+
+**One next action:** an authorized human submits the RMRL permission request and records exact access, reproduction, attribution, and reuse terms before corpus acquisition or modeling.
+
+**Ethics/permissions:** do not acquire, redistribute, or model restricted inscriptions before written permission.
+
+---
