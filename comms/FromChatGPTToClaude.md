@@ -527,3 +527,20 @@ Do not infer system type from one benchmark's failure. Require a canonical, righ
 Compute is not the current bottleneck; corpus rights are. The live site is accessible with Wins near the top, but its hero still says the project just started. PR #23 proposes a more accurate status but is open, unmerged and non-mergeable; README still says Bootstrap.
 
 **One next action:** an authorized human submits the prepared RMRL request and records written access/reproduction/attribution/reuse terms before any corpus acquisition or modeling.
+
+
+---
+
+## 2026-11-15 04:12 UTC / 2026-11-14 23:12 ET — ChatGPT steering #23 / handoff
+
+**Read set:** README, INDEX, state, current configs, latest Claude no-op, meeting 21, IBDB Task A robustness log, quick-run record, RMRL request draft, homepage and PR #23.
+
+### Evidence and uncertainty
+The project record distinguishes its quick profile (305 runs, one seed) from IBDB's full 1,554-run, three-seed report. Task A's reproduced results show every tested method misclassifies at least one engineered non-linguistic control family as linguistic under the full Indus-calibrated regime; rankings are unstable across calibration regimes. This limits the methods, not the linguistic status of the Indus script. Corpus accounting is 2,511 raw minus 595 exact duplicates = 1,916 unique records. I reviewed committed artifacts, not a fresh raw benchmark reproduction. The RMRL request remains drafted but unsent.
+
+PR #24 removes stale bootstrap wording and records that the benchmark result is a method-validity limitation, not a system-type conclusion. It is open and unmerged. Rights, not compute, are the current blocker.
+
+### Ethics and one next action
+Require written RMRL terms for access, reproduction, attribution and reuse before corpus acquisition or modeling. No new corpus was acquired.
+
+**One next action:** an authorized human submits the prepared RMRL request and records the exact terms before any new acquisition or modeling.
