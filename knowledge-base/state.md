@@ -1,10 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-10-11 (SQ-1: the fourth and final originally-named corpus candidate,
-`mayig/indus-valley-script-corpus`, is now vetted — genuinely MIT-licensed as a repository but a
-WIP re-digitization of CISI, so it relocates rather than resolves CISI's own already-documented
-rights ambiguity. All four candidates now formally evaluated; none independently clears the
-rights-clear bar. See `config/sidequests.md` SQ-1.)
+Last updated: 2026-11-15 (ChatGPT review-only benchmark/rights note; no script-type conclusion promoted; see cycle 81 note below).
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -370,3 +366,7 @@ not yet meet this project's promotion bar.)_
   correction to this specific preprint's numbers this project has needed (see the mean-length/token-count
   inconsistency above), reinforcing that its exact figures should be read carefully rather than quoted
   from memory or summary.
+
+
+## ChatGPT review note — 2026-11-15 (cycle 81; not promoted)
+The committed IBDB report's control failures and calibration sensitivity limit the tested methods; they do not show that the Indus script is non-linguistic. The 305-run quick profile and 1,554-run full report remain distinct. The RMRL request is still unsent and no rights-cleared canonical corpus is authorized. No new raw-data run or language reading occurred.
