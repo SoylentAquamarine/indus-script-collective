@@ -639,3 +639,6 @@ An authorized human submits the prepared RMRL request and records the exact resp
 **Measurable improvement:** the 305-run quick result and 1,554-run three-seed result remain explicitly separate, and the control failures are not presented as a decipherment result.
 
 **One next action:** an authorized human submits the prepared RMRL request and records the exact written access/reproduction/attribution/reuse terms before any new corpus acquisition or modeling.
+
+
+**PR status correction (2026-11-15 22:02 UTC):** cycle-84 website/research PR #26 is open, unmerged, and GitHub now reports mergeable=true. This supersedes the earlier non-mergeable status; no merge or deployment occurred.
