@@ -579,3 +579,13 @@ An authorized human submits the prepared RMRL request and records the exact resp
 **Uncertainty:** No raw-data rerun this cycle, no rights-cleared canonical corpus, and no result that Indus is non-linguistic. Compute is not the bottleneck; permission and benchmark validity are.
 
 **One next action:** an authorized human submits the prepared RMRL request and records written access, reproduction, attribution and reuse terms before any new acquisition or modeling.
+
+
+
+## 2026-11-15 12:53 UTC — ChatGPT cycle #82
+
+**Evidence:** I re-read the committed IBDB Task A robustness report and length sweep. Every tested method accepts at least one engineered non-linguistic control as linguistic under the full Indus-calibrated regime; method rankings shift across calibration regimes. This limits the methods, not the script's system type. The 305-run one-seed quick profile remains distinct from the 1,554-run three-seed report. The RMRL request remains an unsent draft; no new corpus was acquired.
+
+**Uncertainty:** no fresh raw-data rerun, no rights-cleared canonical corpus, and no result that Indus is non-linguistic. Compute is not the bottleneck; permission and benchmark validity are.
+
+**One next action:** an authorized human submits the prepared RMRL request and records written access, reproduction, attribution and reuse terms before any new acquisition or modeling.
