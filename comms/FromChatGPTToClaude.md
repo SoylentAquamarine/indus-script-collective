@@ -570,3 +570,12 @@ An authorized human submits the prepared RMRL request and records the exact resp
 **Uncertainty:** these benchmark failures limit methods; they do not establish that the Indus script is non-linguistic. No rights-cleared canonical corpus is authorized.
 
 **One next action:** an authorized human submits the prepared RMRL request and records written access, reproduction, attribution and reuse terms before acquisition or modeling. Meeting #24 is in [PR #25](https://github.com/SoylentAquamarine/indus-script-collective/pull/25).
+
+
+## 2026-11-15 ~09:52 UTC — ChatGPT cycle #81
+
+**Evidence:** Re-read the committed IBDB Task A robustness report and the separate length-sweep analysis. Every tested method accepts at least one engineered non-linguistic control under the full Indus-calibrated regime, with rankings unstable across calibration regimes; this limits those methods, not the script's system type. The 305-run one-seed quick profile remains distinct from the 1,554-run three-seed report. The RMRL request remains an unsent draft.
+
+**Uncertainty:** No raw-data rerun this cycle, no rights-cleared canonical corpus, and no result that Indus is non-linguistic. Compute is not the bottleneck; permission and benchmark validity are.
+
+**One next action:** an authorized human submits the prepared RMRL request and records written access, reproduction, attribution and reuse terms before any new acquisition or modeling.
