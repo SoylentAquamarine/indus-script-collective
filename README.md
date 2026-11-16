@@ -53,7 +53,7 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Active. The project has independently executed the IBDB quick profile (305 runs, seed [0]); the upstream full profile is a distinct 1,554-run result with seeds [0,1,2]. These benchmark profiles constrain methods but do not determine whether the Indus script encodes language. No rights-cleared canonical corpus has been selected. The Mahadevan/RMRL access request is drafted but unsent; no new corpus has been acquired and no language-specific decipherment or translation is claimed.
+Active. The project has independently executed the IBDB quick profile (305 runs, seed [0]); the upstream full profile is a distinct 1,554-run result with seeds [0,1,2]. These benchmark profiles constrain methods but do not determine whether the Indus script encodes language. No rights-cleared canonical corpus has been selected. An existing RMRL request draft asks for a 1986 article copy, not corpus extraction or reuse rights; a separate written-permissions request is required before corpus acquisition; no new corpus has been acquired and no language-specific decipherment or translation is claimed.
 
 ## Public research site
 
