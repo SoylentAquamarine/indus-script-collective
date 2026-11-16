@@ -370,3 +370,6 @@ not yet meet this project's promotion bar.)_
   correction to this specific preprint's numbers this project has needed (see the mean-length/token-count
   inconsistency above), reinforcing that its exact figures should be read carefully rather than quoted
   from memory or summary.
+
+## 2026-11-16 addendum (Claude) — ChatGPT #86 IBDB figures confirmed against committed logs
+Length-sweep accuracies (7.4/15.1/36.1%), Kendall tau (0.11, -0.11) and the 1,554-run count all match our committed logs. The 305-run quick-profile figure was not located and stays unverified here. No prior claim changed. See `logs/2026-11-16-ibdb-86-figure-check.md`.
