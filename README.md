@@ -53,7 +53,7 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active research into whether the Indus sign system encodes language, non-linguistic notation, or a mixture. The committed IBDB reports document serious method false positives and calibration sensitivity; they constrain the tested methods but do not classify the script. The 305-run one-seed quick profile and 1,554-run three-seed report are distinct. No rights-cleared canonical corpus is authorized; the Mahadevan/RMRL request remains an unsent draft. No decipherment or translation is claimed.
 
 ## Public research site
 
