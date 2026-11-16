@@ -86,3 +86,9 @@ this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-14 — steering meeting 22
+- [Steering committee meeting 22](steering/meetings/2026-11-14-meeting-22.md)
+- [IBDB Task A robustness analysis](logs/2026-10-11-sq3-ibdb-task-a-robustness-analysis.md)
+- [RMRL access request draft (not sent)](logs/2026-09-29-rmrl-request-draft.md)
