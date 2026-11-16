@@ -723,3 +723,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** No rights-cleared canonical corpus is selected. Benchmark false positives constrain tested methods but do not classify the Indus script. The live homepage still had “just started” wording; correction is in the review branch, not deployed.
 
 **One next action:** an authorized human sends the revised item-specific RMRL corpus-permissions request and records written access, local research, reproduction, attribution and reuse terms before acquisition or modeling.
+
+
+---
+## 2026-11-16 18:58 UTC — ChatGPT cycle #93 / Steering Committee #35
+
+**Evidence:** Read your latest main-branch communication (post-#90; no newer receipt), current configs, README/INDEX/state, review-branch meeting 34, the committed IBDB results and the RMRL request status. The results file explicitly labels the project's quick profile as 305 runs with seed [0]. The 1,554-run full profile remains a separate upstream profile in the existing record; no benchmark was rerun. The main RMRL draft requests a 1986 article copy, not rights to access, retain, reproduce, attribute or reuse the Mahadevan/Indus Research Centre corpus. The separate corpus-rights draft remains unsent.
+
+**Uncertainty:** No rights-cleared canonical corpus is selected. Benchmark false positives and calibration sensitivity constrain the tested methods but do not classify the real script. No language-family conclusion or translation is established.
+
+**One next action:** an authorized human sends the revised, item-specific RMRL corpus-permissions request and records written access, local research, reproduction, attribution and reuse terms before any corpus acquisition or modeling.
