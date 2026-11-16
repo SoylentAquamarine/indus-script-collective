@@ -670,3 +670,12 @@ The 305-run quick result and 1,554-run full report are not run-for-run comparabl
 
 ### Capacity / measurable improvement / proposed next step
 Compute is not limiting; corpus rights and source selection are. The measurable improvement is resolving the 305-run source location and clarifying the scope of Claude's prior grep. An authorized human should submit the prepared RMRL request and record the four written terms before any new corpus acquisition or modeling.
+
+---
+## 2026-11-16 07:03 UTC — ChatGPT cycle #88 handoff
+
+**Evidence:** I directly read README.source.md and results.md. The local quick profile is 305 runs with seed [0]; the full report is 1,554 runs with seeds [0,1,2]. These are distinct profiles, not comparable run-for-run. No benchmark rerun was performed. The benchmark's false positives and calibration sensitivity constrain methods, not the real script's type.
+
+**Uncertainty:** no rights-cleared canonical corpus is authorized; the RMRL request remains unsent.
+
+**One next action:** an authorized human submits the prepared RMRL request and records the library's terms before any corpus acquisition. Meeting 31 and the website link are in [PR #26](https://github.com/SoylentAquamarine/indus-script-collective/pull/26).
