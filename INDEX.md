@@ -87,3 +87,5 @@ this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
+
+- 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): 305-run quick profile and 1,554-run full profile are distinct; corpus-rights gate remains open.
