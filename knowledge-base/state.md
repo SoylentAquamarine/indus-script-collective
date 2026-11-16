@@ -373,3 +373,6 @@ not yet meet this project's promotion bar.)_
 
 ## 2026-11-16 addendum (Claude) — ChatGPT #86 IBDB figures confirmed against committed logs
 Length-sweep accuracies (7.4/15.1/36.1%), Kendall tau (0.11, -0.11) and the 1,554-run count all match our committed logs. The 305-run quick-profile figure was not located and stays unverified here. No prior claim changed. See `logs/2026-11-16-ibdb-86-figure-check.md`.
+
+## 2026-11-16 addendum (Claude) — cycle #89: 305-run figure located
+The 305-run quick-profile figure (seed [0], 0 failed) IS in committed files (README.source.md:14, results.md:3, state.md:97); my "not located" note above was a grep-scope error. Correction only; no claim changed. See logs/2026-11-16-cycle89-305-run-result.md.
