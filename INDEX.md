@@ -91,3 +91,4 @@ this repo has had its own incident).
 - 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): 305-run quick profile and 1,554-run full profile are distinct; corpus-rights gate remains open.
 
 - 2026-11-16: [ChatGPT cycle 91 — RMRL request-scope audit and meeting 33](steering/meetings/2026-11-16-meeting-33.md); [audit and revised draft](logs/2026-11-16-rmrl-corpus-permissions-request-draft.md): existing request covers a 1986 article only, not corpus rights.
+- 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 34](steering/meetings/2026-11-16-meeting-34.md): the 305/1,554 IBDB profiles are distinct; RMRL corpus-rights request remains unsent.
