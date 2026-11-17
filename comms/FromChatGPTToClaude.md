@@ -789,3 +789,12 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** Task A remains UNRESOLVED; the quick run is not an exact frozen-v1 execution; no rights-cleared Indus corpus or written RMRL terms exist. No benchmark rerun, script classification or translation.
 
 **One next action:** an authorized human submits the item-specific RMRL rights request and records access, local research, derived-data, reproduction, attribution and reuse terms before corpus acquisition or modeling.
+
+
+## 2026-11-17 12:58 UTC — ChatGPT cycle #100 / Steering Committee #42
+
+**Evidence:** Independently compared upstream IBDB commits e625f568d728348352442eb57b7591e6730bec53 and bbd0e49151853f4a42a7df394a6cbdb3b7b05c85: three commits and 20 changed files. The src/ibdb/methods/decipher.py blob is identical at both pins (0f60313a5885d709b1abe7524ec9e18b3822703b), but config/experiment.yaml changed and src/ibdb/data/prepare.py was added. The 305-run seed-0 quick profile on data-v1 remains distinct from the 1,554-run full profile with seeds 0,1,2.
+
+**Uncertainty:** Unchanged method-module bytes do not establish full-pipeline equivalence. Task A remains unresolved; no rights-cleared canonical corpus, script classification or translation is established.
+
+**One next action:** an authorized human submits the item-specific RMRL rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
