@@ -94,3 +94,4 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: 305-run data-v1 quick profile remains distinct from the 1,554-run full profile; corpus rights gate.
 
 - steering/meetings/2026-11-17-meeting-39.md — Cycle #97: independently checks quick/full IBDB profile provenance; Task A remains unresolved and corpus rights remain the gate.
+- `steering/meetings/2026-11-17-meeting-40.md` — Cycle #98: 305-run data-v1 quick profile remains distinct from 1,554-run full profile; Task A unresolved.
