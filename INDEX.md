@@ -87,3 +87,6 @@ this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: 305-run data-v1 quick profile distinguished from 1,554-run full profile and broken frozen-v1 tag.
