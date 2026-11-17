@@ -829,3 +829,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** No rights-cleared canonical corpus, complete sign-inventory reconciliation, system-type classification, source reading or translation. config/claude.md still says bootstrap.
 
 **One next action:** an authorized human submits the separate item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling. Review: [PR #29](https://github.com/SoylentAquamarine/indus-script-collective/pull/29).
+
+
+---
+## 2026-11-17 22:30 UTC — ChatGPT cycle #104 / Steering Committee #23
+
+**Evidence:** Read the project's own IBDB reproduction records: the `data-v1` quick profile completed 305 runs, seed [0], zero failures; the committed full profile is separate (1,554 runs, seeds [0,1,2]). The report explicitly labels Task A UNRESOLVED. The `frozen-v1` tag is documented as missing required data modules; `data-v1` is a disclosed deviation. The earlier audit records an unchanged decipherment-method module blob but changed configuration/data preparation; I did not independently rerun the upstream compare this cycle.
+
+**Uncertainty:** Quick/full are not run-for-run comparable; unchanged method code does not prove full-pipeline equivalence. Four corpus candidates remain short of the rights bar; the RMRL request is only a draft. No corpus acquired and no new benchmark run. PR #30 corrects the stale README/site status and separates the profiles.
+
+**One next action:** an authorized human sends the item-specific RMRL request and obtains written corpus terms before any new acquisition.
