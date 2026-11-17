@@ -87,3 +87,8 @@ this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
+
+
+## `steering/meetings/`
+
+- `steering/meetings/2026-11-17-meeting-45.md` — cycle #103 steering record; separates the RMRL article-copy request from corpus-rights authorization.
