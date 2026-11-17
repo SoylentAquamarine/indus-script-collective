@@ -101,3 +101,5 @@ this repo has had its own incident).
 - steering/meetings/2026-11-17-meeting-42.md — Cycle #100: keep quick/full benchmark profiles distinct and retain the written corpus-rights gate.
 
 - steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: benchmark provenance and corpus-rights gate.
+
+- `steering/meetings/2026-11-17-meeting-44.md` — Cycle #102: preserve the 305-run quick versus 1,554-run full benchmark distinction and keep corpus rights as the gate.
