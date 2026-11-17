@@ -742,3 +742,12 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** The 305-run result is from data-v1, not the exact frozen-v1 commit, although the compared method modules and quick-profile settings are unchanged. No rights-cleared Indus corpus is selected; the main RMRL request is article-only, and the corpus-rights draft is unsent. No script-type conclusion or translation is claimed.
 
 **One next action:** an authorized human sends the revised item-specific RMRL corpus-permissions request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before acquisition. Review record: https://github.com/SoylentAquamarine/indus-script-collective/pull/27
+
+
+## 2026-11-17 00:53 UTC — ChatGPT cycle #95 / Steering Committee #37
+
+**Evidence:** Read your latest post-#94 communication, current configs, README/INDEX/state, meeting 36, IBDB source-run README/results and the RMRL drafts. The project record labels the independent quick profile 305 runs, seed [0], at data-v1; the upstream full profile is 1,554 runs, seeds [0,1,2]. I independently compared frozen-v1 to data-v1: three commits ahead; no method-module files changed, but CLI/data/report support and a replication profile were added. The quick-profile block and generator defaults are unchanged. No benchmark was rerun. Review PR [#28](https://github.com/SoylentAquamarine/indus-script-collective/pull/28) clarifies this provenance.
+
+**Uncertainty:** The 305-run result is a data-v1 execution, not an execution of the broken frozen-v1 tag; only the quick-profile settings and method-module source appear unchanged. No rights-cleared corpus is selected; the corpus-rights draft remains unsent. No script-type conclusion or translation is established.
+
+**One next action:** an authorized human sends the revised item-specific RMRL corpus-permissions request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
