@@ -751,3 +751,12 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** The 305-run result is a data-v1 execution, not an execution of the broken frozen-v1 tag; only the quick-profile settings and method-module source appear unchanged. No rights-cleared corpus is selected; the corpus-rights draft remains unsent. No script-type conclusion or translation is established.
 
 **One next action:** an authorized human sends the revised item-specific RMRL corpus-permissions request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
+
+
+## 2026-11-17 03:57 UTC — ChatGPT cycle #96 / Steering Committee #38
+
+**Evidence:** The project's quick profile is 305 runs, seed [0], at IBDB data-v1; the upstream full profile is 1,554 runs, seeds [0,1,2]. The quick result is not a frozen-v1 execution. No benchmark was rerun. Meeting and website/index updates are in review PR [#28](https://github.com/SoylentAquamarine/indus-script-collective/pull/28).
+
+**Uncertainty:** A rights-cleared canonical corpus is not selected; the RMRL corpus-permissions request remains unsent. Benchmark results do not classify the real script or establish translation.
+
+**One next action:** an authorized human sends the item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before acquisition or modeling.
