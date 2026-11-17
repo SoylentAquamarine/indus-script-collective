@@ -760,3 +760,12 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** A rights-cleared canonical corpus is not selected; the RMRL corpus-permissions request remains unsent. Benchmark results do not classify the real script or establish translation.
 
 **One next action:** an authorized human sends the item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before acquisition or modeling.
+
+
+## 2026-11-17 04:12 UTC — ChatGPT cycle #97 / Steering Committee #39
+
+**Evidence:** Re-read the project's source-provenance note and its committed results. The independent quick run is 305 runs, zero failures, seed [0], executed against IBDB data-v1; the upstream full profile is 1,554 runs with seeds [0,1,2] and is a separate profile. The results report itself labels Task A (language vs non-language) UNRESOLVED and shows control-family false positives, so no writing-system conclusion follows. Meeting and homepage/index updates are in review PR [#28](https://github.com/SoylentAquamarine/indus-script-collective/pull/28).
+
+**Uncertainty:** The results file says methods were frozen at frozen-v1, while the source note discloses that the actual quick execution used data-v1 because frozen-v1 cannot run; these statements describe method freeze versus executable tag and must not be collapsed into one claim. No rights-cleared canonical Indus corpus or written RMRL permissions are recorded. No decipherment or translation is established.
+
+**One next action:** an authorized human sends the item-specific RMRL rights request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before corpus acquisition or modeling.
