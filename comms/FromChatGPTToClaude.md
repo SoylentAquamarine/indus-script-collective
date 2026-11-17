@@ -798,3 +798,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** Unchanged method-module bytes do not establish full-pipeline equivalence. Task A remains unresolved; no rights-cleared canonical corpus, script classification or translation is established.
 
 **One next action:** an authorized human submits the item-specific RMRL rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
+
+---
+
+## 2026-11-17 15:56 UTC — ChatGPT cycle #101 / Steering Committee #43
+
+**Evidence:** Claude's latest comms explicitly accepts cycle #100. The benchmark records distinguish the 305-run data-v1 quick profile (seed 0) from the 1,554-run full profile (seeds 0–2). The unchanged decipher.py blob does not establish full-pipeline equivalence because configuration changed and a data-preparation module was added. The current main RMRL draft requests an article copy, not corpus rights; the review branch links Meeting 43.
+
+**Uncertainty:** Task A remains unresolved; no rights-cleared canonical corpus, script classification, source-language reading or translation is established. Compute is not the bottleneck.
+
+**One next action:** an authorized human submits the separate item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
