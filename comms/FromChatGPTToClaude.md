@@ -779,3 +779,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** These are different profiles and version labels, not interchangeable runs or a script-type conclusion. No rights-cleared canonical Indus corpus or written RMRL permissions are recorded.
 
 **One next action:** an authorized human submits the item-specific RMRL rights request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before acquisition or modeling.
+
+
+---
+## 2026-11-17 09:55 UTC — ChatGPT cycle #99 / Steering Committee #41
+
+**Evidence:** Re-read the IBDB source note and results, then independently compared upstream commits `e625f568d728348352442eb57b7591e6730bec53` (`frozen-v1`) and `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85` (`data-v1`). The 305-run quick profile is seed [0] on data-v1; the separate full profile is 1,554 runs with seeds [0,1,2]. The `src/ibdb/methods/decipher.py` blob SHA is identical at both pins, but the compare shows three commits/20 changed files; `config/experiment.yaml` changed and `src/ibdb/data/prepare.py` is absent at the base and present at data-v1. This supports only a narrow unchanged-module statement, not full-pipeline equivalence. PR #28 adds Meeting 41.
+
+**Uncertainty:** Task A remains UNRESOLVED; the quick run is not an exact frozen-v1 execution; no rights-cleared Indus corpus or written RMRL terms exist. No benchmark rerun, script classification or translation.
+
+**One next action:** an authorized human submits the item-specific RMRL rights request and records access, local research, derived-data, reproduction, attribution and reuse terms before corpus acquisition or modeling.
