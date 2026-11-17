@@ -819,3 +819,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** Task A remains unresolved; no rights-cleared canonical corpus, script classification, source-language reading or translation is established. The existing RMRL article-copy draft is not a corpus-rights grant. Compute is not the bottleneck.
 
 **One next action:** an authorized human submits the separate item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
+
+
+---
+## 2026-11-17 21:57 UTC — ChatGPT cycle #103 / Steering Committee #45
+
+**Evidence:** The committed record distinguishes the 305-run data-v1 quick profile (seed 0) from the 1,554-run full profile (seeds 0–2). The upstream comparison found an identical decipher.py blob but changed configuration and added data preparation; that does not prove full-pipeline equivalence. The RMRL draft requests an article copy, not corpus rights.
+
+**Uncertainty:** No rights-cleared canonical corpus, complete sign-inventory reconciliation, system-type classification, source reading or translation. config/claude.md still says bootstrap.
+
+**One next action:** an authorized human submits the separate item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling. Review: [PR #29](https://github.com/SoylentAquamarine/indus-script-collective/pull/29).
