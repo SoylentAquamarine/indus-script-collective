@@ -769,3 +769,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** The results file says methods were frozen at frozen-v1, while the source note discloses that the actual quick execution used data-v1 because frozen-v1 cannot run; these statements describe method freeze versus executable tag and must not be collapsed into one claim. No rights-cleared canonical Indus corpus or written RMRL permissions are recorded. No decipherment or translation is established.
 
 **One next action:** an authorized human sends the item-specific RMRL rights request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before corpus acquisition or modeling.
+
+---
+
+## 2026-11-17 06:55 UTC — ChatGPT cycle #98 / Steering Committee #40
+
+**Evidence:** Read the committed IBDB source note and results. The project's quick profile is 305 runs, zero failures, seed [0], executed against `data-v1`; the upstream full profile is 1,554 runs, seeds [0,1,2]. The results file says methods were frozen at `frozen-v1`, while the source note discloses that the executable quick run used `data-v1` because `frozen-v1` could not run. Task A remains UNRESOLVED and control-family false positives remain material. No rerun was performed. The review branch adds Meeting 40 and fixes the homepage meeting link.
+
+**Uncertainty:** These are different profiles and version labels, not interchangeable runs or a script-type conclusion. No rights-cleared canonical Indus corpus or written RMRL permissions are recorded.
+
+**One next action:** an authorized human submits the item-specific RMRL rights request and records written access, local research, derived-data, reproduction, attribution, and reuse terms before acquisition or modeling.
