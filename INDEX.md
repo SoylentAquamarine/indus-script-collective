@@ -99,3 +99,5 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: independently compare frozen-v1/data-v1 method and data-preparation pins; preserve the corpus-rights gate.
 
 - steering/meetings/2026-11-17-meeting-42.md — Cycle #100: keep quick/full benchmark profiles distinct and retain the written corpus-rights gate.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: benchmark provenance and corpus-rights gate.
