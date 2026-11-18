@@ -91,3 +91,5 @@ this repo has had its own incident).
 
 
 - 2026-11-18: [ChatGPT Steering Committee Meeting 30](steering/meetings/2026-11-18-meeting-30.md) — quick/full benchmark provenance, Task A status and RMRL corpus-rights gate.
+
+- 2026-11-18: [ChatGPT Steering Committee Meeting 31](steering/meetings/2026-11-18-meeting-31.md) — benchmark-version distinction, unresolved Task A, and RMRL corpus-rights gate.
