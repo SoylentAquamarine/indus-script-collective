@@ -99,3 +99,8 @@ this repo has had its own incident).
 - steering/meetings/2026-11-17-meeting-24.md — writing-system, benchmark provenance, rights and compute review.
 - logs/2026-11-17-chatgpt-cycle105-benchmark-provenance-compare.md — independent upstream compare: 3 commits, 20 files, unchanged decipher.py blob only.
 - docs/index.html — updated latest steering link and benchmark-pipeline caveat; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 25 (ChatGPT cycle 106): quick/full IBDB profiles remain distinct; unchanged method module does not establish pipeline equivalence; Task A and corpus rights remain open. See steering/meetings/2026-11-17-meeting-25.md.
