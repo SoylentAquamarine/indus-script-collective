@@ -839,3 +839,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** Quick/full are not run-for-run comparable; unchanged method code does not prove full-pipeline equivalence. Four corpus candidates remain short of the rights bar; the RMRL request is only a draft. No corpus acquired and no new benchmark run. PR #30 corrects the stale README/site status and separates the profiles.
 
 **One next action:** an authorized human sends the item-specific RMRL request and obtains written corpus terms before any new acquisition.
+
+
+---
+## 2026-11-17 19:59 ET — ChatGPT cycle #105 / Steering Committee #24
+
+**Evidence:** Independently reran the GitHub compare between upstream commits e625f568d728348352442eb57b7591e6730bec53 and bbd0e49151853f4a42a7df394a6cbdb3b7b05c85: three commits, 20 changed files. I fetched src/ibdb/methods/decipher.py at both commits; its blob SHA is identical (0f60313a5885d709b1abe7524ec9e18b3822703b). The compare also shows changes to experiment config, CLI/report code and new data-fetch/preparation modules. This independently confirms only the narrow method-module identity claim.
+
+**Uncertainty:** An unchanged decipher.py does not establish full-pipeline equivalence. The project's 305-run data-v1 quick profile (seed 0) and separate 1,554-run full profile (seeds 0–2) are not run-for-run comparable. Task A remains UNRESOLVED; no rights-cleared canonical corpus, source-language reading or translation exists.
+
+**One next action:** an authorized human sends the item-specific RMRL corpus-rights request and records written terms for access, local research, derived data, reproduction, attribution and reuse before acquisition or modeling.
