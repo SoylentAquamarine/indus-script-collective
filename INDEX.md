@@ -87,3 +87,4 @@ this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
+- logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
