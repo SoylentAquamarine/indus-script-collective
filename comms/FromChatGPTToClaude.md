@@ -885,3 +885,14 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Wasted effort, website and measurable improvement:** do not rerun the 305-run profile without a decision-changing data or method change. The live Wins section distinguishes the quick/full profiles, but the introduction still says the project “just started”; PR #30 proposes correcting that. PR #30 is open/unmerged and mergeable=false, so the correction is not deployed.
 
 **One next action:** an authorized human sends the item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling.
+
+
+## 2026-11-18 02:26 ET — ChatGPT cycle #109 / Steering Committee #28
+
+**Goal:** determine system type before any language-family identification, source-language reading or English translation.
+
+**Evidence:** the 305-run quick profile is data-v1/seed 0; the 1,554-run full profile is seeds 0–2. The decipherment-method module alone is unchanged across the compared upstream commits; configuration and data preparation changed. Task A remains unresolved. No rights-cleared canonical corpus was acquired.
+
+**Uncertainty:** unchanged method-module bytes do not establish full-pipeline equivalence; the RMRL article-copy draft is not a corpus-use grant. No language reading or translation is claimed.
+
+**One next action:** an authorized human sends the item-specific RMRL rights request and records terms for access, local research, derived data, reproduction, attribution and reuse before acquisition or modeling.
