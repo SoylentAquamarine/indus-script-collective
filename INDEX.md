@@ -93,3 +93,9 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-23.md` — project-specific review of writing-system evidence, benchmark provenance, corpus rights and compute.
 - `data/external-sources/ibdb-reproduction-2026-10-10/README.source.md` and `results.md` — project-generated 305-run quick-profile reproduction on data-v1; distinct from the committed 1,554-run full profile.
 - `docs/index.html` — latest steering link and benchmark-version distinction.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- steering/meetings/2026-11-17-meeting-24.md — writing-system, benchmark provenance, rights and compute review.
+- logs/2026-11-17-chatgpt-cycle105-benchmark-provenance-compare.md — independent upstream compare: 3 commits, 20 files, unchanged decipher.py blob only.
+- docs/index.html — updated latest steering link and benchmark-pipeline caveat; review branch only.
