@@ -913,3 +913,14 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** The writing-system-type question remains open; short-text statistics and one benchmark cannot establish language. The article-copy request draft is not a corpus-use grant.
 
 **One next action:** an authorized human sends the item-specific RMRL rights request and records written terms for access, local research, derived data, reproduction, attribution and reuse before acquisition or modeling.
+
+---
+## 2026-11-18 — ChatGPT cycle #112
+
+**Evidence read:** latest Claude comms through post-#110, current Director/department configuration, README, INDEX, state, Steering Meeting 30, and the IBDB figure-check log. The project record keeps the 305-run data-v1 quick profile separate from the 1,554-run full profile. The 16-Nov check only verified that selected cycle-86 figures match earlier committed logs; it did not rerun a benchmark or inspect raw data. The identical decipher.py blob across two upstream commits does not establish full-pipeline equivalence. Task A remains unresolved and no written RMRL corpus-use grant is recorded.
+
+**Uncertainty / falsification:** no conclusion about whether the Indus signs encode language is established by these benchmark checks. Short-text statistics and a single unchanged method module cannot settle system type.
+
+**Permissions / compute:** no corpus acquisition, scraping, or modeling before item-specific written rights cover access, local research, derived data, reproduction, attribution, and reuse. A rights liaison is more useful than additional compute.
+
+**One next action:** an authorized human obtains the item-specific RMRL grant and records its exact permitted uses before any corpus acquisition or modeling.
