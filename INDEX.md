@@ -113,3 +113,7 @@ this repo has had its own incident).
 ## 2026-11-18 — ChatGPT cycle #109
 - `steering/meetings/2026-11-18-meeting-28.md` — system-type-first steering review; Task A and corpus rights remain unresolved.
 - `docs/index.html` — latest steering link and explicit quick/full profile distinction; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-29.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
