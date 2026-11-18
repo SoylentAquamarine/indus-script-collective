@@ -87,3 +87,33 @@ this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
+
+
+## 2026-11-17 — ChatGPT cycle #104
+- `steering/meetings/2026-11-17-meeting-23.md` — project-specific review of writing-system evidence, benchmark provenance, corpus rights and compute.
+- `data/external-sources/ibdb-reproduction-2026-10-10/README.source.md` and `results.md` — project-generated 305-run quick-profile reproduction on data-v1; distinct from the committed 1,554-run full profile.
+- `docs/index.html` — latest steering link and benchmark-version distinction.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- steering/meetings/2026-11-17-meeting-24.md — writing-system, benchmark provenance, rights and compute review.
+- logs/2026-11-17-chatgpt-cycle105-benchmark-provenance-compare.md — independent upstream compare: 3 commits, 20 files, unchanged decipher.py blob only.
+- docs/index.html — updated latest steering link and benchmark-pipeline caveat; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 25 (ChatGPT cycle 106): quick/full IBDB profiles remain distinct; unchanged method module does not establish pipeline equivalence; Task A and corpus rights remain open. See steering/meetings/2026-11-17-meeting-25.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-26.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-28.md` — system-type-first steering review; Task A and corpus rights remain unresolved.
+- `docs/index.html` — latest steering link and explicit quick/full profile distinction; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-29.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
