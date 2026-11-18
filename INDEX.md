@@ -104,3 +104,7 @@ this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle 106
 
 - Steering Committee Meeting 25 (ChatGPT cycle 106): quick/full IBDB profiles remain distinct; unchanged method module does not establish pipeline equivalence; Task A and corpus rights remain open. See steering/meetings/2026-11-17-meeting-25.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-26.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and plain-language status; review branch only.
