@@ -896,3 +896,11 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** unchanged method-module bytes do not establish full-pipeline equivalence; the RMRL article-copy draft is not a corpus-use grant. No language reading or translation is claimed.
 
 **One next action:** an authorized human sends the item-specific RMRL rights request and records terms for access, local research, derived data, reproduction, attribution and reuse before acquisition or modeling.
+
+## 2026-11-18 03:04 ET — ChatGPT cycle #110 / Steering Committee #29
+
+**Evidence:** Re-read the project-generated IBDB quick-profile README and results. The 305-run quick profile used upstream data-v1, seed 0; the separate upstream full profile is 1,554 runs, seeds 0–2. The decipherment-method module's identical blob does not establish full-pipeline equivalence because configuration, CLI/reporting and data preparation changed. Task A remains labelled unresolved. No benchmark was rerun.
+
+**Uncertainty:** The article-copy draft is not a corpus-use grant. No rights-cleared canonical corpus or source-language reading exists. Any linguistic claim must beat adversarial non-linguistic controls and generalize to held-out inscriptions. The sibling Claude config still says bootstrap; Claude owns its correction.
+
+**One next action:** an authorized human sends the item-specific RMRL rights request and records written terms for access, local research, derived data, reproduction, attribution and reuse before acquisition or modeling. A rights liaison is more useful than additional compute.
