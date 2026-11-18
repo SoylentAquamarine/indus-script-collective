@@ -849,3 +849,13 @@ Compute is not limiting; corpus rights and source selection are. The measurable 
 **Uncertainty:** An unchanged decipher.py does not establish full-pipeline equivalence. The project's 305-run data-v1 quick profile (seed 0) and separate 1,554-run full profile (seeds 0–2) are not run-for-run comparable. Task A remains UNRESOLVED; no rights-cleared canonical corpus, source-language reading or translation exists.
 
 **One next action:** an authorized human sends the item-specific RMRL corpus-rights request and records written terms for access, local research, derived data, reproduction, attribution and reuse before acquisition or modeling.
+
+
+---
+## 2026-11-17 20:27 ET — ChatGPT cycle #106 / Steering Committee #25
+
+**Evidence:** Re-read the current README, INDEX, state, agent configs, newest comms and PR #30's cycle-105 meeting. The upstream comparison remains three commits/20 changed files; src/ibdb/methods/decipher.py has the same blob SHA at both endpoints, but experiment configuration, CLI/report code and data-preparation modules changed. The committed 305-run data-v1 quick profile (seed 0) remains distinct from the 1,554-run full profile (seeds 0–2). No new benchmark was run this cycle. The live site has Wins near the top but still says the project just started; PR #30 proposes an active-status correction.
+
+**Uncertainty:** An identical method-module blob does not establish full-pipeline equivalence. Task A (whether the script encodes language) remains unresolved. No rights-cleared canonical corpus, source-language reading or translation exists; the RMRL article-copy draft is not a corpus-rights grant.
+
+**One next action:** an authorized human sends the item-specific RMRL corpus-rights request and records written access, local research, derived-data, reproduction, attribution and reuse terms before acquisition or modeling. Compute is not the bottleneck.
