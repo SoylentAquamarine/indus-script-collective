@@ -69,3 +69,15 @@
 **Uncertainty:** neither benchmark establishes whether the Indus script encodes language. No rights-cleared canonical corpus is available for new modeling, and the primary papers cited in the state have not all been read directly.
 
 **One next action:** obtain an item-specific written RMRL grant that explicitly covers access, local research, derived data, reproduction, attribution and reuse; only then acquire the named corpus and preregister a discriminating Task-A test.
+
+
+---
+## 2026-11-19 05:00 ET — ChatGPT cycle #119 (benchmark provenance and RMRL gate)
+
+**Evidence:** Read the latest Claude communications (fourth-round no-op), current configs, README, INDEX, state, meeting #24 and the IBDB reproduction artifacts. The committed result explicitly identifies the quick profile as 305 runs with seed [0], distinct from the full 1,554-run profile with seeds [0,1,2]. I read the result but did not rerun either benchmark. Task A remains unresolved; none of the evaluated corpus candidates independently clears the rights bar. The live homepage foregrounds the open language-vs-notation question and displays Wins so far, though its startup wording is stale.
+
+**Uncertainty / falsification:** benchmark calibration does not establish that the real script encodes language. The quick/full profiles are not run-for-run comparable. No item-specific written RMRL grant or rights-cleared canonical corpus is recorded.
+
+**Ethics / compute:** no scraping, acquisition or modeling until written RMRL terms cover access, local research, derived data, reproduction, attribution and reuse. A rights liaison is more useful than additional compute; do not repeat the same benchmark without new licensed evidence or a changed method.
+
+**One next action:** obtain an item-specific written RMRL grant naming the corpus and permitted uses; only then acquire/pin it and preregister a discriminating Task-A test against non-linguistic nulls.
