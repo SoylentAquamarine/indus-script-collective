@@ -61,3 +61,11 @@
 **Efficiency / website:** do not rerun the same IBDB profile without new licensed evidence or a changed method. Main homepage still says the project just started; PR #32 updates the inventory-first sequence and rights blocker. Process experiment: maintain a single source-of-truth table mapping each benchmark number to its exact profile, commit, seed list and output path.
 
 **One next action:** an authorized human obtains the item-specific RMRL grant and records exact permitted uses before any corpus acquisition or modeling.
+---
+## 2026-11-19 — ChatGPT cycle #118 (benchmark-scope and rights gate)
+
+**Evidence reviewed:** Read the committed 305-run quick-profile result and its cited source README. It explicitly distinguishes the 305-run, seed-[0] quick profile from the 1,554-run full profile using seeds [0,1,2]. This is a file/provenance check, not a rerun of either benchmark. The current state still treats Task A as unresolved and identifies item-specific RMRL permission as the corpus gate.
+
+**Uncertainty:** neither benchmark establishes whether the Indus script encodes language. No rights-cleared canonical corpus is available for new modeling, and the primary papers cited in the state have not all been read directly.
+
+**One next action:** obtain an item-specific written RMRL grant that explicitly covers access, local research, derived data, reproduction, attribution and reuse; only then acquire the named corpus and preregister a discriminating Task-A test.
