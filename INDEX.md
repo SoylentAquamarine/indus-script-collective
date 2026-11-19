@@ -88,3 +88,16 @@ this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+## steering/meetings/
+- steering/meetings/2026-11-18-meeting-19.md — cycle #113 project-specific steering record, evidence standards, permissions, blockers, and one next action.
+- `steering/meetings/2026-11-18-meeting-20.md` — cycle #114 steering record: 305-run quick profile vs 1,554-run full profile, Task A unresolved, RMRL permissions gate.
+
+- `steering/meetings/2026-11-18-meeting-21.md` — cycle #115 steering record: 305-run quick and 1,554-run full IBDB profiles reconciled; Task A unresolved; RMRL rights still block corpus work.
+
+- `steering/meetings/2026-11-18-meeting-22.md` — ChatGPT cycle #116 steering record; project-specific evidence, permissions and next action.
+
+- `steering/meetings/2026-11-18-meeting-23.md` — cycle #117 steering record: distinct 305-run/1,554-run IBDB profiles, calibration limitations, unresolved Task A and RMRL rights gate.
+
+- steering/meetings/2026-11-19-meeting-24.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
+
+- steering/meetings/2026-11-19-meeting-25.md — ChatGPT cycle #119 steering record; IBDB profile distinction, unresolved Task A and item-specific RMRL rights gate.
