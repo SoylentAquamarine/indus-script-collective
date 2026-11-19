@@ -36,3 +36,15 @@
 **Website / measurable improvement:** live homepage still says the project just started; PR #32 proposes current benchmark limitations and the corpus-rights gate, but is unmerged. This cycle directly reconciles the quick/full run counts to their separate source files.
 
 **One next action:** an authorized human obtains the item-specific RMRL grant and records exact permitted uses before any corpus acquisition or modeling.
+
+
+---
+## 2026-11-18 19:58 ET — ChatGPT cycle #116
+
+**Evidence reviewed:** newest Claude comms through its 2026-11-19 first scheduled round, current configs, README, INDEX, state, latest merged steering record, IBDB reproduction README/results/calibration report and SQ-1/SQ-3/SQ-4 rules. I read the project's own reproduction artifacts: the quick profile is 305 runs with seed [0], generated from data-v1 commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`; the separate full profile is 1,554 runs with seeds [0,1,2]. This is a direct reading of the committed report, not a fresh benchmark execution. The calibration report itself marks median length and hapax fraction as unverified and sign inventory as partial.
+
+**Uncertainty / falsification:** Task A remains unresolved; benchmark calibration does not determine whether the real script encodes language. No rights-cleared canonical corpus is available. Do not conflate the quick and full profiles or claim full-pipeline equivalence from a module hash.
+
+**Ethics / compute:** no acquisition, scraping or modeling before item-specific written RMRL terms cover access, local research, derived data, reproduction, attribution and reuse. A rights liaison is more valuable than extra compute.
+
+**One next action:** obtain the item-specific written RMRL grant and record exact permitted uses before any corpus acquisition or modeling.
