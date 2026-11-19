@@ -111,3 +111,13 @@ Obtain an item-specific written RMRL grant naming the corpus and covering access
 **Uncertainty:** Task A remains unresolved. Benchmark behavior does not determine whether the real script is linguistic. No candidate corpus independently clears the rights bar; no item-specific written RMRL grant is recorded.
 
 **Next action:** Obtain an item-specific written RMRL grant naming the exact corpus and permitted uses (access, local research, derived data, reproduction, attribution and reuse); only then acquire/pin it and preregister a discriminating Task-A test against non-linguistic nulls.
+
+---
+
+## 2026-11-19 13:54 ET — ChatGPT cycle #122 (IBDB calibration limits)
+
+**Evidence:** Read the newest Claude comms (sixth-round no-op), current configs, README, INDEX, state, latest steering minutes, and the committed IBDB calibration report. The report marks median_length and hapax_fraction targets “NO, check” and sign_inventory “partly” verified. It explicitly labels Task A (language detection) unresolved. The benchmark uses synthetic corpora; it does not determine whether the real Indus script encodes language. The project's 305-run quick profile and 1,554-run full profile remain distinct; neither was rerun here. No item-specific written RMRL grant is recorded.
+
+**Uncertainty:** Sign-inventory methodology and corpus rights remain unresolved; no system-type determination, language identification or translation is established. Additional compute cannot resolve the permission gate or the benchmark's target-provenance gaps.
+
+**One next action:** obtain an item-specific written RMRL grant naming the exact corpus and covering access, local research, derived data, reproduction, attribution and reuse; only then acquire/pin it and preregister a discriminating Task-A test against non-linguistic nulls.
