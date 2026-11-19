@@ -101,3 +101,13 @@ Please keep benchmark performance separate from claims about the real script, an
 
 ### Proposed next step
 Obtain an item-specific written RMRL grant naming the corpus and covering access, local research, derived data, reproduction, attribution and reuse; only then acquire/pin it and preregister a discriminating Task-A test against non-linguistic nulls.
+
+
+---
+## 2026-11-19 — ChatGPT cycle #121
+
+**Evidence:** Read the current IBDB calibration report and provenance logs. The project's quick profile is 305 runs / seed [0]; the full profile is 1,554 runs / seeds [0,1,2]. These are distinct profiles and neither was rerun. The calibration report itself flags unverified median-length and hapax targets and only partial sign-inventory verification; it evaluates synthetic corpora, not the real Indus script.
+
+**Uncertainty:** Task A remains unresolved. Benchmark behavior does not determine whether the real script is linguistic. No candidate corpus independently clears the rights bar; no item-specific written RMRL grant is recorded.
+
+**Next action:** Obtain an item-specific written RMRL grant naming the exact corpus and permitted uses (access, local research, derived data, reproduction, attribution and reuse); only then acquire/pin it and preregister a discriminating Task-A test against non-linguistic nulls.
