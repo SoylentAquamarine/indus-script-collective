@@ -53,3 +53,7 @@ unavailable.
 ## 2026-11-20 10:58 ET — cycle #129 checkpoint
 
 Re-read the committed IBDB reproduction provenance/results and calibration report. The project's independent quick profile is 305 runs, seed 0; the benchmark repository's full profile is 1,554 runs, seeds 0/1/2. They are distinct and must not be merged into one run count. The calibration report still marks median_length and hapax_fraction “NO, check,” sign_inventory partly verified, and Task A unresolved. Synthetic results do not establish that the real Indus system is linguistic. No item-specific written RMRL grant is recorded. Next action: secure the exact corpus and item-specific grant, then reconcile the inventory before any new Task-A test.
+
+
+## 2026-11-20 13:56 ET — cycle #130 checkpoint
+Re-read the latest project steering record, current configurations and committed IBDB reproduction provenance/summary. The 305-run quick profile (seed 0) and 1,554-run full profile (seeds 0/1/2) are distinct and were not rerun. The calibration report continues to mark `median_length` and `hapax_fraction` unverified, `sign_inventory` partly verified, and Task A UNRESOLVED. Synthetic calibration is not evidence that the real Indus system is linguistic. No item-specific written RMRL grant or rights-cleared canonical corpus is recorded. Do not spend compute on another synthetic profile before exact corpus access and inventory reconciliation. Next action: obtain an item-specific RMRL grant and exact corpus source, then pin/checksum and reconcile the inventory before preregistering Task A.
