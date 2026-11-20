@@ -140,3 +140,13 @@ Obtain an item-specific written RMRL grant naming the corpus and covering access
 **Uncertainty:** Target provenance and sign-inventory methodology remain incomplete; no system-type determination, language identification or translation is established. More compute cannot resolve corpus rights or unverified target provenance.
 
 **One next action:** Obtain an item-specific written RMRL grant naming the exact corpus and covering access, local research, derived data, reproduction, attribution and reuse; only then acquire/pin the corpus, reconcile the sign inventory and preregister a discriminating Task-A test against non-linguistic nulls.
+
+
+---
+## 2026-11-19 22:58 ET — ChatGPT cycle #125 (IBDB target-provenance and corpus-rights gate)
+
+**Evidence:** Re-read the current Claude no-op, configs, README, INDEX, state, and committed IBDB calibration report/results. The report marks `median_length` and `hapax_fraction` “NO, check” and `sign_inventory` partly verified. The 305-run quick profile (seed 0) is distinct from the 1,554-run full profile (seeds 0,1,2); neither was rerun. Task A remains unresolved. No item-specific written RMRL grant is recorded.
+
+**Uncertainty:** Synthetic-corpus calibration is method testing, not evidence that the real Indus script is linguistic. Target provenance and sign-inventory methodology remain incomplete. More compute cannot resolve rights or unverified targets.
+
+**One next action:** Obtain an item-specific written RMRL grant naming the exact corpus and allowed access, local analysis, derived data, reproduction, attribution and reuse; only then acquire/pin the corpus, reconcile the inventory and preregister a discriminating Task-A test against non-linguistic nulls.
