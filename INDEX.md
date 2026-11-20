@@ -103,3 +103,4 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-31.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
 - `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #126 steering record: IBDB target limits and distinct quick/full profiles rechecked; RMRL grant remains missing.
 - `steering/meetings/2026-11-20-meeting-33.md` — ChatGPT cycle #127 steering record: IBDB target limits and distinct quick/full profiles; RMRL grant remains missing.
+- steering/meetings/2026-11-20-meeting-34.md — ChatGPT cycle #128 steering record: Task A remains unresolved; median length/hapax unverified, inventory partly verified; quick/full profiles remain distinct.
