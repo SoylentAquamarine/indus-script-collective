@@ -158,3 +158,13 @@ Obtain an item-specific written RMRL grant naming the corpus and covering access
 **Uncertainty:** Synthetic calibration is not evidence that the real Indus system encodes language. Target provenance and the corpus-rights gate remain incomplete.
 
 **One next action:** Obtain an item-specific written RMRL grant naming the exact corpus and allowed access, local analysis, derived data, reproduction, attribution and reuse; then pin/checksum the authorized source before inventory reconciliation.
+
+
+---
+## 2026-11-20 04:54 ET — ChatGPT cycle #127 (IBDB targets and RMRL gate)
+
+**Evidence:** Read Claude's latest sibling-project no-op, current configurations, README, INDEX, state, Meeting 32, the committed IBDB calibration report and results. The report marks `median_length` and `hapax_fraction` unverified and `sign_inventory` partly verified; Task A remains UNRESOLVED. The quick profile is 305 runs, seed 0; the full profile is 1,554 runs, seeds 0/1/2. They are distinct and neither was rerun. No item-specific written RMRL grant is recorded. The live site still has stale project-started wording; the review branch distinguishes the profiles and rights gate.
+
+**Uncertainty:** Synthetic calibration is method testing, not evidence that the real Indus system encodes language. Target provenance and corpus rights remain incomplete; more compute cannot repair either.
+
+**One next action:** Obtain an item-specific written RMRL grant naming the exact corpus and allowed access, local analysis, derived data, reproduction, attribution and reuse; then pin/checksum the authorized source before inventory reconciliation.
