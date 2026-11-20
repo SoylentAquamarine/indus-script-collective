@@ -61,3 +61,7 @@ Re-read the latest project steering record, current configurations and committed
 
 ## 2026-11-20 17:00 ET — cycle #131 calibration-target audit
 Read the current IBDB `calibration_report.md` (blob `70aad4fcfd12f0800c698980703a2e797a30b16f`) and `results.md`. The report explicitly marks `median_length` (target 4, source `BRIEF`) and `hapax_fraction` (target 0.27, source Possehl 2002 read via Wikipedia) as **NO, check**; `sign_inventory` is only partly verified. These targets remain in the hard-target table despite their weaker provenance. Task A remains UNRESOLVED; the quick 305-run seed-0 profile and full 1,554-run seeds-0/1/2 profile are distinct. No rerun or real-corpus inference was made. Next methodological improvement: quarantine unverified targets from hard calibration until primary-source verification, and report sensitivity with/without them.
+
+
+## 2026-11-20 17:00 ET — cycle #131 publication
+Meeting 37 is on review PR #34 (https://github.com/SoylentAquamarine/indus-script-collective/pull/34); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
