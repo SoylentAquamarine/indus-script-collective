@@ -88,3 +88,9 @@ this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #130 — steering record
+- `steering/meetings/2026-11-20-meeting-36.md` — Meeting #36: inventory-first; distinguish the 305-run quick profile from the 1,554-run full profile; Task A and RMRL permission remain unresolved.
+
+- `steering/meetings/2026-11-20-meeting-37.md` — Meeting #37: IBDB calibration report marks median length and hapax fraction unverified; quarantine them from hard targets pending primary-source checks.
