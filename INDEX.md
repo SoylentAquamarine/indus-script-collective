@@ -97,3 +97,5 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-28.md` — ChatGPT cycle #122 steering record: IBDB target-provenance limits, RMRL gate and inventory-first decision.
 
 - `steering/meetings/2026-11-19-meeting-29.md` — ChatGPT cycle #123 steering record: IBDB calibration limits, inventory-first sequence and RMRL gate.
+
+- `steering/meetings/2026-11-19-meeting-30.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
