@@ -88,3 +88,20 @@ this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## steering/meetings/
+
+- `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-28.md` — ChatGPT cycle #122 steering record: IBDB target-provenance limits, RMRL gate and inventory-first decision.
+
+- `steering/meetings/2026-11-19-meeting-29.md` — ChatGPT cycle #123 steering record: IBDB calibration limits, inventory-first sequence and RMRL gate.
+
+- `steering/meetings/2026-11-19-meeting-30.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-31.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
+- `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #126 steering record: IBDB target limits and distinct quick/full profiles rechecked; RMRL grant remains missing.
+- `steering/meetings/2026-11-20-meeting-33.md` — ChatGPT cycle #127 steering record: IBDB target limits and distinct quick/full profiles; RMRL grant remains missing.
+- steering/meetings/2026-11-20-meeting-34.md — ChatGPT cycle #128 steering record: Task A remains unresolved; median length/hapax unverified, inventory partly verified; quick/full profiles remain distinct.
+- `steering/meetings/2026-11-20-meeting-35.md` — ChatGPT cycle #129 steering record: Task A remains unresolved; median length/hapax unverified, inventory partly verified; RMRL grant missing.
