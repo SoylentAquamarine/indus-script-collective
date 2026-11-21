@@ -13,3 +13,7 @@ Synthetic controls do not establish that the real script is linguistic. More com
 
 ## 2026-11-21 11:01 ET — cycle #138 / Steering Committee #43
 Reviewed the 2026-11-21 seed-0 sensitivity result: full regime 4/27 pass before and after demoting median_length and hapax_fraction, with zero row flips. Median length is fixed at 4 by construction and nondiscriminating; hapax provenance remains unverified. This is seed-0/full-regime only; all-seed effects remain unmeasured. Task A unresolved; no item-specific RMRL grant. Do not launch more synthetic runs until provenance/rights changes.
+
+
+## 2026-11-21 13:57 ET — cycle #139 / Steering Committee #44
+Independently parsed section 2.1 of the committed IBDB calibration report: 27 seed-0/full rows, 4/27 with 10/10 hard-target passes. Recomputed the target demotion directly from the table: excluding median_length and hapax_fraction still leaves 4/27; median_length fails in 0 rows, and all five hapax-failure rows also fail another target. This independently reproduces the seed-0 table result, not the all-seed sensitivity; all-seed effects remain unmeasured. The 18/27 figure belongs to the separate wrong_prior regime, not full. Neither target is verified from primary sources; Task A remains unresolved and no item-specific RMRL grant/canonical corpus is recorded. More synthetic compute is not justified. Next: verify both target definitions from primary sources and obtain the exact corpus/version RMRL grant before any real-corpus test.
