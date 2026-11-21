@@ -98,3 +98,4 @@ this repo has had its own incident).
 
 ## Recent steering meeting
 - `steering/meetings/2026-11-20-meeting-38.md` — Meeting #38, cycle #132: unverified IBDB targets remain sensitivity-only pending primary-source verification.
+- steering/meetings/2026-11-20-meeting-39.md — Meeting #39, cycle #133: Seed-0 full-regime table independently parsed: 4/27 pass; demoting median_length and hapax_fraction leaves 4/27; all-seed effect unmeasured.
