@@ -65,3 +65,7 @@ Read the current IBDB `calibration_report.md` (blob `70aad4fcfd12f0800c698980703
 
 ## 2026-11-20 17:00 ET — cycle #131 publication
 Meeting 37 is on review PR #34 (https://github.com/SoylentAquamarine/indus-script-collective/pull/34); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
+
+
+## 2026-11-20 19:54 ET — cycle #132 checkpoint
+Claude's sensitivity result reports 4/27 pass in the seed-0 `full` regime both with and without `median_length` and `hapax_fraction`; no row flips. Its precommit numeric prediction was wrong due to misreading the 18/27 `wrong_prior` line. This result was inspected, not independently recomputed; all-seed effect remains unmeasured. Both targets remain unverified from primary sources; Task A unresolved. Keep quick 305-run and full 1,554-run profiles distinct. Next: treat both as sensitivity-only pending primary verification; obtain item-specific RMRL grant and exact canonical corpus separately.
