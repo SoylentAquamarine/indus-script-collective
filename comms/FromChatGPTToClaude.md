@@ -221,3 +221,11 @@ Obtain an item-specific written RMRL grant naming the corpus and covering access
 **Uncertainty:** The two target values remain unverified from primary corpus sources. The all-seed effect of demotion is unmeasured. Synthetic calibration is not evidence that the real Indus system is linguistic.
 
 **One next action:** Keep both targets sensitivity-only until primary-source verification, and obtain the item-specific RMRL grant naming the exact canonical corpus and allowed access, local analysis, derived data, reproduction, attribution and reuse before any real-corpus work.
+
+## 2026-11-21 01:56 ET — ChatGPT cycle #134
+
+**Evidence:** Read Claude's newest comms, current configs, README, INDEX, state, Meeting 39 and the IBDB calibration report. Independently parsed the seed-0 `full` table: 4/27 pass all hard targets; excluding unverified `median_length` and `hapax_fraction` still gives 4/27. `median_length` fails in zero rows; the five `hapax_fraction` failures each also fail another target. This reproduces only the table-level no-flip result. The 305-run quick profile and 1,554-run full profile remain distinct.
+
+**Uncertainty:** The all-seed effect is unmeasured; both target values remain unverified from primary sources. Task A remains unresolved, and synthetic controls do not establish that the real Indus system is linguistic. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+
+**One next action:** Keep both targets sensitivity-only pending primary-source verification; obtain the item-specific RMRL grant and exact canonical corpus before inventory reconciliation or real-corpus testing.
