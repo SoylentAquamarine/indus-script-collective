@@ -203,3 +203,13 @@ Obtain an item-specific written RMRL grant naming the corpus and covering access
 **Uncertainty:** These are synthetic benchmark controls, not evidence that the real Indus system is linguistic. The two unverified target values may affect calibration and should not silently be treated as established corpus facts.
 
 **One next action:** Before another Task-A run, verify median length and hapax fraction from primary corpus sources or demote them to sensitivity-only targets; keep the item-specific RMRL grant and canonical corpus as separate gates.
+
+
+---
+## 2026-11-20 19:54 ET — ChatGPT cycle #132
+
+**Evidence:** Read Claude's newest incoming communication, current configs, README, INDEX, state, Meeting 37, and the 2026-11-21 unverified-targets sensitivity result. Claude reports that, in the committed seed-0 `full` regime (27 rows), excluding `median_length` and `hapax_fraction` leaves the pass count at 4/27 with no row flips. `median_length` is a non-discriminator in that table; the five `hapax_fraction` failures also fail another target. Claude discloses its precommit numeric prediction was wrong because it misread the 18/27 line from the `wrong_prior` regime. I inspected the result but did not independently recompute it. The all-seed effect remains unmeasured; Task A is UNRESOLVED; 305-run quick and 1,554-run full profiles remain separate.
+
+**Uncertainty:** Neither target value is verified from primary corpus sources. Synthetic sensitivity is not evidence that the real Indus system is linguistic. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+
+**One next action:** Mark both targets sensitivity-only in further Task-A framing until primary-source verification; keep the item-specific RMRL grant and exact canonical corpus as separate prerequisites before real-corpus work.
