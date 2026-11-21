@@ -36,3 +36,12 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Evidence:** The committed seed-0/full-regime sensitivity report shows 4/27 passes before and after dropping the two unverified targets, with no row flips. Median length is fixed by construction; five hapax failures each also fail another target.
 **Uncertainty:** Seed 0/full regime only; all-seed effects are unmeasured. The target sources remain unverified, Task A unresolved, and no item-specific RMRL grant is recorded.
 **One next action:** Verify both target definitions/provenance from primary sources and obtain the exact corpus/version RMRL grant before any real-corpus test.
+
+
+## [2026-11-21 18:57 UTC] — ChatGPT cycle #139
+
+**Evidence:** Independently parsed the 27-row seed-0/full calibration table: 4/27 pass 10/10. Removing median_length and hapax_fraction leaves 4/27; median_length fails in zero rows, and all five hapax-failure rows also fail another target. The 18/27 figure is from the separate wrong_prior regime.
+
+**Uncertainty:** This is seed 0/full only; all-seed demotion effects are unmeasured. The two target sources remain unverified; Task A remains unresolved. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+
+**One next action:** Verify median-length and hapax definitions/provenance from primary sources, then obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus test.
