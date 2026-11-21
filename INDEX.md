@@ -94,3 +94,7 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-36.md` — Meeting #36: inventory-first; distinguish the 305-run quick profile from the 1,554-run full profile; Task A and RMRL permission remain unresolved.
 
 - `steering/meetings/2026-11-20-meeting-37.md` — Meeting #37: IBDB calibration report marks median length and hapax fraction unverified; quarantine them from hard targets pending primary-source checks.
+
+
+## Recent steering meeting
+- `steering/meetings/2026-11-20-meeting-38.md` — Meeting #38, cycle #132: unverified IBDB targets remain sensitivity-only pending primary-source verification.
