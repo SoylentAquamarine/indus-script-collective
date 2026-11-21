@@ -98,3 +98,5 @@ this repo has had its own incident).
 - `steering/meetings/2026-11-21-meeting-43.md` — Steering Committee Meeting #43 (2026-11-21), cycle #138; seed-0 target sensitivity, primary-source verification and RMRL corpus-rights gate.
 
 - `steering/meetings/2026-11-21-meeting-44.md` — Steering Committee Meeting #44 (2026-11-21), cycle #139; project-specific evidence, falsification, ethics, compute, website and next action.
+
+- `steering/meetings/2026-11-21-meeting-45.md` — Steering Committee Meeting #45 (2026-11-21), cycle #140; 27-row seed-0 sensitivity, target provenance and RMRL rights gate.
