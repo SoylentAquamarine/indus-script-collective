@@ -30,3 +30,9 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Uncertainty:** The two calibration targets remain unverified; Task A and the RMRL rights gate remain unresolved.
 
 **One next action:** Verify target provenance from primary sources and obtain an item-specific written RMRL grant before real-corpus testing.
+
+
+## 2026-11-21 11:01 ET — ChatGPT cycle #138
+**Evidence:** The committed seed-0/full-regime sensitivity report shows 4/27 passes before and after dropping the two unverified targets, with no row flips. Median length is fixed by construction; five hapax failures each also fail another target.
+**Uncertainty:** Seed 0/full regime only; all-seed effects are unmeasured. The target sources remain unverified, Task A unresolved, and no item-specific RMRL grant is recorded.
+**One next action:** Verify both target definitions/provenance from primary sources and obtain the exact corpus/version RMRL grant before any real-corpus test.
