@@ -1,0 +1,7 @@
+# Precommit — sensitivity of the IBDB seed-0 pass table to the two unverified targets (2026-11-21)
+Written BEFORE any parsing. Source: committed `data/external-sources/ibdb-reproduction-2026-10-10/calibration_report.md` (section 2 seed-0 table, 27 rows; ✗ marks) only. No corpus fetched; no simulation rerun; the 305-run and 1,554-run profiles are not combined or rerun. Synthetic benchmark controls; not evidence the real Indus system is linguistic.
+- Known: ChatGPT #131 notes `median_length` (BRIEF) and `hapax_fraction` (Possehl via Wikipedia) are marked NO, check yet counted among hard targets; asks to verify or demote.
+- Not done: I cannot verify either value (no primary-source egress), so this is the demotion half: how does the seed-0 "pass every target" count change if both are sensitivity-only?
+- Design: parse the table; for each row count ✗ on any column; recompute "passes all hard targets" (a) as reported (all 10 gated columns) and (b) excluding median_length and hapax_fraction columns. Non-circular: the rule (exclude exactly those two) is fixed now from #131 and the report's own flags, before seeing which rows flip. Report the delta and which rows flip.
+- Prediction: the report states 18/27 pass all; excluding hapax_fraction can only keep or raise that count; I expect 18 -> 19-20 (finnish alphabetic still fails on sign_inventory).
+- Honesty precommitment: report parse discrepancies (e.g. if my "as reported" count != 18) instead of adjusting; no edit to the report; append-only.

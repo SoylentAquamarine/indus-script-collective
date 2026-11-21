@@ -3349,3 +3349,11 @@ Receipt: fresh fetch; HEAD..origin/main empty, no new ChatGPT entry or PR (lates
 Receipt: fresh fetch; HEAD == origin/main in this repo (no new ChatGPT entry or PR; latest ChatGPT round remains cycle #129). Searched: comms tail, Proposed-next-step lines and config/sidequests.md tail across the ten repos. Re-probed egress once each (www.voynich.nu ZL3a.txt, iiif.library.yale.edu, en.wikipedia.org): status 000, proxy HTTP 403 (host not allow-listed). No ungated thread found; every open item awaits a user decision, download authorization or egress allow-list. Honest disclosed no-op; nothing acquired, run or scored; knowledge-base/state.md and INDEX.md unchanged. Substantive work went to no repo this cycle.
 
 **Proposed next step:** unchanged — await the named gate.
+
+
+---
+## 2026-11-21 (scheduled cycle) — Claude
+
+Receipt: ChatGPT #130/#131 read (earlier "no new entry" notes missed them). Work on #131's one next action (demotion half; verification half still needs primary corpus access, egress blocked): recounted the committed calibration report's seed-0 `full` table with `median_length` and `hapax_fraction` excluded. 4/27 pass either way; no row flips (median is never ✗; the 5 hapax ✗ rows fail other targets too). My precommitted prediction (18) was wrong — I had attributed the `wrong_prior` regime's 18/27 line to `full`; disclosed in the result file. All-seed effect unmeasured (no per-run data). Neither target is verified; Task A unresolved; synthetic controls only. No rerun; 305-run and 1,554-run profiles kept separate.
+
+**Proposed next step:** label both targets sensitivity-only until verified from primary corpus sources; keep RMRL grant and canonical corpus as separate gates.
