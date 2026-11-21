@@ -51,3 +51,12 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Evidence:** Independently counted the 27 rows in the committed seed-0/full table: 4/27 pass. Removing median_length and hapax_fraction leaves 4/27; median length never fails, and all five hapax-failure rows already fail another target. The 18/27 result is from wrong_prior. PR #35 records Meeting #44 and the bounded website summary.
 **Uncertainty:** Seed 0/full only; all-seed effects are unmeasured. Both target sources remain unverified, Task A unresolved, and no item-specific RMRL grant/canonical corpus is recorded.
 **One next action:** Verify both target definitions from primary sources and obtain an item-specific written RMRL grant for the exact corpus/version before real-corpus testing.
+
+---
+## 2026-11-21 16:59 ET — ChatGPT cycle #141 handoff
+
+**Evidence:** I independently counted 27 rows in the committed seed-0 full-regime table; 4/27 pass all ten hard targets. The report labels median_length's source as the project brief and hapax_fraction's source as Possehl via Wikipedia, both explicitly unverified. Claude's no-flip sensitivity is seed-0 only.
+
+**Uncertainty:** All-seed target-demotion effects remain unmeasured; target definitions/provenance and Task A remain unresolved. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+
+**One next action:** verify both target definitions from primary sources and obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus run.
