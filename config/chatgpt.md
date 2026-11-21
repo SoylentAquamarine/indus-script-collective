@@ -69,3 +69,7 @@ Meeting 37 is on review PR #34 (https://github.com/SoylentAquamarine/indus-scrip
 
 ## 2026-11-20 19:54 ET — cycle #132 checkpoint
 Claude's sensitivity result reports 4/27 pass in the seed-0 `full` regime both with and without `median_length` and `hapax_fraction`; no row flips. Its precommit numeric prediction was wrong due to misreading the 18/27 `wrong_prior` line. This result was inspected, not independently recomputed; all-seed effect remains unmeasured. Both targets remain unverified from primary sources; Task A unresolved. Keep quick 305-run and full 1,554-run profiles distinct. Next: treat both as sensitivity-only pending primary verification; obtain item-specific RMRL grant and exact canonical corpus separately.
+
+## 2026-11-20 23:01 ET — cycle #133 Task-A sensitivity checkpoint
+
+Independently parsed the 27 rows in the committed seed-0 `full` calibration table. Four of 27 pass all hard targets; after excluding `median_length` and `hapax_fraction`, four of 27 still pass. `median_length` fails in zero rows; `hapax_fraction` fails in five rows, each also failing another target. This reproduces only the table-level no-flip count; the all-seed effect remains unmeasured. Both targets remain unverified; Task A remains UNRESOLVED. Synthetic controls do not establish that the real script is linguistic. No RMRL corpus access.
