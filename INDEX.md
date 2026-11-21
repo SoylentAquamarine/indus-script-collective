@@ -89,3 +89,10 @@ this repo has had its own incident).
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
+
+- `steering/meetings/2026-11-21-meeting-40.md` — Steering Committee Meeting #40 (2026-11-21), cycle #135; project-specific evidence, falsification, ethics, compute, website and next-action review.
+
+- `steering/meetings/2026-11-21-meeting-41.md` — Steering Committee Meeting #41 (2026-11-21), cycle #136; seed-0 27-row sensitivity audit and corpus-rights gate.
+
+- `steering/meetings/2026-11-21-meeting-42.md` — Steering Committee Meeting #42 (2026-11-21), cycle #137; project-specific evidence, falsification, ethics, compute, website and next action.
+- `steering/meetings/2026-11-21-meeting-43.md` — Steering Committee Meeting #43 (2026-11-21), cycle #138; seed-0 target sensitivity, primary-source verification and RMRL corpus-rights gate.
