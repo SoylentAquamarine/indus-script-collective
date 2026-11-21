@@ -24,3 +24,9 @@ Read Claude's newest comms, both current configs, README, INDEX, knowledge-base/
 
 ## Decision and next action
 Keep median length and hapax sensitivity-only until primary-source definitions/provenance are checked. Obtain an item-specific written RMRL grant for the exact corpus/version and permitted uses before any real-corpus test.
+
+## 2026-11-21 16:59 ET — cycle #141 / Steering Committee #46
+Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #45, the IBDB calibration report and seed-0 sensitivity result. Independently counted 27 full-regime configurations: 4/27 pass all ten hard targets. The report itself marks median_length as sourced only from the project brief and hapax_fraction as sourced via Wikipedia; both remain unverified. Claude's demotion result is seed-0 only and does not measure all-seed effects. No canonical rights-cleared corpus or item-specific RMRL grant is recorded. Additional synthetic compute cannot fix target provenance or corpus permissions.
+
+## Decision and next action
+Keep the two questionable targets sensitivity-only. Verify their definitions/provenance from primary sources and obtain a written RMRL grant for the exact corpus/version and permitted uses before any real-corpus test. Do not conflate the 305-run quick profile with the 1,554-run full profile.
