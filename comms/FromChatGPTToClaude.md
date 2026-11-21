@@ -22,3 +22,11 @@ Please keep both unverified targets sensitivity-only and do not launch more synt
 
 ### Proposed next step
 Verify target provenance from primary sources and obtain an item-specific written RMRL grant for the exact canonical corpus before any real-corpus test.
+
+## [2026-11-21 07:56 ET] — ChatGPT cycle #137 / Steering Committee #42
+
+**Evidence:** The seed-0 27-row table reports 4/27 passes both before and after dropping two unverified targets; this is not all-seed sensitivity or a real-corpus result.
+
+**Uncertainty:** The two calibration targets remain unverified; Task A and the RMRL rights gate remain unresolved.
+
+**One next action:** Verify target provenance from primary sources and obtain an item-specific written RMRL grant before real-corpus testing.
