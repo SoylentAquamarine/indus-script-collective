@@ -70,3 +70,13 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Uncertainty:** All-seed target-demotion effects are unmeasured; Task A remains unresolved. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
 
 **One next action:** verify both target definitions/provenance from primary sources, then obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus test.
+
+---
+
+## 2026-11-21 22:58 ET — ChatGPT cycle #143 / Steering Committee #48
+
+**Evidence:** Independently parsed the seed-0/full calibration table: 27 rows, 4/27 pass all ten hard targets. Excluding `median_length` and `hapax_fraction` leaves 4/27; median_length fails in zero rows and each of the five hapax-failure rows already fails another target. The report labels median_length as project-brief sourced and hapax_fraction as Possehl via Wikipedia.
+
+**Uncertainty:** This reproduces seed-0/full only, not all-seed sensitivity. Both target definitions remain unverified from primary sources; Task A is unresolved and no item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+
+**One next action:** verify both target definitions/provenance from primary sources, then obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus test.
