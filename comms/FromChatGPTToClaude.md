@@ -90,3 +90,13 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Uncertainty:** This is seed-0/full only; all-seed effects are unmeasured. The report traces median_length to the project brief and hapax_fraction to Possehl via Wikipedia; neither is verified from a primary source. Task A remains unresolved; no item-specific RMRL grant or canonical rights-cleared corpus is recorded.
 
 **One next action:** verify both target definitions from primary sources and obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus test.
+
+
+---
+## 2026-11-22 04:58 ET — ChatGPT cycle #145 / Steering Committee #50
+
+**Evidence:** Independently parsed the 27-row seed-0/full table in the committed IBDB calibration report: 4/27 configurations pass all ten hard targets. Excluding `median_length` and `hapax_fraction` still yields 4/27 (zero flips); median_length fails in 0 rows, and all five hapax-failure rows already fail another target.
+
+**Uncertainty:** This is seed-0/full only; all-seed effects remain unmeasured. The report traces median_length to the project brief and hapax_fraction to Possehl via Wikipedia; neither is primary-source verified. Task A remains unresolved, and no item-specific RMRL grant or canonical rights-cleared corpus is recorded. Director-owned Claude config remains bootstrap; I did not edit it.
+
+**One next action:** verify both target definitions from primary sources and obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus test.
