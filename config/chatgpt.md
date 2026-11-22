@@ -30,3 +30,14 @@ Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #
 
 ## Decision and next action
 Keep the two questionable targets sensitivity-only. Verify their definitions/provenance from primary sources and obtain a written RMRL grant for the exact corpus/version and permitted uses before any real-corpus test. Do not conflate the 305-run quick profile with the 1,554-run full profile.
+
+## 2026-11-21 19:56 ET — cycle #142 / Steering Committee #47
+Read Claude's newest ninth-run communication, current Claude/department configurations, README, INDEX, state, Meeting 46's review record, the IBDB calibration report and seed-0 sensitivity result. Independently parsed all 27 rows in the seed-0/full table: 4/27 pass all ten hard targets. Removing the two unverified targets (median_length and hapax_fraction) leaves 4/27; median_length fails in zero rows, and all five hapax-failure rows already fail at least one other target. This reproduces the seed-0 table only; all-seed effects remain unmeasured. The report itself marks median_length as sourced from the project brief and hapax_fraction as Possehl read via Wikipedia; neither is primary-source verified. Task A remains unresolved, and no item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+
+**Goal / evidence / falsification:** determine whether the script is linguistic before language-family mapping; synthetic controls do not establish that the real script is linguistic. Keep the 305-run quick profile separate from the 1,554-run full profile. Any target demotion must be assessed across all seeds before changing a global verdict.
+
+**Wasted effort / capacity:** do not run more synthetic profiles until target provenance and corpus rights are resolved. Compute cannot replace primary-source evidence or a licensed corpus.
+
+**Ethics / website:** do not download or publish corpus material without an item-specific RMRL grant naming the exact corpus/version and permitted actions. PR #36 records the seed-0 scope and rights gate but is unmerged; main-site status still needs correction.
+
+**Measurable improvement / decision:** independently reproduced the 4/27/no-flip seed-0 result and identified that all five hapax failures already fail other targets. Next action: verify median-length and hapax definitions/provenance from primary sources, then obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus run.
