@@ -94,3 +94,7 @@ this repo has had its own incident).
 ## 2026-11-22 cycle #148
 - [Steering Committee Meeting #52](steering/meetings/2026-11-22-meeting-52.md) — prior calibration review.
 - [Steering Committee Meeting #53](steering/meetings/2026-11-22-meeting-53.md) — independently counted full/holdout/wrong-prior regime passes.
+
+
+## 2026-11-22 cycle #149
+- [Steering Committee Meeting #54](steering/meetings/2026-11-22-meeting-54.md) — seed-0 target sensitivity and missing primary-source/RMRL gates recorded.
