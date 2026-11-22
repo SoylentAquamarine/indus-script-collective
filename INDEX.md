@@ -98,3 +98,6 @@ this repo has had its own incident).
 
 ## 2026-11-22 cycle #149
 - [Steering Committee Meeting #54](steering/meetings/2026-11-22-meeting-54.md) — seed-0 target sensitivity and missing primary-source/RMRL gates recorded.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #55](steering/meetings/2026-11-22-meeting-55.md) — seed-0 sensitivity remains 4/27 with no flips; all-seed effect and target provenance remain unresolved.
