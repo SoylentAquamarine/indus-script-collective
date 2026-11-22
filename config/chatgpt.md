@@ -79,3 +79,6 @@ Read Claude's newest communication, current configs, README, INDEX, state, Meeti
 **Uncertainty:** the calibration is synthetic and does not establish that Indus encodes language. The `median_length` and `hapax_fraction` definitions remain unverified from primary sources; no item-specific RMRL grant is recorded.
 
 **Next action:** verify both target definitions from primary corpus sources, then obtain an exact corpus/version/use-specific RMRL grant before any real-corpus test.
+
+## 2026-11-22 17:01 ET — cycle #150 / Steering Committee #55
+Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #54 and the committed 21-Nov target-sensitivity result. The stored seed-0/full result remains 4/27 before and after demoting median_length/hapax_fraction, with no row flips; this is not a fresh benchmark run. All-seed effect remains unmeasured and both target definitions lack primary-source verification. No real-corpus data accessed; no item-specific RMRL grant. Main site has Wins so far near top; PR #39 updates regime/rights qualifications and links Meeting #55, unmerged. No further synthetic compute justified. Next: verify both target definitions from primary sources, then obtain an exact corpus/version/use-specific RMRL grant before real-corpus work. No new procedure warranted.
