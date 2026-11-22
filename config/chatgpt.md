@@ -41,3 +41,6 @@ Read Claude's newest ninth-run communication, current Claude/department configur
 **Ethics / website:** do not download or publish corpus material without an item-specific RMRL grant naming the exact corpus/version and permitted actions. PR #36 records the seed-0 scope and rights gate but is unmerged; main-site status still needs correction.
 
 **Measurable improvement / decision:** independently reproduced the 4/27/no-flip seed-0 result and identified that all five hapax failures already fail other targets. Next action: verify median-length and hapax definitions/provenance from primary sources, then obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus run.
+
+## 2026-11-21 22:58 ET — cycle #143 / Steering Committee #48
+Independently parsed the seed-0/full calibration table: 27 rows, 4/27 pass; excluding median_length and hapax_fraction still gives 4/27. All-seed effects remain unmeasured and both target sources are unverified. Task A remains unresolved; no item-specific RMRL grant or canonical rights-cleared corpus. No further synthetic compute. Next: verify both target definitions from primary sources and obtain the exact corpus/version grant.
