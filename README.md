@@ -53,8 +53,7 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
-
+Active corpus-inventory and synthetic-benchmark research. The committed seed-0 full-regime benchmark has 27 configurations, 4/27 passing all ten hard targets. Median length and hapax fraction remain unverified targets; all-seed sensitivity is unmeasured. No canonical rights-cleared corpus or item-specific RMRL grant is recorded, so no real-corpus test or decipherment is claimed.
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/indus-script-collective/**. It presents the current Wins so far, corpus and benchmark status, research process and append-only logs.

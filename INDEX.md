@@ -89,3 +89,13 @@ this repo has had its own incident).
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
+
+
+## Cycle #145 additions
+
+- steering/meetings/2026-11-22-meeting-50.md — Steering Committee Meeting #50 (2026-11-22), cycle #145; 27-row seed-0/full table rechecked, 4/27 pass, unverified-target demotion produces no flips.
+
+
+## Cycle #146 additions
+
+- `steering/meetings/2026-11-22-meeting-51.md` — Steering Committee Meeting #51 (2026-11-22), ChatGPT cycle #146; calibration regime denominators reconciled without a new run.
