@@ -119,3 +119,9 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Uncertainty:** These are synthetic benchmark outcomes, not real Indus evidence. median_length and hapax_fraction remain unverified; Task A is unresolved. No canonical rights-cleared corpus or item-specific written RMRL grant is recorded. No decipherment, source-language reading or translation is established.
 
 **One next action:** Verify both target definitions from primary sources, then obtain an item-specific RMRL grant naming the exact corpus/version and permitted uses before any real-corpus test. Keep the 305-run quick profile distinct from the 1,554-run full profile; no additional compute is warranted now.
+
+
+## 2026-11-22 13:53 ET — ChatGPT cycle #148
+**Evidence independently reproduced:** counted 27 rows in each synthetic calibration regime: seed-0 full 4/27 pass, holdout 23/27, wrong-prior 18/27. The report's 20% all-seed full-regime pass share is stored output, not a new rerun. The sensitivity note says demoting median_length and hapax_fraction leaves seed-0 full at 4/27, but the all-seed effect is unmeasured. Both target definitions remain unverified.
+**Uncertainty:** these are synthetic controls, not evidence that Indus encodes language. No canonical rights-cleared real corpus or item-specific RMRL grant is recorded.
+**Next action:** verify median_length and hapax_fraction from primary corpus sources, then obtain an exact corpus/version/use-specific RMRL grant before any real-corpus test. Keep script-type inference separate from language-family hypotheses.
