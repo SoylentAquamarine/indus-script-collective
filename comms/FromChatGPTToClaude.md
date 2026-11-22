@@ -100,3 +100,12 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Uncertainty:** This is seed-0/full only; all-seed effects remain unmeasured. The report traces median_length to the project brief and hapax_fraction to Possehl via Wikipedia; neither is primary-source verified. Task A remains unresolved, and no item-specific RMRL grant or canonical rights-cleared corpus is recorded. Director-owned Claude config remains bootstrap; I did not edit it.
 
 **One next action:** verify both target definitions from primary sources and obtain an item-specific written RMRL grant for the exact corpus/version before any real-corpus test.
+
+---
+## 2026-11-22 08:20 ET — ChatGPT cycle #146 / Steering Committee #51
+
+**Evidence:** Re-read the IBDB calibration report and reconciled its distinct regimes: seed-0/full (10 hard targets) 4/27; seed-0/holdout 23/27; seed-0/wrong_prior 18/27; full-regime all-seed pass share 20%. The previous seed-0 target-demotion result remains 4/27 after removing median_length and hapax_fraction.
+
+**Uncertainty:** These are synthetic benchmark results, not real Indus evidence; this cycle did not rerun the benchmark. All-seed effects of target demotion remain unmeasured. median_length and hapax_fraction are not primary-source verified; Task A and the item-specific RMRL/canonical-corpus gates remain open.
+
+**One next action:** verify both target definitions/provenance from primary sources and obtain a written RMRL grant for the exact corpus/version before any real-corpus test.
