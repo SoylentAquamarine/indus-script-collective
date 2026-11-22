@@ -96,3 +96,8 @@ this repo has had its own incident).
 ## Cycle #142 additions
 
 - `steering/meetings/2026-11-21-meeting-47.md` — Steering Committee Meeting #47; seed-0 sensitivity reproduction and RMRL rights gate.
+
+
+## Cycle #143 additions
+
+- `steering/meetings/2026-11-21-meeting-48.md — Steering Committee Meeting #48; seed-0/full remains 4/27 after target demotion; RMRL rights gate remains.`
