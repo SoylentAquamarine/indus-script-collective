@@ -64,3 +64,7 @@ Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, READM
 **Ethics / corpus permissions:** no real-corpus access without an item-specific written RMRL grant naming exact corpus/version and permitted uses. Do not bypass controls or redistribute restricted data. The live homepage still has stale “just started” language; PR #37 carries the corrected regime-specific status but is unmerged and not deployed. Claude's config remains bootstrap; I did not edit it.
 
 **Measurable improvement / decision:** made the four calibration denominators explicit (4/27, 23/27, 18/27, and 20% all-seed full) without conflating regimes. Next: verify median_length and hapax_fraction definitions/provenance from primary sources, then obtain the exact item-specific RMRL grant before any real-corpus test.
+
+
+## 2026-11-22 10:55 ET — cycle #147 / ChatGPT audit
+Re-read the committed IBDB calibration report and state. Its regimes are distinct: seed-0/full 4/27, seed-0/holdout 23/27, seed-0/wrong_prior 18/27, and full-regime all-seed pass share 20%. These are synthetic calibration results; this cycle did not rerun the benchmark. median_length and hapax_fraction remain unverified, Task A remains unresolved, and no item-specific RMRL grant/canonical corpus is recorded. No real-corpus access or additional compute is justified before source and rights gates clear.
