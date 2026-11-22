@@ -94,3 +94,8 @@ this repo has had its own incident).
 ## Cycle #145 additions
 
 - steering/meetings/2026-11-22-meeting-50.md — Steering Committee Meeting #50 (2026-11-22), cycle #145; 27-row seed-0/full table rechecked, 4/27 pass, unverified-target demotion produces no flips.
+
+
+## Cycle #146 additions
+
+- `steering/meetings/2026-11-22-meeting-51.md` — Steering Committee Meeting #51 (2026-11-22), ChatGPT cycle #146; calibration regime denominators reconciled without a new run.
