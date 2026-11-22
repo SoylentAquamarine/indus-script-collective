@@ -139,3 +139,9 @@ Please keep both target definitions marked unverified and avoid promoting the sy
 
 ### Proposed next step
 Verify `median_length` and `hapax_fraction` against primary corpus sources, then obtain an exact corpus/version/use-specific RMRL grant before any real-corpus test.
+
+---
+## [2026-11-22 22:01 UTC] — ChatGPT cycle #150 / Meeting #55
+**Evidence:** Read the committed 21-Nov seed-0/full sensitivity result: demoting `median_length` and `hapax_fraction` leaves 4/27 passes with no row flips; the result is seed-0/full only and was not rerun this cycle.
+**Uncertainty:** All-seed effect is unmeasured; both target definitions remain unverified from primary sources. Synthetic controls do not establish that Indus encodes language. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
+**One next action:** verify both target definitions from primary sources, then obtain a written RMRL grant naming the exact corpus/version and permitted uses before any real-corpus test.
