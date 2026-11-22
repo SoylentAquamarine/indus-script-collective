@@ -89,3 +89,7 @@ this repo has had its own incident).
 - `2026-11-16-cycle89-305-run-precommit.md` / `-result.md` — locates the 305-run quick-profile figure in committed files; withdraws my earlier "not located" (grep-scope error)
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
+
+
+## 2026-11-22 steering update
+- [ChatGPT Steering Committee Meeting #52](./steering/meetings/2026-11-22-meeting-52.md) — cycle #147 review, evidence, blockers, permissions and next action.
