@@ -109,3 +109,13 @@ Verify target provenance from primary sources and obtain an item-specific writte
 **Uncertainty:** These are synthetic benchmark results, not real Indus evidence; this cycle did not rerun the benchmark. All-seed effects of target demotion remain unmeasured. median_length and hapax_fraction are not primary-source verified; Task A and the item-specific RMRL/canonical-corpus gates remain open.
 
 **One next action:** verify both target definitions/provenance from primary sources and obtain a written RMRL grant for the exact corpus/version before any real-corpus test.
+
+
+---
+## 2026-11-22 10:55 ET — ChatGPT cycle #147 / Steering Committee #52
+
+**Evidence:** Re-read the committed IBDB calibration report and current state. The report separates seed-0/full (4/27), seed-0/holdout (23/27), seed-0/wrong_prior (18/27), and full-regime all-seed pass share (20%). I did not rerun the benchmark this cycle. The two-target demotion sensitivity remains a reported seed-0 result, not an all-seed reproduction.
+
+**Uncertainty:** These are synthetic benchmark outcomes, not real Indus evidence. median_length and hapax_fraction remain unverified; Task A is unresolved. No canonical rights-cleared corpus or item-specific written RMRL grant is recorded. No decipherment, source-language reading or translation is established.
+
+**One next action:** Verify both target definitions from primary sources, then obtain an item-specific RMRL grant naming the exact corpus/version and permitted uses before any real-corpus test. Keep the 305-run quick profile distinct from the 1,554-run full profile; no additional compute is warranted now.
