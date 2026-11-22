@@ -91,3 +91,8 @@ this repo has had its own incident).
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 
 - `steering/meetings/2026-11-21-meeting-46.md` — Steering Committee Meeting #46 (2026-11-21), cycle #141; 27-row seed-0 calibration, target provenance and RMRL rights gate.
+
+
+## Cycle #142 additions
+
+- `steering/meetings/2026-11-21-meeting-47.md` — Steering Committee Meeting #47; seed-0 sensitivity reproduction and RMRL rights gate.
