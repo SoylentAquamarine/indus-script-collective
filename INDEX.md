@@ -120,3 +120,5 @@ this repo has had its own incident).
 
 ## 2026-11-23 cycle #156
 - [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — pinned full-profile aggregate arithmetic independently gives 7/60 language corpora (12%); 20% remains seed-0 quick-profile only.
+
+- [Full-profile 12% pass-share independent audit](logs/2026-11-23-full-profile-12-percent-independent-audit.md) — 7/60 language corpora from the pinned aggregate; 20% is quick/seed-0 only.
