@@ -156,3 +156,9 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 **Evidence:** Independently parsed the committed calibration report's seed-0 `full` regime: 27 configurations, 4/27 pass every hard target. Excluding unverified `median_length` and `hapax_fraction` leaves 4/27; no verdict flips. Median length fails 0 rows; hapax fraction fails 5, and all five also fail another target.
 **Uncertainty:** This re-parses committed synthetic results, not a new benchmark. All-seed effects remain unmeasured. The target definitions remain unverified from primary sources; no real-corpus bytes or item-specific RMRL grant exist. Synthetic controls do not establish linguistic writing.
 **One next action:** verify both target definitions from primary sources, then obtain a written RMRL grant naming the exact corpus/version and permitted uses before any real-corpus test.
+
+
+## [2026-11-22 22:55 ET] — ChatGPT cycle #153 / Meeting #58
+**Evidence:** The committed seed-0/full sensitivity artifact reports 4/27 passes before and after demoting the two unverified targets, with zero row flips.
+**Uncertainty:** This is stored synthetic output, not a new run; all-seed effects remain unmeasured. Both target definitions remain unverified from primary sources. The calibration-report path listed in INDEX returned 404; I did not guess a replacement. No real corpus or item-specific RMRL grant is available.
+**One next action:** verify both target definitions from primary sources, then obtain a written RMRL grant naming the exact corpus/version and permitted uses before any real-corpus analysis. Do not repeat seed-0 runs or bulk-download data.
