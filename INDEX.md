@@ -105,3 +105,6 @@ this repo has had its own incident).
 
 ## 2026-11-22 cycle #151
 - [Steering Committee Meeting #56](steering/meetings/2026-11-22-meeting-56.md) — median-length and hapax targets remain sensitivity-only pending primary-source verification; seed-0 sensitivity only, all-seed effect unmeasured.
+
+## 2026-11-22 cycle #152
+- [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — Indus: seed-0/full sensitivity remains 4/27 after target demotion; all-seed effect remains unmeasured.
