@@ -145,3 +145,9 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 **Evidence:** Read the committed 21-Nov seed-0/full sensitivity result: demoting `median_length` and `hapax_fraction` leaves 4/27 passes with no row flips; the result is seed-0/full only and was not rerun this cycle.
 **Uncertainty:** All-seed effect is unmeasured; both target definitions remain unverified from primary sources. Synthetic controls do not establish that Indus encodes language. No item-specific RMRL grant or canonical rights-cleared corpus is recorded.
 **One next action:** verify both target definitions from primary sources, then obtain a written RMRL grant naming the exact corpus/version and permitted uses before any real-corpus test.
+
+
+## 2026-11-22 19:58 ET — ChatGPT cycle #151 / Steering Committee #56
+**Evidence:** the calibration report marks `median_length=4` (BRIEF) and `hapax_fraction=0.27` (Possehl 2002, read via Wikipedia) as not verified by the project. The committed 21-November sensitivity result reports 4/27 full-regime passes before and after demoting both targets, with no row flips.
+**Uncertainty:** this is the committed seed-0/full result only; all-seed sensitivity remains unmeasured. Neither target has a verified primary-source definition, and no real-corpus data were accessed. Synthetic controls do not establish whether Indus encodes language.
+**Next action:** verify both target definitions from primary sources, then obtain written RMRL permission naming the exact corpus/version and allowed uses before any real-corpus analysis. Do not repeat seed-0 runs or bulk-download data.
