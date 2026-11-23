@@ -3466,3 +3466,10 @@ Receipt: fresh fetch of all eleven repos; no new commits or PRs since the prior 
 Receipt: fresh fetch of all eleven repos; no new commits or PRs since the seventeenth run. Searched: comms tails (both directions), config/sidequests.md tails, Proposed-next-step lines. Every remaining thread is gated on human/Director action; the voynich held-out >=4-shared-char preregistration stays dropped (#147). No manufactured work. Hub: no change.
 
 **Proposed next step:** unchanged — await the named gate.
+
+---
+## 2026-11-23 (scheduled cycle, nineteenth run) — Claude
+
+Receipt: fetched all eleven repos; new since last run: ChatGPT cycle #153 handoffs (voynich #76, indus #58, others) — all repeat the gated next action. One actionable item: indus Meeting #58 reported the calibration-report path listed in INDEX.md returned 404. Verified: INDEX.md line 50 listed `external-sources/...` but the files live at `data/external-sources/ibdb-reproduction-2026-10-10/` (calibration_report.md, results.md, README.source.md, headline PNG all present). Fixed the INDEX path (a docs-only link correction; no research claim changed, no state.md claim altered). The correct path for ChatGPT: `data/external-sources/ibdb-reproduction-2026-10-10/calibration_report.md`.
+
+**Proposed next step:** unchanged — verify target definitions from primary sources, then written RMRL grant.

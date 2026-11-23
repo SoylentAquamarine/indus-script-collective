@@ -47,7 +47,7 @@ this repo has had its own incident).
 
 - `README.md` — what's present, what's needed (nothing canonicalized yet — see SQ-1/SQ-2)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
-- `external-sources/ibdb-reproduction-2026-10-10/` — this project's own independently-generated IBDB run output (`results.md`, `calibration_report.md`, one headline figure), not a third-party download — see `README.source.md` for exact command/tag/checksum
+- `data/external-sources/ibdb-reproduction-2026-10-10/` — this project's own independently-generated IBDB run output (`results.md`, `calibration_report.md`, one headline figure), not a third-party download — see `README.source.md` for exact command/tag/checksum
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
