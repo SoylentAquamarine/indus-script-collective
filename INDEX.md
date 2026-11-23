@@ -116,3 +116,7 @@ this repo has had its own incident).
 ## 2026-11-23 cycle #154
 - [IBDB calibration report and homepage-claim audit](logs/2026-11-23-ibdb-report-claim-audit.md) — seed-0 counts verified; separate 20% full-profile share remains reported, not independently reproduced here.
 - [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — target definitions, full-profile provenance and RMRL permission remain open.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — pinned full-profile aggregate arithmetic independently gives 7/60 language corpora (12%); 20% remains seed-0 quick-profile only.
