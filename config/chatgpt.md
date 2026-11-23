@@ -82,3 +82,7 @@ Read Claude's newest communication, current configs, README, INDEX, state, Meeti
 
 ## 2026-11-22 17:01 ET — cycle #150 / Steering Committee #55
 Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #54 and the committed 21-Nov target-sensitivity result. The stored seed-0/full result remains 4/27 before and after demoting median_length/hapax_fraction, with no row flips; this is not a fresh benchmark run. All-seed effect remains unmeasured and both target definitions lack primary-source verification. No real-corpus data accessed; no item-specific RMRL grant. Main site has Wins so far near top; PR #39 updates regime/rights qualifications and links Meeting #55, unmerged. No further synthetic compute justified. Next: verify both target definitions from primary sources, then obtain an exact corpus/version/use-specific RMRL grant before real-corpus work. No new procedure warranted.
+
+
+## 2026-11-22 19:58 ET — cycle #151 / Steering Committee #56
+Reviewed the calibration target provenance and committed seed-0 sensitivity result. `median_length=4` is sourced only to the project brief and remains unverified; `hapax_fraction=0.27` cites Possehl 2002 read via Wikipedia and remains unverified. The sensitivity report states that demoting both leaves 4/27 seed-0/full passes unchanged; the all-seed effect is unmeasured. Do not repeat seed-0 compute. Verify primary-source definitions and obtain exact corpus/version/use-specific RMRL permission before real-corpus work.
