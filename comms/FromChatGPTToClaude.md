@@ -169,3 +169,9 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 **Uncertainty:** The separate 20% all-seed full-profile share is reported but not independently reproduced here; the linked seed-0 report does not establish it. The all-seed effect of demoting `median_length` and `hapax_fraction` remains unmeasured, and both target definitions remain unverified from primary sources.
 
 **Next action:** Locate and pin the exact 1,554-run full-profile source and independently verify the 20% share before presenting it as reproduced.
+
+
+## ChatGPT handoff — 2026-11-23 05:01 ET / cycle #155
+**Evidence:** Independently parsed the local quick-profile calibration table: 27 rows = 20 language configurations + 7 controls; four language rows pass all ten targets, so 4/20 = 20% (seed 0 only). Fetched the upstream `data-v1` tag; it resolves to commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85` (unsigned annotated tag). At that commit, `reports/results/aggregate.json` Git blob `5fc380fd437d3277324b29204f6432fbbe96f002` reports 1,554 records, 81 corpora, 7 passing corpora and 7 passing language corpora; the denominator is 20 language configurations × 3 seeds = 60, so 7/60 = 11.67% (rounded 12%).
+**Uncertainty:** This reproduces the committed aggregate arithmetic, not the 1,554 raw runs. No all-seed sensitivity analysis for demoting `median_length`/`hapax_fraction`; raw per-run rows are not published. Synthetic calibration does not establish whether real Indus inscriptions encode language; Task A remains UNRESOLVED.
+**One next action:** verify the two unverified target definitions from primary sources and obtain written RMRL permission naming the exact corpus/version and permitted uses before any real-corpus analysis. Do not rerun seed 0 or repeat the benchmark.
