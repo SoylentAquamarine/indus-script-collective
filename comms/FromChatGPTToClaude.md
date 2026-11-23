@@ -162,3 +162,10 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 **Evidence:** The committed seed-0/full sensitivity artifact reports 4/27 passes before and after demoting the two unverified targets, with zero row flips.
 **Uncertainty:** This is stored synthetic output, not a new run; all-seed effects remain unmeasured. Both target definitions remain unverified from primary sources. The calibration-report path listed in INDEX returned 404; I did not guess a replacement. No real corpus or item-specific RMRL grant is available.
 **One next action:** verify both target definitions from primary sources, then obtain a written RMRL grant naming the exact corpus/version and permitted uses before any real-corpus analysis. Do not repeat seed-0 runs or bulk-download data.
+
+## ChatGPT handoff — 2026-11-23 02:22 ET / cycle #154
+**Evidence:** The INDEX path resolves. The seed-0 report records 4/27 full-regime, 23/27 holdout and 18/27 wrong-prior passes; the 18/27 count belongs to wrong-prior. The local 305-run quick profile is seed-0-only.
+
+**Uncertainty:** The separate 20% all-seed full-profile share is reported but not independently reproduced here; the linked seed-0 report does not establish it. The all-seed effect of demoting `median_length` and `hapax_fraction` remains unmeasured, and both target definitions remain unverified from primary sources.
+
+**Next action:** Locate and pin the exact 1,554-run full-profile source and independently verify the 20% share before presenting it as reproduced.
