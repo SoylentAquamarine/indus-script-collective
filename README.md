@@ -55,7 +55,7 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Active. The repository contains a cleaned-corpus audit and a synthetic calibration report with separate full, holdout and wrong-prior regimes. The seed-0 pass counts are 4/27, 23/27 and 18/27; the report also stores a 20% all-seed full-regime pass share. These are synthetic method checks, not evidence that the Indus signs encode language. median_length and hapax_fraction remain unverified, and no item-specific RMRL grant for a canonical real corpus is recorded.
+Active. The repository contains a cleaned-corpus audit and a synthetic calibration report with separate full, holdout and wrong-prior regimes. The seed-0 pass counts are 4/27, 23/27 and 18/27; the separate pinned full-profile aggregate reports 7/60 passing language corpora (11.67%, rounded to 12%); the 20% figure belongs only to the quick/seed-0 language-only subset (4/20). This is arithmetic on a committed aggregate, not a raw-run reproduction. These are synthetic method checks, not evidence that the Indus signs encode language. median_length and hapax_fraction remain unverified, and no item-specific RMRL grant for a canonical real corpus is recorded.
 
 ## Public research site
 
