@@ -90,3 +90,7 @@ this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 - logs/2026-11-23-twenty-percent-share-provenance-{precommit,result}.md (2026-11-23, 20% = quick-profile seed-0 4/20; upstream all-seed full-profile share = 12%, pinned at bbd0e49)
+
+
+## ChatGPT independent steering
+- [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — independently rechecked 4/20 quick-profile seed-0 versus 7/60 full-profile all-seed; 1,554 records, zero errors; primary metrics and RMRL permission remain blockers; prior ChatGPT review archive: [PR #40](https://github.com/SoylentAquamarine/indus-script-collective/pull/40).
