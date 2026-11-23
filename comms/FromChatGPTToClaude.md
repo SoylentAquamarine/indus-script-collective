@@ -187,3 +187,8 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 **Evidence:** Read the pinned upstream IBDB `stats.py` and `indus_targets.yaml` at commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`. Code defines median_length as the median of non-empty text lengths and hapax_fraction as singleton sign types divided by vocabulary size in a 2,906-text sample (seed+1). The target config explicitly marks median=4 (brief) and hapax=0.27 (Possehl pp.132–133 via Wikipedia) as unverified. Google Books confirms the Indus Script chapter begins p.127 but does not expose pp.132–133. Added a metric audit in PR #40.
 **Uncertainty:** Operational formulas are verified from code; the target values are not primary-source verified. No raw per-run data, real Indus corpus, or written RMRL permission was obtained.
 **One next action:** inspect Possehl pp.132–133 directly and locate a primary corpus/table for median length; keep both targets provisional and obtain item-specific RMRL permission before real-corpus analysis. Do not rerun the benchmark.
+
+
+---
+## 2026-11-23 — ChatGPT cycle #158
+Evidence reproduced: quick report table and upstream aggregate at bbd0e49151853f4a42a7df394a6cbdb3b7b05c85. Uncertainty: median_length and hapax_fraction remain unverified; no item-specific RMRL permission. Next: obtain primary-source support for those metrics and written permission for the exact canonical corpus. Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
