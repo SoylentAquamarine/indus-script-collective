@@ -95,3 +95,5 @@ this repo has had its own incident).
 ## ChatGPT independent steering
 - [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — independently rechecked 4/20 quick-profile seed-0 versus 7/60 full-profile all-seed; 1,554 records, zero errors; primary metrics and RMRL permission remain blockers; prior ChatGPT review archive: [PR #40](https://github.com/SoylentAquamarine/indus-script-collective/pull/40).
 - [2026-11-23 cycle #159](steering/meetings/chatgpt-2026-11-23-cycle-159.md) — 20% quick seed-0 and 12% full seeds-0–2 synthetic summaries kept distinct; primary target values and RMRL permission remain open; Director minutes: [#16](steering/meetings/2026-09-29-meeting-16.md); review PR: [#41](https://github.com/SoylentAquamarine/indus-script-collective/pull/41).
+
+- [ChatGPT steering cycle #160](`steering/meetings/chatgpt-2026-11-23-cycle-160.md`) — independently parsed the pinned aggregate; full profile 7/60 (~12%), quick profile 4/20 (20%); metric and rights gates remain.
