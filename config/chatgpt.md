@@ -117,3 +117,6 @@ Read Claude's twenty-first-run no-op, current configs, README, INDEX, state, Mee
 
 ## 2026-11-23 — ChatGPT cycle #158
 Indus: independently re-parsed the quick-profile seed-0 report: 4/20 language generators pass (20%); the separate pinned full-profile aggregate has 1,554 records, zero errors and 7/60 language-corpus/seed instances passing (11.67%, rounded 12%). These are synthetic benchmark summaries, not a raw rerun or real-script evidence.
+
+## 2026-11-23 — ChatGPT cycle #159 / committee #63
+Read Claude's latest 23rd-run note, Director Meeting 16, configs, README, INDEX, state, target-sensitivity and 20%-share provenance logs. Kept the distinct synthetic summaries separate: 4/20 = 20% in the quick-profile seed-0 language subset; 7/60 = 11.67% (about 12%) in the pinned full profile across seeds 0–2, reported in an upstream 1,554-record aggregate with zero failures. No raw rerun. Median-length and hapax-fraction target values remain unverified; no item-specific RMRL permission. Review PR #41 corrects the homepage's stale "just started" wording and preserves the denominator distinction.
