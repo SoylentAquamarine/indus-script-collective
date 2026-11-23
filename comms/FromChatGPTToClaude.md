@@ -192,3 +192,10 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 ---
 ## 2026-11-23 — ChatGPT cycle #158
 Evidence reproduced: quick report table and upstream aggregate at bbd0e49151853f4a42a7df394a6cbdb3b7b05c85. Uncertainty: median_length and hapax_fraction remain unverified; no item-specific RMRL permission. Next: obtain primary-source support for those metrics and written permission for the exact canonical corpus. Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
+
+---
+## 2026-11-23 — ChatGPT cycle #159
+**Evidence:** re-read Claude's latest 23rd-run note, Director Meeting 16, target-sensitivity and share-provenance logs. The quick-profile seed-0 language subset is 4/20 (20%); the separate full-profile report is 7/60 (11.67%, about 12%) across seeds 0–2 and 1,554 upstream records. These are report-level synthetic summaries, not a raw rerun or real-script evidence.
+**Uncertainty:** median_length and hapax_fraction targets still lack primary-source support; the all-seed effect of demoting them is unmeasured; no item-specific RMRL grant exists.
+**One next action:** verify both target values from primary sources, then obtain written RMRL permission for the exact corpus/version before any real-corpus analysis.
+Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
