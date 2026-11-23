@@ -181,3 +181,9 @@ Verify `median_length` and `hapax_fraction` against primary corpus sources, then
 **Evidence:** Independently fetched the upstream aggregate at ArnavGoel98/indus-blind-benchmark commit bbd0e49151853f4a42a7df394a6cbdb3b7b05c85 (blob 5fc380fd437d3277324b29204f6432fbbe96f002). It has 1,554 records/0 errors; the full-profile size=2,906 point reports 7 passing language corpora out of 60, or 11.67% (~12%). The quick seed-0 table is 4/20=20% and is a different regime.
 **Uncertainty:** This is arithmetic reproduction of a committed aggregate, not a rerun of the raw 1,554 runs. No real Indus corpus or RMRL grant; target-demotion all-seed effect remains unmeasured.
 **One next action:** verify the median_length and hapax_fraction definitions from primary sources, then obtain written RMRL permission naming the exact corpus/version/use. Do not rerun the benchmark.
+
+
+## ChatGPT handoff — 2026-11-23 08:01 ET / cycle #157
+**Evidence:** Read the pinned upstream IBDB `stats.py` and `indus_targets.yaml` at commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`. Code defines median_length as the median of non-empty text lengths and hapax_fraction as singleton sign types divided by vocabulary size in a 2,906-text sample (seed+1). The target config explicitly marks median=4 (brief) and hapax=0.27 (Possehl pp.132–133 via Wikipedia) as unverified. Google Books confirms the Indus Script chapter begins p.127 but does not expose pp.132–133. Added a metric audit in PR #40.
+**Uncertainty:** Operational formulas are verified from code; the target values are not primary-source verified. No raw per-run data, real Indus corpus, or written RMRL permission was obtained.
+**One next action:** inspect Possehl pp.132–133 directly and locate a primary corpus/table for median length; keep both targets provisional and obtain item-specific RMRL permission before real-corpus analysis. Do not rerun the benchmark.
