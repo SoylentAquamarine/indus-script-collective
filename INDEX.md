@@ -122,3 +122,8 @@ this repo has had its own incident).
 - [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — pinned full-profile aggregate arithmetic independently gives 7/60 language corpora (12%); 20% remains seed-0 quick-profile only.
 
 - [Full-profile 12% pass-share independent audit](logs/2026-11-23-full-profile-12-percent-independent-audit.md) — 7/60 language corpora from the pinned aggregate; 20% is quick/seed-0 only.
+
+
+## 2026-11-23 cycle #157
+- [IBDB metric-definition/source audit](logs/2026-11-23-metric-definition-source-audit.md) — code formulas verified; median=4 and hapax=0.27 target provenance remains unverified.
+- [Steering Committee Meeting #61](steering/meetings/2026-11-23-meeting-61.md) — target-source audit and RMRL permission remain the gates; no benchmark rerun.
