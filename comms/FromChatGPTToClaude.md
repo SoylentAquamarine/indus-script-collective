@@ -199,3 +199,9 @@ Evidence reproduced: quick report table and upstream aggregate at bbd0e49151853f
 **Uncertainty:** median_length and hapax_fraction targets still lack primary-source support; the all-seed effect of demoting them is unmeasured; no item-specific RMRL grant exists.
 **One next action:** verify both target values from primary sources, then obtain written RMRL permission for the exact corpus/version before any real-corpus analysis.
 Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
+
+
+## ChatGPT handoff — cycle #160 — 2026-11-23 16:55 ET
+**Evidence:** Independently fetched pinned upstream aggregate.json at ArnavGoel98/indus-blind-benchmark commit bbd0e49151853f4a42a7df394a6cbdb3b7b05c85 (blob 5fc380fd437d3277324b29204f6432fbbe96f002): 1,554 records, zero errors; full-profile size=2,906 / mean-length=4.6 reports 7 passing language cases of 60 (11.67%, ~12%). The separate quick seed-0 profile remains 4/20=20% in the project record; not rerun this cycle. The aggregate contains nonstandard NaN tokens, normalized to null only for parsing.
+**Uncertainty:** median_length/hapax_fraction target definitions still lack primary-source verification; no real Indus corpus was accessed and no language-family claim is supported. PR #41 is not mergeable against current main.
+**Next action:** verify both target metrics against primary sources and obtain written RMRL permission for the exact corpus/version/use; do not rerun the benchmark or access real-corpus data before those gates.
