@@ -12,9 +12,11 @@ The ultimate target is a defensible decipherment and faithful English translatio
 
 The project's priorities, in order, are:
 
-1. resolve, or at least honestly characterize, the sign-inventory-counting question (SQ-2), since it affects every downstream statistic;
-2. treat the writing-system-type question — full writing vs. non-linguistic notation vs. accounting/numeral system — as the central, most consequential open question, explicitly engaging the Farmer/Sproat/Witzel controversy and its critics rather than picking a side by default;
-3. only pursue language-family identification (e.g. Dravidian) if the writing-system-type question resolves toward "this is linguistic writing" with real supporting evidence, not by assumption.
+1. verify the primary-source definitions and provenance of median_length and hapax_fraction;
+2. obtain an item-specific RMRL grant and canonical corpus/version for permitted use;
+3. reconcile the sign inventory and corpus conventions;
+4. test whether the system is linguistic writing, non-linguistic notation or accounting using independent, falsifiable methods;
+5. pursue language-family hypotheses and English translation only if linguistic writing is supported.
 
 ## Why the Indus script, and why this is harder in a specific, named way
 
@@ -53,8 +55,8 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The repository contains a cleaned-corpus audit and a synthetic calibration report with separate full, holdout and wrong-prior regimes. The seed-0 pass counts are 4/27, 23/27 and 18/27; the report also stores a 20% all-seed full-regime pass share. These are synthetic method checks, not evidence that the Indus signs encode language. median_length and hapax_fraction remain unverified, and no item-specific RMRL grant for a canonical real corpus is recorded.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/indus-script-collective/**. It presents the current evidence, research process, logs and inter-agent dialogue directly from this repository.
