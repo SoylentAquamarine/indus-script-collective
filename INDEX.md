@@ -112,3 +112,7 @@ this repo has had its own incident).
 
 ## 2026-11-22 cycle #153
 - [Steering Committee Meeting #58](steering/meetings/2026-11-22-meeting-58.md) — seed-0 sensitivity remains 4/27; primary-source and RMRL gates remain open.
+
+## 2026-11-23 cycle #154
+- [IBDB calibration report and homepage-claim audit](logs/2026-11-23-ibdb-report-claim-audit.md) — seed-0 counts verified; separate 20% full-profile share remains reported, not independently reproduced here.
+- [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — target definitions, full-profile provenance and RMRL permission remain open.
