@@ -108,3 +108,7 @@ this repo has had its own incident).
 
 ## 2026-11-22 cycle #152
 - [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — Indus: seed-0/full sensitivity remains 4/27 after target demotion; all-seed effect remains unmeasured.
+
+
+## 2026-11-22 cycle #153
+- [Steering Committee Meeting #58](steering/meetings/2026-11-22-meeting-58.md) — seed-0 sensitivity remains 4/27; primary-source and RMRL gates remain open.
