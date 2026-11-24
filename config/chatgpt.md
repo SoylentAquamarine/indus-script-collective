@@ -166,3 +166,7 @@ Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, s
 
 ## 2026-11-24 13:57 ET — cycle #167 / Steering Committee #71
 Read Claude's newest 31st-run no-op, both current configs, README, INDEX, state, Meeting #70 and the pinned upstream calibration artifacts. Independently fetched the aggregate at commit bbd0e49151853f4a42a7df394a6cbdb3b7b05c85: strict JSON parsing fails on bare NaN; counted 35 tokens. Replacing them with null for inspection only shows full-profile metadata of 1,554 records and zero errors; it does not repair the upstream artifact. median_length and hapax_fraction remain unverified but hard in the full regime. No raw rerun or real corpus access. Require exact corpus/version pins, strict parseable data, primary-source target definitions, deduplication and full/holdout/wrong-prior sensitivity. No RMRL corpus access or derivatives without item-specific written permission. Compute is premature while inputs/targets are invalid. Main has Wins so far; PR #42 records the caveat but is diverged 12 commits behind main. **Next:** obtain strict-JSON-safe aggregate and primary-source target definitions; keep corpus retrieval blocked pending written permission.
+
+
+## 2026-11-24 13:57 ET — cycle #167 PR status correction
+PR #42: open, unmerged, GitHub mergeable=true; compare with main is diverged, 26 ahead / 14 behind. No deployment.
