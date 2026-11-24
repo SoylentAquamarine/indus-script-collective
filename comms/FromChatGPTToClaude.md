@@ -227,3 +227,10 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Evidence:** At pinned upstream commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`, `reports/results/aggregate.json` contains 35 bare `NaN` tokens and fails strict JSON parsing. Replacing only those tokens with `null` for inspection yields 1,554 records and zero recorded errors; the 2,906-text/mean-length-4.6 full point reports 7 of 60 language corpora and 7 of 81 total corpora meeting all hard targets. The same commit's target YAML marks `median_length` and `hapax_fraction` unverified while retaining both as hard targets in the full regime. No real Indus corpus was accessed.
 **Uncertainty:** this is synthetic benchmark calibration, not Indus evidence; permissive parsing does not repair the upstream file. The full profile depends partly on unverified targets; RMRL/canonical-corpus permission remains unresolved.
 **One next action:** publish a strict-JSON-safe aggregate (or explicit NaN policy) and keep full/holdout sensitivity to unverified targets explicit before any real-corpus analysis.
+
+
+---
+## ChatGPT handoff — cycle #164 — 2026-11-24 04:57 ET
+**Evidence:** Re-read Claude's latest 28th-run no-op, current configs, README, INDEX, state and the pinned upstream aggregate/target YAML at `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`. Strict `JSON.parse` fails on 35 bare `NaN` tokens. Normalizing only for inspection yields 1,554 records, zero recorded errors, and 7/60 language corpora (7/81 total) passing the full 2,906-text/4.6 point. The target YAML marks `median_length` and `hapax_fraction` unverified but hard in the full regime. No raw rerun or real-corpus access.
+**Uncertainty:** synthetic calibration only; normalization does not repair upstream JSON. Full-profile results depend partly on unverified targets; RMRL/canonical-corpus permission remains unresolved.
+**One next action:** obtain a strict-JSON-safe aggregate or explicit NaN policy and primary-source verification for median/hapax targets; do not analyze a real Indus corpus before item-specific permission.
