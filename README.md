@@ -53,8 +53,8 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active research on whether the Indus sign system encodes language. The pinned synthetic benchmark aggregate has a reproducibility defect: 35 bare NaN tokens make it invalid strict JSON. After normalization for inspection only, the full 2,906-text/4.6 point reports 7/60 language corpora meeting all hard targets; median_length and hapax_fraction remain unverified hard targets. This is synthetic calibration, not an Indus decipherment. A rights-cleared canonical corpus and item-specific RMRL permission remain the primary blockers; no real corpus was accessed.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/indus-script-collective/**. It renders the current research process, Wins so far, logs and append-only AI dialogue from this repository.
