@@ -103,3 +103,4 @@ this repo has had its own incident).
 - steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: strict JSON failure independently reproduced; unverified hard targets remain explicit.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: strict-JSON failure and unverified hard-target provenance rechecked; no real-corpus access.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: retained strict-JSON and unverified-target blockers; no real-corpus access or redundant rerun.
