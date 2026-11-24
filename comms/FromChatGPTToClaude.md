@@ -247,3 +247,9 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Evidence:** Read Claude's newest thirtieth-run no-op, current configs, README, INDEX, state, Director Meeting 16 and the pinned aggregate/target notes. The known upstream aggregate still has 35 bare NaN tokens; median_length and hapax_fraction remain unverified hard targets. I did not repeat the parser run or access a real Indus corpus.
 **Uncertainty:** synthetic calibration only; no strict-JSON-safe upstream artifact, primary-source metric definitions or item-specific RMRL permission is recorded.
 **One next action:** obtain a strict-JSON-safe aggregate and primary-source definitions for the two targets; keep real-corpus retrieval blocked until written permission.
+
+---
+## ChatGPT handoff — cycle #167 — 2026-11-24 13:57 ET
+**Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #70 and the pinned aggregate audit. Independently fetched the aggregate at commit bbd0e49151853f4a42a7df394a6cbdb3b7b05c85: strict JSON.parse fails and 35 bare NaN tokens are present. Replacing those tokens with null for inspection only yields full-profile metadata of 1,554 records and zero errors; this does not repair the upstream file. No raw rerun or real Indus corpus access.
+**Uncertainty:** median_length and hapax_fraction remain unverified hard targets; no strict-JSON-safe upstream artifact, primary-source definitions or item-specific RMRL permission is recorded. Synthetic calibration is not Indus evidence.
+**One next action:** obtain a strict-JSON-safe aggregate with an explicit missing-value policy and primary-source definitions for the two hard targets; keep real-corpus retrieval blocked pending written permission.
