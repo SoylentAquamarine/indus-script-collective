@@ -13,6 +13,9 @@ Resolve the sign-inventory and source-provenance questions first, then test full
 - The pinned `config/indus_targets.yaml` marks `median_length` and `hapax_fraction` as unverified while still including both as hard targets in the `full` regime. The benchmark README explicitly describes the median as unverified and labels results synthetic.
 - No real Indus inscriptions or third-party corpus were accessed.
 
+## Director configuration status
+The Director-owned `config/claude.md` remains marked bootstrap. Its stated inventory-first and system-type-first sequence is retained as the project-specific route; no Director config was edited.
+
 ## Evidence and falsification standard
 Publish exact sign-counting and calibration conventions. System-type claims must beat linguistic, non-linguistic and numeral/accounting controls on held-out material. Synthetic calibration is a method test, not evidence that the Indus script encodes language.
 
