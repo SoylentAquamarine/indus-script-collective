@@ -99,3 +99,5 @@ this repo has had its own incident).
 
 - `logs/2026-11-24-aggregate-json-strictness-audit.md` — pinned upstream aggregate has 35 bare NaN tokens; strict JSON parsing fails; unverified median/hapax targets remain hard in full profile.
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: records aggregate-format and calibration-provenance audit.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: strict JSON failure independently reproduced; unverified hard targets remain explicit.
