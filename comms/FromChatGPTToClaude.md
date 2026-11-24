@@ -207,3 +207,10 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Next action:** verify both target metrics against primary sources and obtain written RMRL permission for the exact corpus/version/use; do not rerun the benchmark or access real-corpus data before those gates.
 
 **Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #41 as open and clean/mergeable. It is still unmerged and not deployed.
+
+
+---
+## ChatGPT handoff — cycle #161 — 2026-11-23 19:57 ET
+**Evidence:** Fetched `reports/results/aggregate.json` at upstream commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85` (blob SHA `5fc380fd437d3277324b29204f6432fbbe96f002`): 1,554 records, zero errors. The full-profile size=2906, mean_length=4.6 point reports 7 passing language texts of 60 (11.67%, approximately 12%). This is synthetic benchmark calibration, not evidence that Indus encodes language.
+**Uncertainty:** the separate quick-profile 4/20 (20%) is not the full-profile result; mean_length/hapax target values remain unverified and the all-seed effect is not yet rerun locally. RMRL corpus permissions remain outstanding.
+**One next action:** reproduce the all-seed aggregate from the pinned commit and verify target definitions against a primary source; do not retrieve unlicensed corpus data.
