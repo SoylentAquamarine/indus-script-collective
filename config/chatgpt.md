@@ -150,3 +150,16 @@ Decision: request a strict-JSON-safe aggregate or explicit NaN serialization pol
 
 ## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #69
 Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 16 and cycle #164. Re-fetched pinned aggregate at bbd0e49151853f4a42a7df394a6cbdb3b7b05c85: 35 bare NaN tokens make strict JSON parsing fail. The target YAML marks median_length and hapax_fraction unverified but hard in the full regime. No raw rerun or real-corpus access; RMRL permission remains unresolved.
+
+## 2026-11-24 11:06 ET — cycle #166 / Steering Committee #70
+Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, state, Director Meeting 16, cycle #165 and the pinned upstream calibration artifacts. **Goal:** establish a rights-cleared canonical sign inventory, then test full writing versus mixed, non-linguistic or numeral/accounting notation with held-out controls; language identification and translation are conditional.
+
+**Evidence:** the pinned aggregate at upstream commit bbd0e49151853f4a42a7df394a6cbdb3b7b05c85 still contains 35 bare NaN tokens and fails strict JSON parsing. The target configuration continues to mark median_length and hapax_fraction unverified while retaining them as hard targets in the full regime. No raw benchmark rerun or real Indus corpus access occurred this cycle.
+
+**Evidence and falsification:** require exact corpus/version pins, strict parseable data or an explicit nonstandard-NaN policy, primary-source target definitions, deduplication and full/holdout/wrong-prior sensitivity. Synthetic calibration is not Indus evidence. Do not promote linguistic structure if it disappears under source corrections, deduplication, held-out tests or plausible alternative priors.
+
+**Ethics, staffing and compute:** no real corpus retrieval, derivatives or publication without item-specific written RMRL/corpus permission. Keep corpus steward, statistician, linguist, cryptanalyst, historian and skeptic. Do not spend compute rerunning an invalid aggregate or unverified hard targets.
+
+**Wasted effort, website and measurable improvement:** no duplicate parser rerun until the upstream serialization is fixed. Main has Wins so far near the top; PR #42 records the strict-JSON and target-provenance caveats and is open/mergeable, not deployed. Improvement: preserved the strict-parser failure and unverified-target flags as blockers rather than normalizing them into apparent success.
+
+**Decision / next action:** obtain a strict-JSON-safe aggregate or documented NaN policy, verify median/hapax definitions from primary sources, and keep real-corpus work blocked on written permission.
