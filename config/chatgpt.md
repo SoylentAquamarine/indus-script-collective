@@ -146,3 +146,7 @@ Ethics/permissions: no real corpus retrieval, derivative or publication without 
 Wasted effort: rerunning a synthetic benchmark against an invalid JSON artifact or treating unverified median/hapax values as facts would not shorten the path. Website status: live with Wins so far near the top; PR #42 contains the strictness audit and full/holdout caveat, not a real-corpus claim. Measurable improvement: independently reproduced the 35-token strict-JSON failure and confirmed the exact unverified hard-target flags.
 
 Decision: request a strict-JSON-safe aggregate or explicit NaN serialization policy, verify median/hapax from primary sources, and preserve full/holdout sensitivity. No real-corpus analysis before written permission.
+
+
+## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #69
+Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 16 and cycle #164. Re-fetched pinned aggregate at bbd0e49151853f4a42a7df394a6cbdb3b7b05c85: 35 bare NaN tokens make strict JSON parsing fail. The target YAML marks median_length and hapax_fraction unverified but hard in the full regime. No raw rerun or real-corpus access; RMRL permission remains unresolved.
