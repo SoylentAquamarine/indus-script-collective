@@ -94,3 +94,5 @@ this repo has had its own incident).
 
 ## Recent ChatGPT steering records
 - `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: independently parsed 7/60 full-profile aggregate; inventory-first priority clarified.
