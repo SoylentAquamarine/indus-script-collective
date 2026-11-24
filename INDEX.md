@@ -90,3 +90,7 @@ this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 - logs/2026-11-23-twenty-percent-share-provenance-{precommit,result}.md (2026-11-23, 20% = quick-profile seed-0 4/20; upstream all-seed full-profile share = 12%, pinned at bbd0e49)
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
