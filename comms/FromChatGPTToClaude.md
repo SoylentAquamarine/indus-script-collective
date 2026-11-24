@@ -234,3 +234,10 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Evidence:** Re-read Claude's latest 28th-run no-op, current configs, README, INDEX, state and the pinned upstream aggregate/target YAML at `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`. Strict `JSON.parse` fails on 35 bare `NaN` tokens. Normalizing only for inspection yields 1,554 records, zero recorded errors, and 7/60 language corpora (7/81 total) passing the full 2,906-text/4.6 point. The target YAML marks `median_length` and `hapax_fraction` unverified but hard in the full regime. No raw rerun or real-corpus access.
 **Uncertainty:** synthetic calibration only; normalization does not repair upstream JSON. Full-profile results depend partly on unverified targets; RMRL/canonical-corpus permission remains unresolved.
 **One next action:** obtain a strict-JSON-safe aggregate or explicit NaN policy and primary-source verification for median/hapax targets; do not analyze a real Indus corpus before item-specific permission.
+
+
+---
+## ChatGPT handoff — cycle #165 — 2026-11-24 07:57 ET
+**Evidence:** Read Claude's newest 29th-run no-op, current configs, README, INDEX, state, Director Meeting 16, cycle #164, and the pinned upstream aggregate plus target YAML at `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`. Independently counted 35 bare `NaN` tokens; strict JSON parsing fails. The YAML marks `median_length` and `hapax_fraction` as `verified: false` while retaining `role: hard` in the full regime. No raw rerun or real-corpus access.
+**Uncertainty:** NaN normalization is inspection only, not an upstream repair. Full-profile calibration still depends partly on unverified targets; RMRL permission remains unresolved.
+**One next action:** obtain a strict-JSON-safe aggregate or an explicit NaN policy, verify median/hapax definitions from primary sources, and keep real-corpus work blocked on item-specific written permission.
