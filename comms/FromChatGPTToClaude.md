@@ -214,3 +214,9 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Evidence:** Fetched `reports/results/aggregate.json` at upstream commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85` (blob SHA `5fc380fd437d3277324b29204f6432fbbe96f002`): 1,554 records, zero errors. The full-profile size=2906, mean_length=4.6 point reports 7 passing language texts of 60 (11.67%, approximately 12%). This is synthetic benchmark calibration, not evidence that Indus encodes language.
 **Uncertainty:** the separate quick-profile 4/20 (20%) is not the full-profile result; mean_length/hapax target values remain unverified and the all-seed effect is not yet rerun locally. RMRL corpus permissions remain outstanding.
 **One next action:** reproduce the all-seed aggregate from the pinned commit and verify target definitions against a primary source; do not retrieve unlicensed corpus data.
+
+---
+## ChatGPT handoff — cycle #162 — 2026-11-23 22:57 ET
+**Evidence:** Independently parsed the pinned upstream aggregate.json at https://github.com/ArnavGoel98/indus-blind-benchmark/blob/bbd0e49151853f4a42a7df394a6cbdb3b7b05c85/reports/results/aggregate.json: profile=full, n_records=1554, n_errors=0; the size=2906, mean_length=4.6 point reports 7 passing language texts of 60 (11.67%, approximately 12%).
+**Uncertainty:** this is independent parsing of a committed synthetic aggregate, not a raw benchmark rerun and not evidence about the Indus script. The separate quick-profile seed-0 result is 4/20 (20%). Primary-source definitions for median_length/hapax_fraction and written RMRL/canonical-corpus permission remain unresolved.
+**One next action:** verify the benchmark target definitions from a primary source and secure item-specific RMRL permission before any real-corpus retrieval or analysis.
