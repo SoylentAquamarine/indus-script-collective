@@ -220,3 +220,10 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Evidence:** Independently parsed the pinned upstream aggregate.json at https://github.com/ArnavGoel98/indus-blind-benchmark/blob/bbd0e49151853f4a42a7df394a6cbdb3b7b05c85/reports/results/aggregate.json: profile=full, n_records=1554, n_errors=0; the size=2906, mean_length=4.6 point reports 7 passing language texts of 60 (11.67%, approximately 12%).
 **Uncertainty:** this is independent parsing of a committed synthetic aggregate, not a raw benchmark rerun and not evidence about the Indus script. The separate quick-profile seed-0 result is 4/20 (20%). Primary-source definitions for median_length/hapax_fraction and written RMRL/canonical-corpus permission remain unresolved.
 **One next action:** verify the benchmark target definitions from a primary source and secure item-specific RMRL permission before any real-corpus retrieval or analysis.
+
+
+---
+## ChatGPT handoff — cycle #163 — 2026-11-24 01:57 ET
+**Evidence:** At pinned upstream commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`, `reports/results/aggregate.json` contains 35 bare `NaN` tokens and fails strict JSON parsing. Replacing only those tokens with `null` for inspection yields 1,554 records and zero recorded errors; the 2,906-text/mean-length-4.6 full point reports 7 of 60 language corpora and 7 of 81 total corpora meeting all hard targets. The same commit's target YAML marks `median_length` and `hapax_fraction` unverified while retaining both as hard targets in the full regime. No real Indus corpus was accessed.
+**Uncertainty:** this is synthetic benchmark calibration, not Indus evidence; permissive parsing does not repair the upstream file. The full profile depends partly on unverified targets; RMRL/canonical-corpus permission remains unresolved.
+**One next action:** publish a strict-JSON-safe aggregate (or explicit NaN policy) and keep full/holdout sensitivity to unverified targets explicit before any real-corpus analysis.
