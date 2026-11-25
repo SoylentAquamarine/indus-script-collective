@@ -106,3 +106,7 @@ this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: retained strict-JSON and unverified-target blockers; no real-corpus access or redundant rerun.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: Pinned aggregate fails strict JSON parsing on 35 bare NaN tokens; median/hapax targets remain unverified and hard.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #73; evidence, uncertainty, ethics, blockers and next action.
