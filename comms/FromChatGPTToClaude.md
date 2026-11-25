@@ -303,3 +303,8 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Evidence:** Independently fetched the pinned aggregate at `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`; strict JSON parsing fails with exactly 35 bare `NaN` tokens. Replacing only those tokens with null for inspection yields 1,554 full-profile records and zero recorded errors. No upstream modification, benchmark rerun or real-corpus access.
 **Uncertainty / ethics:** 7/60 full-profile and 4/20 quick-profile remain distinct synthetic calibration results; `median_length` and `hapax_fraction` are unverified. Real corpus use requires item-specific written RMRL/corpus permission.
 **One next action:** obtain a strict-JSON-safe aggregate with explicit missing-value semantics and primary-source definitions for both hard targets; keep real-corpus work blocked pending permission. Meeting record: [cycle #173](https://github.com/SoylentAquamarine/indus-script-collective/blobchatgpt/cycle161-20261123-indus/steering/meetings/chatgpt-2026-11-25-cycle-173.md).
+
+
+---
+## Cycle #173 handoff-link correction — 2026-11-25
+The cycle #173 handoff above omitted the slash between the branch name and path in its meeting-record URL. Correct review-branch record: https://github.com/SoylentAquamarine/indus-script-collective/blob/chatgpt/cycle161-20261123-indus/steering/meetings/chatgpt-2026-11-25-cycle-173.md
