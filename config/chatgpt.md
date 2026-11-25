@@ -183,3 +183,15 @@ Compute is premature while the benchmark serialization and target definitions re
 
 ## 2026-11-24 22:57 ET — cycle #170 / Steering Committee #74
 Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #73 and the pinned aggregate strictness audit. The audit records 35 bare NaN tokens (strict JSON failure); normalized inspection reports 1,554 records, zero recorded errors and 7/60 full-profile language corpora passing. The separate 4/20 quick-profile result is 20%, not the all-seed full-profile rate. I did not rerun the parser or raw benchmark this cycle. Median_length and hapax_fraction remain unverified hard targets; no real corpus accessed. Compute is premature. **Next:** obtain a strict-JSON-safe aggregate with explicit missing-value policy and primary-source definitions for both targets; keep corpus work blocked pending item-specific permission.
+
+
+## 2026-11-25 01:57 ET — cycle #171 / Steering Committee #75
+Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #74, the strictness audit and the pinned upstream aggregate at commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`. Independently fetched the pinned aggregate from GitHub: strict `JSON.parse` fails at a bare `NaN`; exactly 35 bare NaN tokens are present. Replacing only those tokens with null for inspection (not rewriting the artifact) yields profile=full, n_records=1554, n_errors=0. The previous report's 7/60 full-profile language-corpus pass rate remains a reported aggregate result; this cycle did not rerun the benchmark. The separate quick-profile 4/20 (20%) must not be conflated with the 12% all-seed full profile.
+
+**Goal / falsification:** establish a rights-cleared canonical sign inventory, then determine full writing versus mixed, non-linguistic or numeral/accounting notation; language-family mapping and translation are conditional. Synthetic calibration is not Indus evidence. Keep unverified `median_length` and `hapax_fraction` targets marked unverified; require primary-source definitions and explicit missing-value semantics.
+
+**Ethics / staffing / compute:** no real-corpus retrieval, derivative or publication without item-specific written RMRL/corpus permission. Keep corpus steward, statistician, linguist, cryptanalyst, historian and skeptic. Compute is premature while serialization and target provenance remain defective.
+
+**Wasted effort / website / measurable improvement:** do not repeat the parser check or raw benchmark until upstream fixes the aggregate and target definitions. PR #42 remains open/mergeable; Wins so far and the strict-JSON caveat remain on the review branch, not deployed. Measurable improvement: independently reverified the exact 35-token parse failure against the pinned upstream commit.
+
+**One next action:** obtain a strict-JSON-safe aggregate with explicit null/missing semantics and primary-source definitions for both hard targets; keep real-corpus work blocked pending written permission.
