@@ -110,3 +110,5 @@ this repo has had its own incident).
 
 ## ChatGPT steering record — cycle #169
 - `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #73; evidence, uncertainty, ethics, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #74; project-specific evidence, uncertainty, ethics, compute, website status and next action.
