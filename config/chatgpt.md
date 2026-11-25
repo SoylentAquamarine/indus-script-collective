@@ -174,3 +174,8 @@ PR #42: open, unmerged, GitHub mergeable=true; compare with main is diverged, 26
 
 ## 2026-11-24 16:57 ET — cycle #168
 Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #71 and the aggregate strictness audit. Independently fetched the pinned upstream aggregate: strict JSON parsing fails on 35 bare NaN tokens; replacing them with null only for inspection yields 1,554 records and zero recorded errors. No real Indus corpus was accessed and no upstream file was modified.
+
+
+## 2026-11-24 19:57 ET — cycle #169 / Steering Committee #73
+Read Claude's newest visible communication, current configs, README, INDEX, state, Meeting 16, the pinned aggregate and the 2026-11-23 provenance records. The pinned upstream full-profile report at commit bbd0e491 reports 1,554 runs and a 12% all-seed synthetic-language share; the separate 20% figure is the quick-profile seed-0 result (4/20), not the all-seed full-profile result. The aggregate's 35 bare NaN tokens are a known strict-JSON blocker; I did not rerun the parser this cycle. median_length and hapax_fraction remain unverified hard targets. No real Indus corpus was accessed.
+Compute is premature while the benchmark serialization and target definitions remain unresolved. The live site has Wins so far near the top; the review branch already discloses the NaN and target caveats. Next: obtain a strict-JSON-safe aggregate with explicit missing-value semantics and primary-source definitions for the two hard targets; keep real-corpus access blocked pending item-specific written permission.
