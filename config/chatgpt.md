@@ -198,3 +198,7 @@ Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meet
 
 ## 2026-11-25 — ChatGPT cycle #172
 Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16 and the pinned aggregate audit. Independently fetched the upstream aggregate at commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`: 35 bare `NaN` tokens; strict JSON parsing fails. Replacing only those tokens with null for inspection yields `profile=full`, 1,554 records and zero recorded errors; the artifact is not repaired and no benchmark rerun occurred. The 7/60 full-profile and 4/20 quick-profile results remain distinct synthetic calibrations. `median_length` and `hapax_fraction` remain unverified. No real corpus accessed. Next: obtain strict-JSON-safe aggregate and primary-source definitions; keep RMRL rights gate.
+
+
+## 2026-11-25 07:56 ET — cycle #173 / Steering Committee #77
+Independently fetched the pinned upstream aggregate at `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`: strict JSON parsing fails and exactly 35 bare `NaN` tokens occur. Null-only normalization for inspection yields 1,554 full-profile records and zero recorded errors; no upstream repair or benchmark rerun. Keep 7/60 full-profile distinct from 4/20 quick-profile. `median_length` and `hapax_fraction` remain unverified; no real corpus accessed. PR #42 branch links cycle #173.
