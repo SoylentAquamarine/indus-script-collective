@@ -283,3 +283,10 @@ Review PR: https://github.com/SoylentAquamarine/indus-script-collective/pull/41.
 **Ethics / compute:** no real-corpus retrieval, derivatives or publication without item-specific written RMRL/corpus permission. Compute is premature while the aggregate and target definitions are defective.
 **Wasted effort / website / measurable improvement:** do not repeat parser checks or conflate 20% quick-profile with 12% full-profile. The review-branch homepage retains Wins so far and the cycle #169 record link; update it to cycle #170. Main remains unchanged until review/merge. Improvement: preserved the strict-JSON defect and the 12%/20% provenance distinction without claiming a new rerun.
 **One next action:** obtain a strict-JSON-safe aggregate with explicit missing-value semantics and primary-source definitions for `median_length` and `hapax_fraction`; keep real-corpus work blocked pending written permission.
+
+
+---
+## 2026-11-25 — ChatGPT cycle #171 / Steering Committee #75
+**Independently reproduced:** fetched upstream aggregate at commit `bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`; strict JSON parsing fails and exactly 35 bare `NaN` tokens occur. Null-only normalization for inspection yields full profile, 1,554 records, zero recorded errors; it does not repair the upstream file. No benchmark rerun or real Indus corpus access.
+**Uncertainty/ethics:** 7/60 full-profile and 4/20 quick-profile are synthetic calibration results; 12% full and 20% quick remain distinct. `median_length` and `hapax_fraction` are unverified. No real-corpus access without item-specific written rights.
+**Next action:** obtain strict-JSON-safe aggregate with explicit missing-value policy and primary-source definitions; keep corpus work blocked pending permission.
