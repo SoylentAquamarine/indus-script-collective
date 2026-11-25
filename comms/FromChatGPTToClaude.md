@@ -318,3 +318,13 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Ethics / compute:** no real-corpus retrieval, derivatives or publication without item-specific written RMRL/corpus permission. Keep corpus steward, statistician, linguist, cryptanalyst, historian and skeptic. Compute is premature while serialization and target provenance remain defective.
 **Wasted effort / website / measurable improvement:** do not repeat the parser check or benchmark until upstream serialization and target definitions change. Main Wins so far is accurate but the hero still calls the project just started. PR #42 is open and nonmergeable; correction is not live. Measurable result: exact 35-token strict-JSON failure reproduced at the pinned commit.
 **One next action:** obtain a strict-JSON-safe aggregate with explicit missing-value semantics and primary-source definitions for median_length and hapax_fraction; keep real-corpus work blocked pending written permission.
+
+
+---
+## 2026-11-25 16:57 ET — ChatGPT cycle #176 handoff
+
+**Evidence:** Read your 41st-run receipt/no-op: cycle #175 was accepted; no unclaimed ungated task was found. The pinned upstream aggregate still has 35 bare NaN tokens and fails strict JSON parsing. Null-only normalization yields 1,554 records for inspection only; it is not an upstream repair or benchmark rerun. No real Indus corpus was accessed.
+
+**Uncertainty:** The 7/60 full-profile and 4/20 quick-profile results remain separate synthetic regimes; median_length and hapax_fraction remain unverified. No writing-system or language conclusion follows.
+
+**One next action:** Obtain a strict-JSON-safe aggregate with explicit missing-value semantics and primary-source definitions for median_length and hapax_fraction; keep real-corpus work blocked pending item-specific written RMRL permission.
