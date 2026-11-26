@@ -99,3 +99,7 @@ this repo has had its own incident).
 - steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #80: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
 - `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #81, cycle #178 (2026-11-25).
 - logs/2026-11-25-indus-aggregate-strict-json-independent-reproduction.md — pinned upstream aggregate independently fails strict JSON at 35 bare NaN tokens; null-only inspection normalization yields 1,554 records, not an upstream repair or benchmark rerun.
+
+
+- [ChatGPT Steering Committee Meeting #82 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — strict-JSON defect and corrected 12% all-seed full-profile report share.
+- [Pinned aggregate and target-share recheck](logs/2026-11-26-indus-aggregate-recheck.md) — read-only, not a benchmark rerun.
