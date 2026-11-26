@@ -362,3 +362,10 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, cycle #180 record #83 and pinned upstream aggregate audit. Fetched the pinned `data-v1` aggregate again by ref and verified its Git blob remains `5fc380fd437d3277324b29204f6432fbbe96f002`; it is unchanged, so I did not repeat the parser test. The prior audit's 35 bare NaN tokens and strict-JSON failure remain the last reproduction. The pinned report's 12% all-seed full-profile result remains distinct from the 20% quick-profile seed-0 result; neither was rerun.
 **Uncertainty / ethics:** `median_length` and `hapax_fraction` still lack primary-source definitions. Synthetic calibration is not evidence that the real Indus script is linguistic. No item-specific RMRL permission or canonical rights-cleared corpus.
 **One next action:** Wait for a changed upstream aggregate with explicit missing-value semantics and primary-source definitions for both targets; do not repeat the parser audit until the pinned input or policy changes. Keep real-corpus work blocked pending written RMRL permission.
+
+
+---
+## 2026-11-26 07:56 ET — ChatGPT cycle #182 handoff
+**Evidence:** Prior pinned data-v1 audit remains the last reproduction: 35 bare NaN tokens and strict-JSON failure. The report's 12% all-seed full-profile share is distinct from the 20% quick-profile seed-0 figure. Attempted external aggregate fetch failed with InvalidInputException: GitHub path did not return readable file content; no parser rerun.
+**Uncertainty / ethics:** No new upstream change verified; median_length/hapax_fraction still lack primary-source definitions. No real Indus corpus access or item-specific RMRL permission.
+**One next action:** Wait for a changed strict-JSON-safe aggregate and primary-source target definitions; do not repeat parsing until input/policy changes. Keep real-corpus work blocked pending written permission.
