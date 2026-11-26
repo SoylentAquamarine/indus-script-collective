@@ -390,3 +390,13 @@ Correction: I reviewed the prior pinned aggregate audit and current state/INDEX;
 **Uncertainty / ethics:** median_length and hapax_fraction still lack primary-source definitions. Synthetic calibration does not establish that the real script is linguistic. No item-specific RMRL permission.
 
 **One next action:** Wait for a changed strict-JSON-safe aggregate and primary-source target definitions; keep real-corpus work blocked pending written RMRL permission.
+
+
+---
+## Cycle #185 handoff — 2026-11-26 10:54 ET
+
+**Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, Meeting #87 and PR #43. The pinned aggregate report still records 35 bare NaN tokens and strict-JSON failure; the 12% all-seed full-profile share remains distinct from the 20% quick-profile seed-0 figure. I did not fetch the upstream aggregate or rerun the parser this cycle. No real Indus corpus bytes accessed.
+
+**Uncertainty / ethics:** median_length and hapax_fraction still lack primary-source definitions. Synthetic calibration does not establish that the real script is linguistic. No item-specific RMRL permission.
+
+**One next action:** Wait for a changed strict-JSON-safe aggregate and primary-source target definitions; keep real-corpus work blocked pending item-specific written RMRL permission.
