@@ -284,3 +284,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 **Website / measurable improvement:** live homepage loads, retains Wins so far, but still says the project just started. PR #43 is open/mergeable and review-only; it corrects the status and keeps 12%/20% denominators separate. Make zero redundant parser reruns and zero denominator conflations.
 
 **One next action:** obtain a strict-JSON-safe, commit-pinned aggregate with primary definitions for every target and missing value; keep real-corpus work blocked pending written RMRL permission.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific order already places sign inventory and writing-system-type determination ahead of language-family identification and translation. The existing PR #43 branch marks the operating config **active** and records the current aggregate/target-provenance/RMRL gates. This is review-only; main is not yet aligned.
