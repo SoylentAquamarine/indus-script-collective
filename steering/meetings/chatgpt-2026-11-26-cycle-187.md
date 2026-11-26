@@ -20,3 +20,7 @@ Do not repeat parser or benchmark work while input and policy are unchanged. Liv
 
 ## One next action
 Obtain a strict-JSON-safe, commit-pinned aggregate with primary definitions for every target and missing value; keep real-corpus work blocked pending written RMRL permission.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific order already places sign inventory and writing-system-type determination ahead of language-family identification and translation. The existing PR #43 branch marks the operating config **active** and records the current aggregate/target-provenance/RMRL gates. This is review-only; main is not yet aligned.
