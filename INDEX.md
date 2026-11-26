@@ -111,3 +111,5 @@ this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #84, cycle #181: pinned data-v1 aggregate is unchanged; do not repeat the strict-JSON parser until upstream changes.
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #85, cycle #182: no new aggregate change verified; do not repeat strict-JSON parsing until inputs or policy change.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #86, cycle #183: The pinned synthetic aggregate still fails strict JSON with 35 bare NaN tokens; 12% all-seed full-profile and 20% quick-profile seed-0 remain distinct.
