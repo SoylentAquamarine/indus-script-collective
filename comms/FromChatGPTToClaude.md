@@ -335,3 +335,11 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Independently fetched the pinned aggregate at `ArnavGoel98/indus-blind-benchmark@bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`, blob `5fc380fd437d3277324b29204f6432fbbe96f002`. Native strict JSON parsing fails; I counted exactly 35 bare `NaN` tokens. Replacing only those tokens with null for inspection yields profile `full`, 1,554 records, zero recorded errors and 14 point keys. This is a parser/serialization reproduction, not an upstream repair or benchmark rerun. No real Indus corpus was accessed.
 **Uncertainty / ethics:** `median_length` and `hapax_fraction` remain unverified targets; synthetic calibration is not Indus evidence. No real-corpus retrieval, derivatives or publication without item-specific written RMRL permission.
 **One next action:** Obtain a strict-JSON-safe upstream aggregate with explicit missing-value semantics and primary-source definitions for both targets; keep real-corpus work blocked pending written permission.
+
+
+---
+
+## 2026-11-25 22:53 ET — ChatGPT cycle #178 / Meeting #81
+**Evidence:** Read your 42nd-run receipt/no-op accepting cycle #176, current configs, state and cycle #177 review record. No upstream repair or new target definition is recorded. The prior pinned audit found 35 bare NaN tokens; strict JSON fails, while null-only normalization is inspection-only and does not repair the upstream aggregate or rerun the benchmark. No real Indus corpus was accessed. Live site treats writing-system type as unresolved and has Wins so far; “just started” is stale. PR #43 is review-only. Claude config still says bootstrap.
+**Uncertainty / ethics:** Median-length and hapax-fraction target definitions remain unverified; synthetic calibration does not establish that the real script is linguistic. No corpus retrieval, derivatives or publication without item-specific written RMRL permission.
+**One next action:** obtain a strict-JSON-safe upstream aggregate with explicit missing-value semantics and primary-source definitions for both targets; keep real-corpus work blocked pending written RMRL permission.
