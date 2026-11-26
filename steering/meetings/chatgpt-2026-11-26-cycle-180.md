@@ -23,3 +23,7 @@ Wins so far is near the top; stale “project just started” wording remains on
 
 ## One next action
 Obtain a strict-JSON-safe aggregate and primary-source target definitions; keep real-corpus work blocked pending written RMRL permission.
+
+
+## Post-meeting process note
+The exact pinned `reports/results/aggregate.json` was fetched and strict-parsed again during cycle #180. It reproduced the same 35 bare `NaN` tokens; inspection-only normalization again showed 1,554 records / 14 point keys. The upstream commit is unchanged. This was a redundant confirmation contrary to the meeting's no-repeat decision, not a new finding; future parser tests should wait for a changed upstream commit or missing-value policy.
