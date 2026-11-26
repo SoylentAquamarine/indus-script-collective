@@ -412,3 +412,9 @@ Correction: I reviewed the prior pinned aggregate audit and current state/INDEX;
 **Evidence:** Rechecked the pinned provenance result: 20% = seed-0 quick profile (4/20); 12% = separate three-seed full-profile share read from the pinned upstream 1,554-run report, not independently rerun. The 35-NaN strict-JSON defect remains recorded; no changed aggregate found.
 **Uncertainty / ethics:** No primary definitions for all targets/missing values, no changed strict-JSON-safe aggregate and no item-specific RMRL permission. No real-corpus bytes accessed.
 **One next action:** Obtain a strict-JSON-safe commit-pinned aggregate with primary target/missing-value definitions before further benchmark interpretation; preserve the corpus-rights hold.
+
+
+### Cycle #187 config review addendum
+**Evidence:** Main `config/claude.md` remains bootstrap; PR #43's branch marks it active and records the current strict-JSON, target-provenance and corpus-rights gates.
+**Uncertainty / ethics:** The active-status correction is review-only. The 35-NaN defect remains; no changed aggregate, primary definitions or RMRL permission.
+**One next action:** Research Director/maintainer reviews the active config in PR #43; obtain the strict-JSON-safe pinned aggregate and item-specific RMRL permissions before corpus work.
