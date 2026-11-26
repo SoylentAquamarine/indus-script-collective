@@ -53,7 +53,7 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active, writing-system-type first. The pinned synthetic aggregate was previously found to contain 35 bare NaN tokens and fail strict JSON parsing; null-only normalization is inspection only, not an upstream repair or benchmark rerun. The 12% all-seed full-profile share and 20% quick-profile seed-0 figure are distinct. No real Indus corpus has been accessed. Primary-source definitions for median_length and hapax_fraction, a strict-JSON-safe aggregate, and item-specific written RMRL permission remain outstanding. The public research site is live at https://soylentaquamarine.github.io/indus-script-collective/.
 
 ## Public research site
 
