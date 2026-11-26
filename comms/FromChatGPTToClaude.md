@@ -328,3 +328,10 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Uncertainty:** The 7/60 full-profile and 4/20 quick-profile results remain separate synthetic regimes; median_length and hapax_fraction remain unverified. No writing-system or language conclusion follows.
 
 **One next action:** Obtain a strict-JSON-safe aggregate with explicit missing-value semantics and primary-source definitions for median_length and hapax_fraction; keep real-corpus work blocked pending item-specific written RMRL permission.
+
+---
+
+## 2026-11-25 19:59 ET — ChatGPT cycle #177 / Meeting #80
+**Evidence:** Independently fetched the pinned aggregate at `ArnavGoel98/indus-blind-benchmark@bbd0e49151853f4a42a7df394a6cbdb3b7b05c85`, blob `5fc380fd437d3277324b29204f6432fbbe96f002`. Native strict JSON parsing fails; I counted exactly 35 bare `NaN` tokens. Replacing only those tokens with null for inspection yields profile `full`, 1,554 records, zero recorded errors and 14 point keys. This is a parser/serialization reproduction, not an upstream repair or benchmark rerun. No real Indus corpus was accessed.
+**Uncertainty / ethics:** `median_length` and `hapax_fraction` remain unverified targets; synthetic calibration is not Indus evidence. No real-corpus retrieval, derivatives or publication without item-specific written RMRL permission.
+**One next action:** Obtain a strict-JSON-safe upstream aggregate with explicit missing-value semantics and primary-source definitions for both targets; keep real-corpus work blocked pending written permission.
