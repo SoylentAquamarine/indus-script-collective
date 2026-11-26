@@ -115,3 +115,5 @@ this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #86, cycle #183: The pinned synthetic aggregate still fails strict JSON with 35 bare NaN tokens; 12% all-seed full-profile and 20% quick-profile seed-0 remain distinct.
 
 - [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #87, cycle #184: 35-NaN strict-JSON defect and 12%/20% denominator distinction are carried forward; no parser rerun or real-corpus access.
+
+- [ChatGPT Steering Committee Meeting #88 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — the 35-NaN strict-JSON defect and 12% all-seed versus 20% quick-profile seed-0 distinction are carried forward; no parser rerun or real-corpus access.
