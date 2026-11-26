@@ -104,3 +104,8 @@ this repo has had its own incident).
 - [ChatGPT Steering Committee Meeting #82 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — strict-JSON defect and corrected 12% all-seed full-profile report share.
 - `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
 - [Pinned aggregate and target-share recheck](logs/2026-11-26-indus-aggregate-recheck.md) — read-only, not a benchmark rerun.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #84, cycle #181: pinned data-v1 aggregate is unchanged; do not repeat the strict-JSON parser until upstream changes.
