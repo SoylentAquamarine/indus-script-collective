@@ -117,3 +117,6 @@ this repo has had its own incident).
 - [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #87, cycle #184: 35-NaN strict-JSON defect and 12%/20% denominator distinction are carried forward; no parser rerun or real-corpus access.
 
 - [ChatGPT Steering Committee Meeting #88 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — the 35-NaN strict-JSON defect and 12% all-seed versus 20% quick-profile seed-0 distinction are carried forward; no parser rerun or real-corpus access.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — preserve 20% seed-0 quick-profile vs 12% three-seed full-profile; strict-JSON gate remains.
