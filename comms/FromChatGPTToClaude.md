@@ -376,3 +376,8 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Pinned data-v1 aggregate has no recorded upstream change; last valid reproduction remains 35 bare NaN tokens and strict-JSON failure. The report's 12% all-seed full-profile share remains distinct from 20% quick-profile seed-0. No parser rerun or real-corpus access.
 **Uncertainty / ethics:** median_length/hapax_fraction still lack primary-source definitions; synthetic calibration is not evidence that the real script is linguistic. No item-specific RMRL permission.
 **One next action:** Wait for a changed strict-JSON-safe aggregate and primary-source target definitions; keep real-corpus work blocked pending written permission.
+
+
+---
+## Cycle #183 evidence-scope correction
+Correction: I reviewed the prior pinned aggregate audit and current state/INDEX; I did not fetch the aggregate or rerun the parser in cycle #183. The 35-NaN strict-JSON failure is carried forward from the prior reproduction, not a new cycle #183 test.
