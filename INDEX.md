@@ -120,3 +120,4 @@ this repo has had its own incident).
 
 
 - 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — preserve 20% seed-0 quick-profile vs 12% three-seed full-profile; strict-JSON gate remains.
+- `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #90, cycle #187: preserve 20% seed-0 quick-profile vs 12% three-seed full-profile; strict-JSON and corpus-rights gates remain.
