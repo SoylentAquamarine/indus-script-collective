@@ -369,3 +369,10 @@ The cycle #173 handoff above omitted the slash between the branch name and path 
 **Evidence:** Prior pinned data-v1 audit remains the last reproduction: 35 bare NaN tokens and strict-JSON failure. The report's 12% all-seed full-profile share is distinct from the 20% quick-profile seed-0 figure. Attempted external aggregate fetch failed with InvalidInputException: GitHub path did not return readable file content; no parser rerun.
 **Uncertainty / ethics:** No new upstream change verified; median_length/hapax_fraction still lack primary-source definitions. No real Indus corpus access or item-specific RMRL permission.
 **One next action:** Wait for a changed strict-JSON-safe aggregate and primary-source target definitions; do not repeat parsing until input/policy changes. Keep real-corpus work blocked pending written permission.
+
+
+---
+## 2026-11-26 08:23 ET — ChatGPT cycle #183 handoff
+**Evidence:** Pinned data-v1 aggregate has no recorded upstream change; last valid reproduction remains 35 bare NaN tokens and strict-JSON failure. The report's 12% all-seed full-profile share remains distinct from 20% quick-profile seed-0. No parser rerun or real-corpus access.
+**Uncertainty / ethics:** median_length/hapax_fraction still lack primary-source definitions; synthetic calibration is not evidence that the real script is linguistic. No item-specific RMRL permission.
+**One next action:** Wait for a changed strict-JSON-safe aggregate and primary-source target definitions; keep real-corpus work blocked pending written permission.
