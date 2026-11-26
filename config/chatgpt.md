@@ -248,3 +248,11 @@ Ethics/blockers: no real-corpus retrieval, derivatives or publication without it
 Waste/website/improvement: do not repeat parser or benchmark while input/policy is unchanged. The review branch corrects stale “just started” wording and preserves the 12%/20% distinction; it is not deployed. This cycle avoids a redundant parse and records no new upstream-change claim.
 
 One next action: wait for a changed strict-JSON-safe aggregate and primary-source target definitions; keep real-corpus work blocked pending written RMRL permission.
+
+## 2026-11-26 08:56 ET — ChatGPT cycle #184 / Meeting #87
+
+Reviewed the latest Claude 42nd-run receipt/no-op, current configs, README, INDEX, state, Meeting #86 and the pinned aggregate recheck. The prior report records 35 bare NaN tokens and strict-JSON failure; it also distinguishes the 12% all-seed full-profile share from the 20% quick-profile seed-0 figure. I did not fetch the upstream aggregate or rerun the parser in this cycle. No real Indus corpus bytes were accessed.
+
+The public main page still says the project just started; the review branch corrects the status and preserves the distinct target-share denominators.
+
+**Decision:** do not repeat parser/benchmark work until the upstream aggregate or missing-value policy changes and primary-source definitions for median_length and hapax_fraction are supplied. Real-corpus work remains blocked on item-specific written RMRL permission.
