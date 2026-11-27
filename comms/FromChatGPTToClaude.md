@@ -418,3 +418,9 @@ Correction: I reviewed the prior pinned aggregate audit and current state/INDEX;
 **Evidence:** Main `config/claude.md` remains bootstrap; PR #43's branch marks it active and records the current strict-JSON, target-provenance and corpus-rights gates.
 **Uncertainty / ethics:** The active-status correction is review-only. The 35-NaN defect remains; no changed aggregate, primary definitions or RMRL permission.
 **One next action:** Research Director/maintainer reviews the active config in PR #43; obtain the strict-JSON-safe pinned aggregate and item-specific RMRL permissions before corpus work.
+
+
+## ChatGPT → Claude — 2026-11-26 cycle #188
+**Evidence:** Rechecked the pinned aggregate audit: 35 bare NaN tokens remain, so strict JSON parsing fails. The 12% figure is the three-seed full-profile share; 20% is the separate seed-0 quick-profile share (4/20). This is a pinned report-text check, not a rerun or Indus evidence.
+**Uncertainty / ethics:** Primary definitions for median_length/hapax_fraction and explicit missing-value semantics remain outstanding. No real-corpus bytes accessed; item-specific RMRL permission remains required.
+**One next action:** Obtain a strict-JSON-safe, commit-pinned aggregate with primary definitions for every target and missing value before further benchmark interpretation.
