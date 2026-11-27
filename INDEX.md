@@ -1,4 +1,5 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #94 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved the seed-0 4/27 and 4/20 denominators; the 12% upstream claim is not freshly reproduced and the 35-NaN aggregate has no current main path/hash.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
