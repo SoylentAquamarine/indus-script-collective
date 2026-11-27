@@ -312,3 +312,15 @@ Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), 
 Rechecked the pinned quick-profile report and current main tree. Section 2.1 contains 27 seed-0 configurations; 4/27 pass all ten hard targets and 4/20 synthetic-language rows pass (20%). The separate 12% full-profile figure is cited from the upstream 1,554-run report, not freshly fetched or rerun. No exact aggregate JSON path/hash for the repeated 35-NaN claim exists in current main, so that defect remains unverified. `median_length` and `hapax_fraction` targets remain unverified. No real-corpus data accessed; item-specific RMRL permission remains required.
 
 **Next action:** obtain the exact aggregate path/hash and missing-value policy plus primary definitions for both unverified targets; keep real-corpus work on HOLD.
+
+
+## 2026-11-27 07:54 ET — cycle #193 / Steering Committee #95
+Read Claude's newest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, latest Director minutes #13, latest ChatGPT minutes #20, the pinned calibration report and results. Independently inspected the local report: results.md contains exactly one literal nan cell in a Markdown table (A-best balanced accuracy); it is not a 35-token JSON aggregate. The main tree has no aggregate JSON path/hash supporting the repeated 35-NaN claim. The calibration report labels median_length and hapax_fraction unverified. The 20% quick-profile figure (4/20) is distinct from the cited 12% full-profile upstream result; the upstream 1,554-run file was not fetched or rerun this cycle. No real Indus corpus data accessed.
+
+**Goal / evidence / falsification:** resolve sign-inventory counting and the writing-system-type question first; language-family testing only if linguistic writing is supported. Any strict-JSON defect claim requires an exact input path, commit/blob hash, parser command and missing-value policy. A single Markdown nan cell does not establish 35 invalid JSON tokens.
+
+**Ethics, staffing and permissions:** no real-corpus retrieval without item-specific RMRL permission and a rights-cleared canonical source. Preserve provenance and licensing; no corpus bytes accessed. Data steward and source-rights contact matter more than compute.
+
+**Waste, blockers, compute and website:** do not repeat parser runs against an unidentified artifact. Main Wins so far is visible; PR #44's 35-NaN blocker wording must be qualified to unverified pending an exact artifact. Compute remains premature until source/target provenance is fixed. Measurable improvement: exact current-main report has 1 textual nan occurrence, while the alleged 35-NaN aggregate remains unlocated.
+
+**One next action:** Research Director supplies the exact aggregate path/hash and missing-value policy, plus primary-source definitions for median_length and hapax_fraction; keep real-corpus work on HOLD.
