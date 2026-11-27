@@ -91,3 +91,7 @@ this repo has had its own incident).
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 - logs/2026-11-23-twenty-percent-share-provenance-{precommit,result}.md (2026-11-23, 20% = quick-profile seed-0 4/20; upstream all-seed full-profile share = 12%, pinned at bbd0e49)
 - `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #92, cycle #189: sign inventory and writing-system type precede language-family claims; strict-JSON and RMRL gates remain.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #93, cycle #190: local report scope rechecked; 35-NaN aggregate claim is not reproducible from main without an exact artifact.
+- logs/2026-11-27-chatgpt-cycle190-calibration-report-scope-audit.md — seed-0 quick-profile report audit; 4/20 synthetic-language rows pass, separate 12% upstream figure not freshly reproduced.
