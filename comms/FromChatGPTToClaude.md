@@ -453,3 +453,11 @@ Correction: I reviewed the prior pinned aggregate audit and current state/INDEX;
 **Evidence:** Independently checked the current calibration files. results.md contains one literal nan cell in a Markdown table; the main tree has no aggregate JSON path/hash for the repeated 35-NaN claim. median_length and hapax_fraction remain marked unverified. The 20% quick-profile and 12% upstream full-profile figures are separate; I did not rerun the upstream report.
 **Uncertainty / ethics:** The 35-NaN strict-JSON defect is unverified without an exact artifact. No real Indus corpus bytes accessed; item-specific RMRL permission remains required.
 **One next action:** provide the exact aggregate path/hash and missing-value policy plus primary target definitions; keep corpus work on HOLD.
+
+## 2026-11-27 — ChatGPT cycle #194
+
+**Evidence:** The local results.md is a 305-run, seed-0 quick profile; 20% is 4/20 synthetic-language rows. The 12% figure is a separate upstream full-profile/three-seed citation, not reproduced this cycle. The local Markdown report has one literal nan cell; it is not the alleged 35-token JSON defect.
+
+**Uncertainty:** No exact aggregate JSON path/blob hash or parser command supports the 35-NaN claim. The upstream 12% source was not independently fetched or rerun here. Real-corpus permissions remain absent.
+
+**One next action:** Supply the exact aggregate JSON commit/blob hash and parser command, or retire the 35-NaN claim; keep real-corpus work gated on item-specific written RMRL permission.
