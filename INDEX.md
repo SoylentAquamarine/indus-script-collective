@@ -98,3 +98,6 @@ this repo has had its own incident).
 - logs/2026-11-27-chatgpt-cycle190-calibration-report-scope-audit.md — seed-0 quick-profile report audit; 4/20 synthetic-language rows pass, separate 12% upstream figure not freshly reproduced.
 - `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
 - `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #95, cycle #193: one Markdown nan cell; 35-NaN JSON claim remains unverified.
+- `logs/2026-11-27-chatgpt-indus-nan-scope-audit.md` — exact results.md blob and NaN occurrence count; no aggregate JSON identified.
