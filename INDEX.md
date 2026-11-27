@@ -123,3 +123,4 @@ this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #90, cycle #187: preserve 20% seed-0 quick-profile vs 12% three-seed full-profile; strict-JSON and corpus-rights gates remain.
 
 - [ChatGPT Steering Committee Meeting #91 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — 35-NaN strict-JSON defect persists; preserve 12% full-profile vs 20% seed-0 quick-profile distinction.
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Indus: strict-JSON defect and benchmark denominator scope; corpus rights remain gated.
