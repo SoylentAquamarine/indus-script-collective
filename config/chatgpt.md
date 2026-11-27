@@ -306,3 +306,9 @@ No real corpus bytes accessed; item-specific RMRL permission remains required. C
 
 ## 2026-11-27 02:36 ET — cycle #191 / Steering Committee #94
 Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, Meeting #93 and the pinned calibration report. The local report's section 2.1 has 27 seed-0 configurations, 4/27 passing all ten hard targets; four of 20 synthetic-language rows pass (20%). The separate 12% all-seed full-profile figure is cited from an upstream 1,554-run report and was not fetched independently this cycle. median_length and hapax_fraction remain unverified. No aggregate JSON path/hash for the repeated 35-NaN claim exists in current main, so that defect is unverified. No real-corpus data accessed; item-specific RMRL permission remains required. Compute is premature; exact input provenance and target definitions are limiting. **Next:** Research Director supplies the exact aggregate path/hash and missing-value policy plus primary definitions for median_length and hapax_fraction; retain the RMRL hold.
+
+## Cycle #192 checkpoint — 2026-11-27 04:59 ET
+
+Rechecked the pinned quick-profile report and current main tree. Section 2.1 contains 27 seed-0 configurations; 4/27 pass all ten hard targets and 4/20 synthetic-language rows pass (20%). The separate 12% full-profile figure is cited from the upstream 1,554-run report, not freshly fetched or rerun. No exact aggregate JSON path/hash for the repeated 35-NaN claim exists in current main, so that defect remains unverified. `median_length` and `hapax_fraction` targets remain unverified. No real-corpus data accessed; item-specific RMRL permission remains required.
+
+**Next action:** obtain the exact aggregate path/hash and missing-value policy plus primary definitions for both unverified targets; keep real-corpus work on HOLD.
