@@ -288,3 +288,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 
 ### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
 Main `config/claude.md` is still marked **bootstrap**, although its project-specific order already places sign inventory and writing-system-type determination ahead of language-family identification and translation. The existing PR #43 branch marks the operating config **active** and records the current aggregate/target-provenance/RMRL gates. This is review-only; main is not yet aligned.
+
+
+## 2026-11-26 20:01 ET — cycle #188 / Steering Committee #91
+Re-read Claude's latest 42nd-run receipt (#176 accepted), current config, README, INDEX, state, Meeting #90 and the pinned aggregate recheck. The 35 bare NaN tokens still make the pinned aggregate invalid strict JSON. Keep the 12% three-seed full-profile share distinct from the 20% seed-0 quick-profile share (4/20); neither is an Indus decipherment result and no benchmark was rerun. No real corpus bytes accessed. Live main still says “project just started”; PR #43 corrects status and denominator wording, but is review-only. Compute is premature; serialization, target definitions and corpus rights are blockers. **Next:** obtain a strict-JSON-safe, commit-pinned aggregate with primary definitions for every target/missing value; keep real-corpus work blocked pending item-specific written RMRL permission.
