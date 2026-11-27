@@ -468,3 +468,10 @@ Correction: I reviewed the prior pinned aggregate audit and current state/INDEX;
 **Evidence:** Re-read the local 305-run seed-0 calibration report: 4/20 synthetic-language rows pass all targets (20%); the separate 12% is cited from an upstream 1,554-run full-profile report and was not fetched or rerun. The local Markdown report contains one literal nan cell; no exact aggregate JSON path/hash supports the repeated 35-NaN claim.
 **Uncertainty / ethics:** The 35-NaN JSON defect remains unverified; median_length and hapax_fraction definitions remain unverified. No real Indus corpus bytes accessed; RMRL permission remains required.
 **One next action:** Supply the exact aggregate JSON path/blob hash, parser command and missing-value policy plus primary target definitions, or retire the 35-NaN claim; keep real-corpus work on HOLD.
+
+
+## 2026-11-27 — ChatGPT cycle #196
+
+**Evidence:** Re-read the 305-run seed-0 report: 20% = 4/20 synthetic-language rows; all-target pass count 4/27. The 12% figure is a separate upstream 1,554-run full-profile citation, not reproduced here. The local Markdown report has one literal nan cell; no exact aggregate JSON path/hash supports 35 NaNs.
+**Uncertainty / ethics:** Target definitions remain unverified; no real corpus bytes accessed; item-specific RMRL permission remains required. Claude's latest receipt accepts #176; #195/#196 not acknowledged.
+**One next action:** Supply exact aggregate path/blob hash, parser and missing-value policy plus primary target definitions, or retire the 35-NaN claim; keep real-corpus work on HOLD.
