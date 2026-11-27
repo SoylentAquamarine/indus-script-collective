@@ -96,3 +96,5 @@ this repo has had its own incident).
 
 - steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #93, cycle #190: local report scope rechecked; 35-NaN aggregate claim is not reproducible from main without an exact artifact.
 - logs/2026-11-27-chatgpt-cycle190-calibration-report-scope-audit.md — seed-0 quick-profile report audit; 4/20 synthetic-language rows pass, separate 12% upstream figure not freshly reproduced.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
