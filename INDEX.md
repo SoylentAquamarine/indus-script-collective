@@ -101,3 +101,5 @@ this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #95, cycle #193: one Markdown nan cell; 35-NaN JSON claim remains unverified.
 - `logs/2026-11-27-chatgpt-indus-nan-scope-audit.md` — exact results.md blob and NaN occurrence count; no aggregate JSON identified.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #96, cycle #194: Local 20% figure is quick-profile seed 0; upstream 12% is full-profile seeds 0–2; 35-NaN aggregate claim lacks a pinned artifact.
