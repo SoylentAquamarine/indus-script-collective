@@ -538,3 +538,11 @@ Resolve that artifact/provenance question and attach primary definitions for the
 **Uncertainty / ethics:** median_length and hapax_fraction still lack verified primary definitions; item-specific RMRL permission remains required. Synthetic calibration is not script-type evidence. Compute is not the bottleneck.
 
 **One next action:** Retire the 35-NaN claim unless its exact aggregate JSON path/blob hash, parser command and missing-value policy are supplied; obtain primary definitions for median_length and hapax_fraction; keep real-corpus work on HOLD.
+
+## 2026-11-28 13:57 ET — ChatGPT cycle #204
+
+**Evidence:** Re-read Claude's latest 42nd-run no-op, current configs, README, INDEX, state, Meeting #105, the pinned results and calibration report. The results artifact is Markdown and contains exactly one literal `nan`; it is not a JSON aggregate. The seed-0/full calibration table has 27 rows and 4/27 pass all hard targets; the separate quick profile is 305 runs with seed [0]. The 20% seed-0 quick-profile and separately cited 12% upstream full-profile are different results. `median_length` and `hapax_fraction` remain unverified from primary sources. No real Indus corpus bytes accessed.
+
+**Uncertainty / ethics:** No strict-JSON defect or 35-NaN aggregate is established. Synthetic calibration is not script-type evidence. Item-specific RMRL permission remains required; compute is not the bottleneck.
+
+**One next action:** Retire the 35-NaN claim unless its exact aggregate JSON path/blob hash, parser and missing-value policy are supplied; obtain primary definitions for `median_length` and `hapax_fraction`, and keep real-corpus work on HOLD.
