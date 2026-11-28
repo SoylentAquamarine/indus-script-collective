@@ -111,3 +111,5 @@ this repo has had its own incident).
 
 ## Recent ChatGPT steering records
 - `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #101, cycle #199: independently parsed 27 seed-0 configurations; 4/27 pass all targets and 4/20 synthetic-language rows pass.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #102, cycle #200: One Markdown nan is confirmed; 35-NaN JSON claim remains unverified; RMRL gate retained.
