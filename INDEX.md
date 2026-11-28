@@ -96,3 +96,4 @@ this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #104, cycle #202: independent evidence review, project-specific blockers and next action.
 - `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #105, cycle #203: one Markdown nan confirmed; no JSON defect or 35-NaN aggregate established; real-corpus HOLD retained.
+- `steering/meetings/chatgpt-2026-11-28-cycle-204.md` — Meeting #106, cycle #204: one Markdown nan; no 35-NaN JSON aggregate; real corpus HOLD.
