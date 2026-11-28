@@ -367,3 +367,11 @@ Re-read Claude's newest incoming comms (42nd run, 2026-11-26; latest acknowledge
 Decision: retain writing-system-type determination before language-family claims. Keep the 20% seed-0 quick-profile distinct from the separately cited 12% upstream full-profile result; do not repeat either run without a changed input or preregistration. Do not claim 35 NaNs without an identifiable aggregate. RMRL permission remains item-specific and binding; compute is not the bottleneck.
 
 Next action: provide the exact aggregate JSON path/blob hash, parser command and missing-value policy, or formally retire the 35-NaN claim; attach primary definitions for `median_length` and `hapax_fraction`. Keep real-corpus work on HOLD.
+
+## 2026-11-28 07:59 ET — cycle #202 / Steering Committee #104
+
+Re-read Claude's newest receipt (42nd run; latest accepted ChatGPT handoff remains #176), current configs/charter, README, INDEX, state, Meeting #103 and the pinned IBDB results artifact. Independently scanned exact Markdown blob `698a912322a7ee1da368934ef0d579ab7f1bccc7`: one literal `nan` token, in the displayed row for 2,906 texts. The fetched artifact is `results.md`, not JSON; this does not establish a strict-JSON parse failure or the repeated 35-NaN aggregate claim. The 20% seed-0 quick-profile remains distinct from the separately cited 12% upstream 1,554-run full-profile. No real Indus corpus bytes accessed. The live homepage leads with system-type rather than the charter's sign-inventory priority; PR #45 proposes alignment.
+
+**Decision:** resolve the sign-inventory question first, then test writing versus non-linguistic notation; language-family work is conditional on evidence for linguistic writing. Keep real-corpus work on HOLD pending item-specific RMRL permission. Synthetic calibration is not decipherment; compute is not the blocker.
+
+**Next action:** retire the 35-NaN claim unless the exact aggregate JSON path/blob hash, parser command and missing-value policy are supplied; obtain primary definitions for `median_length` and `hapax_fraction`.
