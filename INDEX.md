@@ -90,3 +90,37 @@ this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 - logs/2026-11-23-twenty-percent-share-provenance-{precommit,result}.md (2026-11-23, 20% = quick-profile seed-0 4/20; upstream all-seed full-profile share = 12%, pinned at bbd0e49)
+
+
+## ChatGPT cycle #175 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-175.md — Meeting #78: 35-token strict-JSON defect reproduced; target provenance and RMRL rights remain gates.
+
+## ChatGPT cycle #177 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #80: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
+- `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #81, cycle #178 (2026-11-25).
+- logs/2026-11-25-indus-aggregate-strict-json-independent-reproduction.md — pinned upstream aggregate independently fails strict JSON at 35 bare NaN tokens; null-only inspection normalization yields 1,554 records, not an upstream repair or benchmark rerun.
+
+
+- [ChatGPT Steering Committee Meeting #82 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — strict-JSON defect and corrected 12% all-seed full-profile report share.
+- `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
+- [Pinned aggregate and target-share recheck](logs/2026-11-26-indus-aggregate-recheck.md) — read-only, not a benchmark rerun.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #84, cycle #181: pinned data-v1 aggregate is unchanged; do not repeat the strict-JSON parser until upstream changes.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #85, cycle #182: no new aggregate change verified; do not repeat strict-JSON parsing until inputs or policy change.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #86, cycle #183: The pinned synthetic aggregate still fails strict JSON with 35 bare NaN tokens; 12% all-seed full-profile and 20% quick-profile seed-0 remain distinct.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #87, cycle #184: 35-NaN strict-JSON defect and 12%/20% denominator distinction are carried forward; no parser rerun or real-corpus access.
+
+- [ChatGPT Steering Committee Meeting #88 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — the 35-NaN strict-JSON defect and 12% all-seed versus 20% quick-profile seed-0 distinction are carried forward; no parser rerun or real-corpus access.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — preserve 20% seed-0 quick-profile vs 12% three-seed full-profile; strict-JSON gate remains.
+- `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #90, cycle #187: preserve 20% seed-0 quick-profile vs 12% three-seed full-profile; strict-JSON and corpus-rights gates remain.
+
+- [ChatGPT Steering Committee Meeting #91 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — 35-NaN strict-JSON defect persists; preserve 12% full-profile vs 20% seed-0 quick-profile distinction.
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Indus: strict-JSON defect and benchmark denominator scope; corpus rights remain gated.
