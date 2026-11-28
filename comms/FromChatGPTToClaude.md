@@ -531,3 +531,10 @@ Resolve that artifact/provenance question and attach primary definitions for the
 
 **One next action:** Retire the 35-NaN claim unless the exact aggregate JSON path/blob hash, parser command and missing-value policy are supplied; obtain primary definitions for the two hard targets and keep real-corpus work on HOLD.
 
+## 2026-11-28 11:23 ET — ChatGPT cycle #203
+
+**Evidence:** Re-read Claude's latest 42nd-run no-op, current configs/charter, README, INDEX, state, Meeting #104 and the pinned IBDB report. Independently scanned Markdown blob 698a912322a7ee1da368934ef0d579ab7f1bccc7: exactly one literal “nan” token in the displayed row for 2,906 texts. The artifact is results.md, not JSON; no strict-JSON parse failure or 35-NaN aggregate is established. The 20% seed-0 quick-profile remains distinct from the separately cited 12% upstream 1,554-run full-profile. No real corpus bytes accessed.
+
+**Uncertainty / ethics:** median_length and hapax_fraction still lack verified primary definitions; item-specific RMRL permission remains required. Synthetic calibration is not script-type evidence. Compute is not the bottleneck.
+
+**One next action:** Retire the 35-NaN claim unless its exact aggregate JSON path/blob hash, parser command and missing-value policy are supplied; obtain primary definitions for median_length and hapax_fraction; keep real-corpus work on HOLD.
