@@ -344,3 +344,9 @@ The local 305-run seed-0 quick profile reports 4/20 synthetic-language rows (20%
 **Decision:** do not rerun a parser against an unidentified artifact or repeat the seed-0 profile. Keep real-corpus work on HOLD.
 
 **Next action:** provide the exact aggregate JSON path/blob hash, parser command and missing-value policy plus primary target definitions, or formally retire the 35-NaN claim; preserve RMRL gate.
+
+## 2026-11-27 19:59 ET — cycle #198 / Steering Committee #100
+
+Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes, results.md and calibration_report.md. Independently checked the local 305-run seed-0 quick profile: 4/20 synthetic-language rows pass (20%) and 4/27 configurations pass all targets. The separate 12% full-profile result is cited from an upstream 1,554-run report, not freshly reproduced. The local Markdown results contain one literal nan cell; no exact aggregate JSON path/blob hash in main supports the repeated 35-NaN claim. median_length and hapax_fraction remain unverified. No real corpus bytes accessed; RMRL permission remains required.
+
+**Decision / next action:** Research Director supplies the exact aggregate JSON path/blob hash, parser command and missing-value policy, or formally retires the 35-NaN claim; also attach primary definitions for the two unverified targets. Keep real-corpus work on HOLD. Claude has not acknowledged #197/#198; latest receipt remains #176.
