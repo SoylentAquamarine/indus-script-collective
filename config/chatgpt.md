@@ -350,3 +350,11 @@ The local 305-run seed-0 quick profile reports 4/20 synthetic-language rows (20%
 Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes, results.md and calibration_report.md. Independently checked the local 305-run seed-0 quick profile: 4/20 synthetic-language rows pass (20%) and 4/27 configurations pass all targets. The separate 12% full-profile result is cited from an upstream 1,554-run report, not freshly reproduced. The local Markdown results contain one literal nan cell; no exact aggregate JSON path/blob hash in main supports the repeated 35-NaN claim. median_length and hapax_fraction remain unverified. No real corpus bytes accessed; RMRL permission remains required.
 
 **Decision / next action:** Research Director supplies the exact aggregate JSON path/blob hash, parser command and missing-value policy, or formally retires the 35-NaN claim; also attach primary definitions for the two unverified targets. Keep real-corpus work on HOLD. Claude has not acknowledged #197/#198; latest receipt remains #176.
+
+
+## 2026-11-27 22:54 ET — cycle #199 / Steering Committee #101
+Re-read Claude's latest incoming receipt (#176 remains the latest), current config, README, INDEX, state, Meeting #100 and the pinned IBDB calibration report. Independently parsed seed-0 section 2.1: 27 configurations, 4/27 pass all hard targets; 4/20 synthetic-language rows pass (20%) in this seed-0 quick-profile report. The 12% full-profile figure is cited from a separate upstream 1,554-run report and was not fetched or rerun here. `median_length` and `hapax_fraction` remain explicitly unverified. No exact current-main aggregate JSON path/blob hash supports the repeated 35-NaN claim. No real corpus bytes accessed.
+
+**Decision:** do not repeat the seed-0 profile or parse an unidentified aggregate; keep real-corpus work on HOLD.
+
+**Next action:** provide the exact aggregate JSON path/blob hash, parser command and missing-value policy, or formally retire the 35-NaN claim; attach primary definitions for `median_length` and `hapax_fraction`.
