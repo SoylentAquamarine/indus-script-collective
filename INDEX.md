@@ -90,3 +90,36 @@ this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 - logs/2026-11-23-twenty-percent-share-provenance-{precommit,result}.md (2026-11-23, 20% = quick-profile seed-0 4/20; upstream all-seed full-profile share = 12%, pinned at bbd0e49)
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: independently parsed 7/60 full-profile aggregate; inventory-first priority clarified.
+
+- `logs/2026-11-24-aggregate-json-strictness-audit.md` — pinned upstream aggregate has 35 bare NaN tokens; strict JSON parsing fails; unverified median/hapax targets remain hard in full profile.
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: records aggregate-format and calibration-provenance audit.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: strict JSON failure independently reproduced; unverified hard targets remain explicit.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: strict-JSON failure and unverified hard-target provenance rechecked; no real-corpus access.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: retained strict-JSON and unverified-target blockers; no real-corpus access or redundant rerun.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: Pinned aggregate fails strict JSON parsing on 35 bare NaN tokens; median/hapax targets remain unverified and hard.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #73; evidence, uncertainty, ethics, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #74; project-specific evidence, uncertainty, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #171
+- `steering/meetings/chatgpt-2026-11-25-cycle-171.md` — Steering Committee Meeting #75; project-specific goal, evidence, falsification, ethics, compute and next action.
+
+## ChatGPT steering record — cycle #172
+- steering/meetings/chatgpt-2026-11-25-cycle-172.md — project-specific Steering Committee Meeting; evidence, falsification, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #173
+- `steering/meetings/chatgpt-2026-11-25-cycle-173.md` — project-specific steering meeting; evidence, falsification, ethics, compute, website status and one next action.

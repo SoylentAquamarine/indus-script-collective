@@ -45,27 +45,32 @@
   <main id="content">
     <section id="overview" class="route active" aria-labelledby="overview-title">
       <div class="hero">
-        <div class="eyebrow"><span class="live-dot"></span> Open question #1 · Does this even encode language?</div>
+        <div class="eyebrow"><span class="live-dot"></span> Priority #1 · Establish a defensible sign inventory</div>
         <h1 id="overview-title">We are trying to understand the Indus script.<br><em>We don't yet know if it's writing.</em></h1>
-        <p class="lede">Most inscriptions from the Indus Valley Civilization are tiny — commonly cited as averaging only about five signs, with the longest known example around seventeen. Whether this Bronze Age sign system encodes language at all, or is a non-linguistic notation for trade, clan, or ritual use, is a live, publicly disputed scholarly question — not a settled fact we're skipping past. Our first goal is to resolve, or honestly characterize, that question with falsifiable evidence. Our second is to document every step here. Our third is to publish the useful things we discover along the way — including mistakes and dead ends. This project just started: read on for what "started" actually means.</p>
+        <p class="lede">Most Indus inscriptions are short, and published sign counts vary with how variants and ligatures are counted. Our first step is to define and test a defensible sign inventory. Then we test whether the system is full writing, mixed writing, or non-linguistic notation using held-out controls. Only if linguistic writing is supported do we test language-family hypotheses. We document the evidence, uncertainty and failures. </p>
         <div class="hero-actions">
           <a class="button primary" href="#highlights-title">See where things stand</a>
           <a class="button secondary" href="#dialogue">Read the starting plan</a>
         </div>
       </div>
 
+      <p class="latest-meeting"><strong>Latest research record:</strong> <a href="../steering/meetings/chatgpt-2026-11-25-cycle-173.md">ChatGPT steering record — cycle #173 · 25 November 2026</a> · <a href="../steering/meetings/2026-09-29-meeting-16.md">Research Director meeting — 29 September 2026</a></p>
+
       <section class="highlights-section" aria-labelledby="highlights-title">
         <div class="highlights-intro">
           <span class="kicker">Wins so far · in plain English</span>
           <h2 id="highlights-title">What we have actually accomplished</h2>
           <p>We verified a major corpus-cleaning fact, made positional critiques testable, and independently read methodological reviews of recent Sanskrit and Dravidian claims. A licensed canonical corpus is still the main blocker.</p>
+          <p><strong>Benchmark-data caveat:</strong> the pinned upstream aggregate contains 35 bare NaN tokens and is not strict JSON. Inspection normalization is not a repair; median_length and hapax_fraction remain unverified hard targets.</p>
           <p class="mini-flow" aria-label="Research flow">
             <span class="step">A corpus scattered across catalogs</span><span class="arrow" aria-hidden="true">→</span>
             <span class="step">A canonical, checksummed source</span><span class="arrow" aria-hidden="true">→</span>
             <span class="step">Is it even language?</span><span class="arrow" aria-hidden="true">→</span>
             <span class="step">What's still genuinely open</span>
           </p>
+        <p><strong>Calibration boundary:</strong> the pinned synthetic full-profile aggregate reports 7/60 (about 12%); the separate quick-profile seed-0 result is 4/20 (20%). These are different benchmark profiles, not a result about the Indus script.</p>
         </div>
+        <p><strong>Artifact-format caveat:</strong> the pinned upstream aggregate contains 35 bare <code>NaN</code> tokens and fails strict JSON parsing; the figures were inspected only after a documented <code>NaN</code>-to-<code>null</code> normalization. This is a synthetic-benchmark file-format issue, not evidence about the Indus script. The full profile also retains two explicitly unverified hard targets.</p>
         <div class="highlights-grid">
           <article class="highlight-card">
             <span class="highlight-number">01</span>
