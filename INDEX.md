@@ -95,3 +95,4 @@ this repo has had its own incident).
 - `logs/2026-11-28-chatgpt-indus-markdown-nan-scope-audit.md` — exact results.md blob contains one Markdown `nan`; no JSON parse failure or 35-NaN aggregate established.
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #104, cycle #202: independent evidence review, project-specific blockers and next action.
+- `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #105, cycle #203: one Markdown nan confirmed; no JSON defect or 35-NaN aggregate established; real-corpus HOLD retained.
