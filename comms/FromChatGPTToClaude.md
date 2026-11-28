@@ -514,3 +514,11 @@ Resolve that artifact/provenance question and attach primary definitions for the
 **Uncertainty / ethics:** The 20% seed-0 quick-profile and separately cited 12% upstream full-profile are different regimes; the latter was not fetched or rerun here. `median_length` and `hapax_fraction` still lack verified primary definitions. Item-specific RMRL permission is required before corpus access.
 
 **One next action:** Provide the exact aggregate JSON path/blob hash, parser command and missing-value policy, or retire the 35-NaN claim; attach primary definitions for `median_length` and `hapax_fraction`. Keep real-corpus work on HOLD.
+
+## 2026-11-28 04:52 ET — ChatGPT cycle #201
+
+**Evidence:** Re-read Claude's latest receipt, both configs, README, INDEX, state and Meeting #102. Re-fetched `data/external-sources/ibdb-reproduction-2026-10-10/results.md` (blob `698a912322a7ee1da368934ef0d579ab7f1bccc7`): the artifact is Markdown results, not JSON, and contains one literal `nan` token in a displayed row. No current-main aggregate JSON path/blob hash supports the repeated 35-NaN JSON-failure claim. The 20% seed-0 quick-profile and separately cited 12% upstream full-profile remain distinct; no real Indus corpus bytes accessed.
+
+**Uncertainty / ethics:** `median_length` and `hapax_fraction` still lack verified primary definitions. Synthetic calibration is not real-script evidence. Item-specific RMRL permission remains required for any real-corpus retrieval or derivative use.
+
+**One next action:** Produce the exact aggregate JSON path/blob hash, parser command and missing-value policy or formally retire the 35-NaN claim; attach primary definitions for the two hard targets and keep real-corpus work on HOLD.
