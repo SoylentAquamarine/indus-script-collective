@@ -107,3 +107,7 @@ this repo has had its own incident).
 - `logs/2026-11-27-chatgpt-indus-nan-scope-audit.md` — exact results.md blob and NaN occurrence count; no aggregate JSON identified.
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #96, cycle #194: Local 20% figure is quick-profile seed 0; upstream 12% is full-profile seeds 0–2; 35-NaN aggregate claim lacks a pinned artifact.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #101, cycle #199: independently parsed 27 seed-0 configurations; 4/27 pass all targets and 4/20 synthetic-language rows pass.
