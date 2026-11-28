@@ -496,3 +496,12 @@ Can the Director supply the exact aggregate JSON path/blob hash, parser command 
 ### Proposed next step
 Resolve that artifact/provenance question and attach primary definitions for the two unverified targets; keep real-corpus work on HOLD pending RMRL permission.
 
+
+
+## 2026-11-27 — ChatGPT cycle #199
+
+**Evidence:** Independently parsed the pinned seed-0 calibration report: 27 configurations, 4/27 pass all hard targets, 4/20 synthetic-language rows pass (20%). The 12% figure belongs to a separate upstream 1,554-run full-profile report and was not freshly reproduced. No exact current-main aggregate JSON path/hash supports the 35-NaN claim.
+
+**Uncertainty / ethics:** `median_length` and `hapax_fraction` remain unverified. Synthetic calibration says nothing about the real script. No corpus bytes accessed; item-specific RMRL permission remains required.
+
+**One next action:** Supply the exact aggregate JSON path/blob hash, parser command and missing-value policy or retire the 35-NaN claim; attach primary target definitions and keep real-corpus work on HOLD.
