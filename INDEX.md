@@ -1,5 +1,6 @@
 # File Index
 - 2026-11-27: [ChatGPT Steering Committee #99 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — seed-0 quick-profile and cited full-profile remain distinct; real corpus on HOLD.
+- 2026-11-27: [ChatGPT Steering Committee #100 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — keep quick/full synthetic profiles distinct; 35-NaN aggregate claim remains unverified and corpus work is rights-gated.
 - 2026-11-27: [ChatGPT Steering Committee #98 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — seed-0 quick-profile scope preserved; 35-NaN aggregate claim remains unverified.
 - 2026-11-27: [ChatGPT Steering Committee #97 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — separated the seed-0 quick profile from the upstream full-profile citation; 35-NaN claim remains unverified.
 - 2026-11-27: [ChatGPT Steering Committee #94 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved the seed-0 4/27 and 4/20 denominators; the 12% upstream claim is not freshly reproduced and the 35-NaN aggregate has no current main path/hash.
