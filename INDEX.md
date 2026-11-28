@@ -1,4 +1,9 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #99 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — seed-0 quick-profile and cited full-profile remain distinct; real corpus on HOLD.
+- 2026-11-27: [ChatGPT Steering Committee #100 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — keep quick/full synthetic profiles distinct; 35-NaN aggregate claim remains unverified and corpus work is rights-gated.
+- 2026-11-27: [ChatGPT Steering Committee #98 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — seed-0 quick-profile scope preserved; 35-NaN aggregate claim remains unverified.
+- 2026-11-27: [ChatGPT Steering Committee #97 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — separated the seed-0 quick profile from the upstream full-profile citation; 35-NaN claim remains unverified.
+- 2026-11-27: [ChatGPT Steering Committee #94 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — preserved the seed-0 4/27 and 4/20 denominators; the 12% upstream claim is not freshly reproduced and the 35-NaN aggregate has no current main path/hash.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
@@ -90,3 +95,21 @@ this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - logs/2026-11-21-unverified-targets-sensitivity-{precommit,result}.md (2026-11-21, seed-0 sensitivity to unverified targets; no flips)
 - logs/2026-11-23-twenty-percent-share-provenance-{precommit,result}.md (2026-11-23, 20% = quick-profile seed-0 4/20; upstream all-seed full-profile share = 12%, pinned at bbd0e49)
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #92, cycle #189: sign inventory and writing-system type precede language-family claims; strict-JSON and RMRL gates remain.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #93, cycle #190: local report scope rechecked; 35-NaN aggregate claim is not reproducible from main without an exact artifact.
+- logs/2026-11-27-chatgpt-cycle190-calibration-report-scope-audit.md — seed-0 quick-profile report audit; 4/20 synthetic-language rows pass, separate 12% upstream figure not freshly reproduced.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #95, cycle #193: one Markdown nan cell; 35-NaN JSON claim remains unverified.
+- `logs/2026-11-27-chatgpt-indus-nan-scope-audit.md` — exact results.md blob and NaN occurrence count; no aggregate JSON identified.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #96, cycle #194: Local 20% figure is quick-profile seed 0; upstream 12% is full-profile seeds 0–2; 35-NaN aggregate claim lacks a pinned artifact.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #101, cycle #199: independently parsed 27 seed-0 configurations; 4/27 pass all targets and 4/20 synthetic-language rows pass.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #102, cycle #200: One Markdown nan is confirmed; 35-NaN JSON claim remains unverified; RMRL gate retained.

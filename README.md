@@ -53,7 +53,9 @@ Every specific factual claim used to ground this framework (corpus size, average
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to the Indus script's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization and sign-inventory reconciliation (`config/sidequests.md`, SQ-1 and SQ-2) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. Current priority is sign-inventory/system-type work and benchmark provenance. The local report is a seed-0 quick profile: 4/27 configurations pass all ten targets and 4/20 synthetic-language rows pass. The separate 12% upstream full-profile figure is cited, not freshly reproduced; no current-main aggregate path/hash supports the repeated 35-NaN claim. Real-corpus work remains on HOLD pending item-specific RMRL permission.
+
+See `knowledge-base/state.md`, `INDEX.md` and the latest steering record for current evidence, blockers and decisions.
 
 ## Public research site
 
